@@ -1,0 +1,320 @@
+{
+  "training": {
+    "total_samples": 120,
+    "n_skills_trained": 20,
+    "epochs_trained": 25,
+    "final_loss": 0.13557901978492737,
+    "final_mae": 0.3025445342063904,
+    "normalization_params": {
+      "Python": {
+        "min": 1.0,
+        "max": 4.0
+      },
+      "Docker": {
+        "min": 0.0,
+        "max": 4.0
+      },
+      "AWS": {
+        "min": 0.0,
+        "max": 4.0
+      },
+      "Kubernetes": {
+        "min": 0.0,
+        "max": 3.0
+      },
+      "CI/CD": {
+        "min": 0.0,
+        "max": 3.0
+      },
+      "Git": {
+        "min": 0.0,
+        "max": 3.0
+      },
+      "SQL": {
+        "min": 0.0,
+        "max": 3.0
+      },
+      "GCP": {
+        "min": 0.0,
+        "max": 3.0
+      },
+      "PyTorch": {
+        "min": 0.0,
+        "max": 2.0
+      },
+      "TensorFlow": {
+        "min": 0.0,
+        "max": 2.0
+      },
+      "Airflow": {
+        "min": 0.0,
+        "max": 2.0
+      },
+      "Linux": {
+        "min": 0.0,
+        "max": 2.0
+      },
+      "NLP": {
+        "min": 0.0,
+        "max": 2.0
+      },
+      "Agile": {
+        "min": 0.0,
+        "max": 1.0
+      },
+      "Classification": {
+        "min": 0.0,
+        "max": 2.0
+      },
+      "Deep Learning": {
+        "min": 0.0,
+        "max": 1.0
+      },
+      "Pandas": {
+        "min": 0.0,
+        "max": 2.0
+      },
+      "Spark": {
+        "min": 0.0,
+        "max": 3.0
+      },
+      "GitHub": {
+        "min": 0.0,
+        "max": 2.0
+      },
+      "GitHub Actions": {
+        "min": 0.0,
+        "max": 2.0
+      }
+    }
+  },
+  "forecasts": [
+    {
+      "skill": "Docker",
+      "current_demand": 0.0,
+      "forecast_month_1": 1.53,
+      "forecast_month_2": 1.54,
+      "forecast_month_3": 1.54,
+      "avg_forecast": 1.53,
+      "future_growth_score": 1.534
+    },
+    {
+      "skill": "Python",
+      "current_demand": 1.0,
+      "forecast_month_1": 2.16,
+      "forecast_month_2": 2.17,
+      "forecast_month_3": 2.16,
+      "avg_forecast": 2.16,
+      "future_growth_score": 1.164
+    },
+    {
+      "skill": "Kubernetes",
+      "current_demand": 0.0,
+      "forecast_month_1": 1.14,
+      "forecast_month_2": 1.14,
+      "forecast_month_3": 1.16,
+      "avg_forecast": 1.15,
+      "future_growth_score": 1.146
+    },
+    {
+      "skill": "GCP",
+      "current_demand": 0.0,
+      "forecast_month_1": 1.11,
+      "forecast_month_2": 1.11,
+      "forecast_month_3": 1.13,
+      "avg_forecast": 1.12,
+      "future_growth_score": 1.12
+    },
+    {
+      "skill": "Git",
+      "current_demand": 0.0,
+      "forecast_month_1": 1.08,
+      "forecast_month_2": 1.09,
+      "forecast_month_3": 1.11,
+      "avg_forecast": 1.09,
+      "future_growth_score": 1.092
+    },
+    {
+      "skill": "CI/CD",
+      "current_demand": 0.0,
+      "forecast_month_1": 1.06,
+      "forecast_month_2": 1.08,
+      "forecast_month_3": 1.11,
+      "avg_forecast": 1.08,
+      "future_growth_score": 1.084
+    },
+    {
+      "skill": "Linux",
+      "current_demand": 0.0,
+      "forecast_month_1": 0.7,
+      "forecast_month_2": 0.71,
+      "forecast_month_3": 0.73,
+      "avg_forecast": 0.71,
+      "future_growth_score": 0.714
+    },
+    {
+      "skill": "GitHub Actions",
+      "current_demand": 0.0,
+      "forecast_month_1": 0.67,
+      "forecast_month_2": 0.69,
+      "forecast_month_3": 0.7,
+      "avg_forecast": 0.69,
+      "future_growth_score": 0.687
+    },
+    {
+      "skill": "GitHub",
+      "current_demand": 0.0,
+      "forecast_month_1": 0.67,
+      "forecast_month_2": 0.69,
+      "forecast_month_3": 0.7,
+      "avg_forecast": 0.69,
+      "future_growth_score": 0.687
+    },
+    {
+      "skill": "SQL",
+      "current_demand": 1.0,
+      "forecast_month_1": 1.05,
+      "forecast_month_2": 1.08,
+      "forecast_month_3": 1.08,
+      "avg_forecast": 1.07,
+      "future_growth_score": 0.07
+    },
+    {
+      "skill": "Spark",
+      "current_demand": 1.0,
+      "forecast_month_1": 1.0,
+      "forecast_month_2": 1.0,
+      "forecast_month_3": 1.0,
+      "avg_forecast": 1.0,
+      "future_growth_score": -0.003
+    },
+    {
+      "skill": "PyTorch",
+      "current_demand": 1.0,
+      "forecast_month_1": 0.77,
+      "forecast_month_2": 0.76,
+      "forecast_month_3": 0.75,
+      "avg_forecast": 0.76,
+      "future_growth_score": -0.238
+    },
+    {
+      "skill": "TensorFlow",
+      "current_demand": 1.0,
+      "forecast_month_1": 0.77,
+      "forecast_month_2": 0.76,
+      "forecast_month_3": 0.75,
+      "avg_forecast": 0.76,
+      "future_growth_score": -0.238
+    },
+    {
+      "skill": "Pandas",
+      "current_demand": 1.0,
+      "forecast_month_1": 0.74,
+      "forecast_month_2": 0.76,
+      "forecast_month_3": 0.73,
+      "avg_forecast": 0.74,
+      "future_growth_score": -0.255
+    },
+    {
+      "skill": "AWS",
+      "current_demand": 2.0,
+      "forecast_month_1": 1.45,
+      "forecast_month_2": 1.48,
+      "forecast_month_3": 1.52,
+      "avg_forecast": 1.48,
+      "future_growth_score": -0.259
+    },
+    {
+      "skill": "Airflow",
+      "current_demand": 1.0,
+      "forecast_month_1": 0.71,
+      "forecast_month_2": 0.71,
+      "forecast_month_3": 0.73,
+      "avg_forecast": 0.72,
+      "future_growth_score": -0.281
+    },
+    {
+      "skill": "Classification",
+      "current_demand": 1.0,
+      "forecast_month_1": 0.71,
+      "forecast_month_2": 0.71,
+      "forecast_month_3": 0.7,
+      "avg_forecast": 0.71,
+      "future_growth_score": -0.292
+    },
+    {
+      "skill": "NLP",
+      "current_demand": 1.0,
+      "forecast_month_1": 0.73,
+      "forecast_month_2": 0.7,
+      "forecast_month_3": 0.68,
+      "avg_forecast": 0.71,
+      "future_growth_score": -0.295
+    },
+    {
+      "skill": "Deep Learning",
+      "current_demand": 1.0,
+      "forecast_month_1": 0.43,
+      "forecast_month_2": 0.42,
+      "forecast_month_3": 0.41,
+      "avg_forecast": 0.42,
+      "future_growth_score": -0.58
+    },
+    {
+      "skill": "Agile",
+      "current_demand": 1.0,
+      "forecast_month_1": 0.4,
+      "forecast_month_2": 0.4,
+      "forecast_month_3": 0.41,
+      "avg_forecast": 0.4,
+      "future_growth_score": -0.599
+    }
+  ],
+  "top_emerging": [
+    {
+      "skill": "Docker",
+      "current_demand": 0.0,
+      "forecast_month_1": 1.53,
+      "forecast_month_2": 1.54,
+      "forecast_month_3": 1.54,
+      "avg_forecast": 1.53,
+      "future_growth_score": 1.534
+    },
+    {
+      "skill": "Python",
+      "current_demand": 1.0,
+      "forecast_month_1": 2.16,
+      "forecast_month_2": 2.17,
+      "forecast_month_3": 2.16,
+      "avg_forecast": 2.16,
+      "future_growth_score": 1.164
+    },
+    {
+      "skill": "Kubernetes",
+      "current_demand": 0.0,
+      "forecast_month_1": 1.14,
+      "forecast_month_2": 1.14,
+      "forecast_month_3": 1.16,
+      "avg_forecast": 1.15,
+      "future_growth_score": 1.146
+    },
+    {
+      "skill": "GCP",
+      "current_demand": 0.0,
+      "forecast_month_1": 1.11,
+      "forecast_month_2": 1.11,
+      "forecast_month_3": 1.13,
+      "avg_forecast": 1.12,
+      "future_growth_score": 1.12
+    },
+    {
+      "skill": "Git",
+      "current_demand": 0.0,
+      "forecast_month_1": 1.08,
+      "forecast_month_2": 1.09,
+      "forecast_month_3": 1.11,
+      "avg_forecast": 1.09,
+      "future_growth_score": 1.092
+    }
+  ]
+}

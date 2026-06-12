@@ -1,0 +1,6489 @@
+{
+  "nodes": [
+    {
+      "id": "Python",
+      "label": "Python",
+      "frequency": 377,
+      "avg_salary": 151336.9956521739,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Dataannotation",
+        "Fidelity Investments"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 46.5,
+        "Not Specified": 30.4,
+        "Entry level": 14.5,
+        "Associate": 5.5,
+        "Internship": 1.3,
+        "Director": 1.0,
+        "Executive": 0.8
+      },
+      "degree": 29,
+      "degree_centrality": 0.218,
+      "betweenness_centrality": 0.0303,
+      "eigenvector_centrality": 0.2479,
+      "community": 0
+    },
+    {
+      "id": "AWS",
+      "label": "AWS",
+      "frequency": 242,
+      "avg_salary": 154077.23484848486,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Fidelity Investments",
+        "Apex Systems"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 50.0,
+        "Not Specified": 28.2,
+        "Entry level": 14.9,
+        "Associate": 4.8,
+        "Executive": 0.8,
+        "Director": 0.8,
+        "Internship": 0.4
+      },
+      "degree": 29,
+      "degree_centrality": 0.218,
+      "betweenness_centrality": 0.0193,
+      "eigenvector_centrality": 0.3027,
+      "community": 0
+    },
+    {
+      "id": "Azure",
+      "label": "Azure",
+      "frequency": 221,
+      "avg_salary": 151714.28262295082,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Apex Systems",
+        "Raas Infotek"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 56.8,
+        "Not Specified": 23.3,
+        "Entry level": 11.5,
+        "Associate": 5.3,
+        "Director": 1.8,
+        "Internship": 0.9,
+        "Executive": 0.4
+      },
+      "degree": 28,
+      "degree_centrality": 0.2105,
+      "betweenness_centrality": 0.0275,
+      "eigenvector_centrality": 0.2698,
+      "community": 0
+    },
+    {
+      "id": "SQL",
+      "label": "SQL",
+      "frequency": 363,
+      "avg_salary": 126840.16094827586,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Dataannotation",
+        "Compunnel Inc."
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 47.9,
+        "Not Specified": 31.8,
+        "Entry level": 11.8,
+        "Associate": 7.8,
+        "Director": 0.5,
+        "Internship": 0.3
+      },
+      "degree": 27,
+      "degree_centrality": 0.203,
+      "betweenness_centrality": 0.0415,
+      "eigenvector_centrality": 0.1874,
+      "community": 0
+    },
+    {
+      "id": "Kafka",
+      "label": "Kafka",
+      "frequency": 49,
+      "avg_salary": 151664.0,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Wells Fargo",
+        "Ice",
+        "Capital One"
+      ],
+      "experience_dist": {
+        "Not Specified": 44.9,
+        "Mid-Senior level": 38.8,
+        "Entry level": 8.2,
+        "Director": 6.1,
+        "Associate": 2.0
+      },
+      "degree": 27,
+      "degree_centrality": 0.203,
+      "betweenness_centrality": 0.0376,
+      "eigenvector_centrality": 0.143,
+      "community": 1
+    },
+    {
+      "id": "Java",
+      "label": "Java",
+      "frequency": 212,
+      "avg_salary": 144304.02459016393,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Apex Systems",
+        "Fidelity Investments"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 46.4,
+        "Not Specified": 33.2,
+        "Entry level": 12.7,
+        "Associate": 4.5,
+        "Director": 1.8,
+        "Executive": 0.9,
+        "Internship": 0.5
+      },
+      "degree": 26,
+      "degree_centrality": 0.1955,
+      "betweenness_centrality": 0.0272,
+      "eigenvector_centrality": 0.2541,
+      "community": 0
+    },
+    {
+      "id": "Kubernetes",
+      "label": "Kubernetes",
+      "frequency": 110,
+      "avg_salary": 158793.6576470588,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Allyon, Inc.",
+        "Discover Financial Services"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 59.1,
+        "Not Specified": 22.7,
+        "Entry level": 12.7,
+        "Associate": 3.6,
+        "Director": 1.8
+      },
+      "degree": 25,
+      "degree_centrality": 0.188,
+      "betweenness_centrality": 0.0084,
+      "eigenvector_centrality": 0.3075,
+      "community": 0
+    },
+    {
+      "id": "Docker",
+      "label": "Docker",
+      "frequency": 98,
+      "avg_salary": 145372.4744,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Hays",
+        "Allyon, Inc."
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 62.2,
+        "Not Specified": 20.4,
+        "Entry level": 11.2,
+        "Associate": 5.1,
+        "Director": 1.0
+      },
+      "degree": 24,
+      "degree_centrality": 0.1805,
+      "betweenness_centrality": 0.0144,
+      "eigenvector_centrality": 0.2971,
+      "community": 0
+    },
+    {
+      "id": "CI/CD",
+      "label": "CI/CD",
+      "frequency": 118,
+      "avg_salary": 135367.32153846155,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Fidelity Investments",
+        "Motion Recruitment",
+        "Caci International Inc"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 48.3,
+        "Not Specified": 35.8,
+        "Entry level": 10.8,
+        "Associate": 4.2,
+        "Director": 0.8
+      },
+      "degree": 23,
+      "degree_centrality": 0.1729,
+      "betweenness_centrality": 0.0006,
+      "eigenvector_centrality": 0.2628,
+      "community": 0
+    },
+    {
+      "id": "Agile",
+      "label": "Agile",
+      "frequency": 337,
+      "avg_salary": 124854.5663265306,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Apex Systems",
+        "Dice"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 52.5,
+        "Not Specified": 25.7,
+        "Entry level": 13.3,
+        "Associate": 5.6,
+        "Director": 2.8
+      },
+      "degree": 22,
+      "degree_centrality": 0.1654,
+      "betweenness_centrality": 0.01,
+      "eigenvector_centrality": 0.2122,
+      "community": 0
+    },
+    {
+      "id": "Microservices",
+      "label": "Microservices",
+      "frequency": 82,
+      "avg_salary": 148179.375,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Raas Infotek",
+        "Cognizant"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 54.9,
+        "Not Specified": 24.4,
+        "Entry level": 12.2,
+        "Director": 4.9,
+        "Associate": 2.4,
+        "Executive": 1.2
+      },
+      "degree": 21,
+      "degree_centrality": 0.1579,
+      "betweenness_centrality": 0.0097,
+      "eigenvector_centrality": 0.1929,
+      "community": 0
+    },
+    {
+      "id": "Git",
+      "label": "Git",
+      "frequency": 105,
+      "avg_salary": 119124.37142857142,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Software Development",
+        "Financial Services"
+      ],
+      "top_companies": [
+        "Synechron",
+        "Caci International Inc",
+        "Raas Infotek"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 56.2,
+        "Not Specified": 29.5,
+        "Entry level": 7.6,
+        "Associate": 6.7
+      },
+      "degree": 21,
+      "degree_centrality": 0.1579,
+      "betweenness_centrality": 0.0041,
+      "eigenvector_centrality": 0.1883,
+      "community": 0
+    },
+    {
+      "id": "Spark",
+      "label": "Spark",
+      "frequency": 49,
+      "avg_salary": 237307.11111111112,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "The Judge Group",
+        "Smart It Frame Llc",
+        "Capital One"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 52.0,
+        "Not Specified": 30.0,
+        "Entry level": 10.0,
+        "Associate": 4.0,
+        "Executive": 2.0,
+        "Director": 2.0
+      },
+      "degree": 20,
+      "degree_centrality": 0.1504,
+      "betweenness_centrality": 0.0113,
+      "eigenvector_centrality": 0.0938,
+      "community": 1
+    },
+    {
+      "id": "Jenkins",
+      "label": "Jenkins",
+      "frequency": 68,
+      "avg_salary": 122881.125,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Banking"
+      ],
+      "top_companies": [
+        "Fidelity Investments",
+        "Synechron",
+        "Compunnel Inc."
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 51.5,
+        "Not Specified": 33.8,
+        "Entry level": 10.3,
+        "Associate": 2.9,
+        "Director": 1.5
+      },
+      "degree": 20,
+      "degree_centrality": 0.1504,
+      "betweenness_centrality": 0.0008,
+      "eigenvector_centrality": 0.1988,
+      "community": 0
+    },
+    {
+      "id": "JavaScript",
+      "label": "JavaScript",
+      "frequency": 146,
+      "avg_salary": 124500.26923076923,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Software Development",
+        "Financial Services"
+      ],
+      "top_companies": [
+        "Dataannotation",
+        "Apex Systems",
+        "Fidelity Investments"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 41.5,
+        "Not Specified": 40.8,
+        "Entry level": 16.3,
+        "Associate": 1.4
+      },
+      "degree": 19,
+      "degree_centrality": 0.1429,
+      "betweenness_centrality": 0.0072,
+      "eigenvector_centrality": 0.165,
+      "community": 0
+    },
+    {
+      "id": "Scala",
+      "label": "Scala",
+      "frequency": 32,
+      "avg_salary": 141272.8,
+      "top_industries": [
+        "Financial Services",
+        "IT Services and IT Consulting",
+        "Information Technology & Services"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Dexian",
+        "Ascentt"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 59.4,
+        "Not Specified": 28.1,
+        "Entry level": 9.4,
+        "Associate": 3.1
+      },
+      "degree": 19,
+      "degree_centrality": 0.1429,
+      "betweenness_centrality": 0.0944,
+      "eigenvector_centrality": 0.0784,
+      "community": 1
+    },
+    {
+      "id": "TensorFlow",
+      "label": "TensorFlow",
+      "frequency": 21,
+      "avg_salary": 173953.83333333334,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Software Development",
+        "Financial Services"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Ascentt",
+        "Source One Technical Solutions"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 61.9,
+        "Not Specified": 19.0,
+        "Entry level": 9.5,
+        "Executive": 4.8,
+        "Associate": 4.8
+      },
+      "degree": 18,
+      "degree_centrality": 0.1353,
+      "betweenness_centrality": 0.0482,
+      "eigenvector_centrality": 0.0171,
+      "community": 2
+    },
+    {
+      "id": "Linux",
+      "label": "Linux",
+      "frequency": 137,
+      "avg_salary": 128664.53191489361,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Software Development",
+        "Financial Services"
+      ],
+      "top_companies": [
+        "Apex Systems",
+        "Dice",
+        "Oracle"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 49.3,
+        "Not Specified": 23.9,
+        "Entry level": 20.4,
+        "Associate": 5.6,
+        "Director": 0.7
+      },
+      "degree": 17,
+      "degree_centrality": 0.1278,
+      "betweenness_centrality": 0.0087,
+      "eigenvector_centrality": 0.1352,
+      "community": 0
+    },
+    {
+      "id": "Ansible",
+      "label": "Ansible",
+      "frequency": 49,
+      "avg_salary": 179741.875,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Information Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Vdart",
+        "Piper Companies",
+        "Wells Fargo"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 59.2,
+        "Not Specified": 16.3,
+        "Entry level": 16.3,
+        "Associate": 6.1,
+        "Director": 2.0
+      },
+      "degree": 17,
+      "degree_centrality": 0.1278,
+      "betweenness_centrality": 0.0014,
+      "eigenvector_centrality": 0.1527,
+      "community": 0
+    },
+    {
+      "id": "Terraform",
+      "label": "Terraform",
+      "frequency": 63,
+      "avg_salary": 141903.36111111112,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Software Development",
+        "Financial Services"
+      ],
+      "top_companies": [
+        "Tekgence Inc",
+        "Collabera",
+        "Stratitech"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 47.6,
+        "Not Specified": 27.0,
+        "Entry level": 17.5,
+        "Associate": 7.9
+      },
+      "degree": 17,
+      "degree_centrality": 0.1278,
+      "betweenness_centrality": 0.0009,
+      "eigenvector_centrality": 0.1884,
+      "community": 0
+    },
+    {
+      "id": "GCP",
+      "label": "GCP",
+      "frequency": 62,
+      "avg_salary": 162182.14285714287,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Elevance Health",
+        "Brooksource"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 62.5,
+        "Not Specified": 20.3,
+        "Entry level": 10.9,
+        "Associate": 4.7,
+        "Director": 1.6
+      },
+      "degree": 17,
+      "degree_centrality": 0.1278,
+      "betweenness_centrality": 0.0199,
+      "eigenvector_centrality": 0.1528,
+      "community": 0
+    },
+    {
+      "id": "PyTorch",
+      "label": "PyTorch",
+      "frequency": 20,
+      "avg_salary": 176360.5625,
+      "top_industries": [
+        "Software Development",
+        "IT Services and IT Consulting",
+        "Financial Services"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Source One Technical Solutions",
+        "Headway Tek Inc"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 70.0,
+        "Not Specified": 15.0,
+        "Executive": 5.0,
+        "Entry level": 5.0,
+        "Associate": 5.0
+      },
+      "degree": 17,
+      "degree_centrality": 0.1278,
+      "betweenness_centrality": 0.0027,
+      "eigenvector_centrality": 0.0149,
+      "community": 2
+    },
+    {
+      "id": "Snowflake",
+      "label": "Snowflake",
+      "frequency": 31,
+      "avg_salary": 106142.85714285714,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Information Services"
+      ],
+      "top_companies": [
+        "Ascentt",
+        "Galactic Minds Inc",
+        "Compunnel Inc."
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 48.4,
+        "Not Specified": 25.8,
+        "Associate": 12.9,
+        "Entry level": 12.9
+      },
+      "degree": 16,
+      "degree_centrality": 0.1203,
+      "betweenness_centrality": 0.0238,
+      "eigenvector_centrality": 0.034,
+      "community": 1
+    },
+    {
+      "id": "Databricks",
+      "label": "Databricks",
+      "frequency": 28,
+      "avg_salary": 874962.6666666666,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Staffing and Recruiting",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Smart It Frame Llc",
+        "Koantek",
+        "Galactic Minds Inc"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 64.3,
+        "Entry level": 17.9,
+        "Not Specified": 10.7,
+        "Associate": 7.1
+      },
+      "degree": 16,
+      "degree_centrality": 0.1203,
+      "betweenness_centrality": 0.0407,
+      "eigenvector_centrality": 0.0423,
+      "community": 1
+    },
+    {
+      "id": "Google Cloud",
+      "label": "Google Cloud",
+      "frequency": 39,
+      "avg_salary": 155818.75,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Piper Companies",
+        "Ascentt"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 61.5,
+        "Not Specified": 17.9,
+        "Entry level": 12.8,
+        "Associate": 5.1,
+        "Executive": 2.6
+      },
+      "degree": 15,
+      "degree_centrality": 0.1128,
+      "betweenness_centrality": 0.0072,
+      "eigenvector_centrality": 0.1118,
+      "community": 0
+    },
+    {
+      "id": "Bash",
+      "label": "Bash",
+      "frequency": 49,
+      "avg_salary": 144248.375,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Software Development",
+        "Banking"
+      ],
+      "top_companies": [
+        "Apex Systems",
+        "Stratitech",
+        "Motion Recruitment"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 53.1,
+        "Not Specified": 24.5,
+        "Entry level": 14.3,
+        "Associate": 6.1,
+        "Director": 2.0
+      },
+      "degree": 15,
+      "degree_centrality": 0.1128,
+      "betweenness_centrality": 0.008,
+      "eigenvector_centrality": 0.116,
+      "community": 0
+    },
+    {
+      "id": "Shell",
+      "label": "Shell",
+      "frequency": 50,
+      "avg_salary": 124902.97368421052,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Dice",
+        "Motion Recruitment",
+        "Vdart"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 46.0,
+        "Not Specified": 24.0,
+        "Entry level": 24.0,
+        "Associate": 4.0,
+        "Director": 2.0
+      },
+      "degree": 15,
+      "degree_centrality": 0.1128,
+      "betweenness_centrality": 0.0148,
+      "eigenvector_centrality": 0.0986,
+      "community": 0
+    },
+    {
+      "id": "ETL",
+      "label": "ETL",
+      "frequency": 58,
+      "avg_salary": 132351.66666666666,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Selby Jennings",
+        "Tata Consultancy Services",
+        "Akkodis"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 51.7,
+        "Not Specified": 31.0,
+        "Entry level": 10.3,
+        "Associate": 6.9
+      },
+      "degree": 15,
+      "degree_centrality": 0.1128,
+      "betweenness_centrality": 0.0175,
+      "eigenvector_centrality": 0.0412,
+      "community": 1
+    },
+    {
+      "id": "Machine Learning",
+      "label": "Machine Learning",
+      "frequency": 109,
+      "avg_salary": 167871.2162162162,
+      "top_industries": [
+        "Software Development",
+        "IT Services and IT Consulting",
+        "Financial Services"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Meta",
+        "Ingalls Shipbuilding, A Division Of Hii"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 49.6,
+        "Not Specified": 25.7,
+        "Entry level": 13.3,
+        "Associate": 8.0,
+        "Executive": 1.8,
+        "Director": 0.9,
+        "Internship": 0.9
+      },
+      "degree": 15,
+      "degree_centrality": 0.1128,
+      "betweenness_centrality": 0.0386,
+      "eigenvector_centrality": 0.0602,
+      "community": 2
+    },
+    {
+      "id": "Deep Learning",
+      "label": "Deep Learning",
+      "frequency": 20,
+      "avg_salary": 176184.375,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Software Development",
+        "Technology, Information and Internet"
+      ],
+      "top_companies": [
+        "Tiktok",
+        "Headway Tek Inc",
+        "Deltek"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 50.0,
+        "Not Specified": 35.0,
+        "Entry level": 10.0,
+        "Associate": 5.0
+      },
+      "degree": 15,
+      "degree_centrality": 0.1128,
+      "betweenness_centrality": 0.0201,
+      "eigenvector_centrality": 0.0114,
+      "community": 2
+    },
+    {
+      "id": "Generative AI",
+      "label": "Generative AI",
+      "frequency": 17,
+      "avg_salary": 155250.0,
+      "top_industries": [
+        "Financial Services",
+        "IT Services and IT Consulting",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Tiktok",
+        "Integration International Inc."
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 58.8,
+        "Not Specified": 23.5,
+        "Entry level": 5.9,
+        "Associate": 5.9,
+        "Director": 5.9
+      },
+      "degree": 15,
+      "degree_centrality": 0.1128,
+      "betweenness_centrality": 0.0207,
+      "eigenvector_centrality": 0.0111,
+      "community": 2
+    },
+    {
+      "id": "Communication",
+      "label": "Communication",
+      "frequency": 961,
+      "avg_salary": 106731.83754342432,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Hospitals and Health Care",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Dice",
+        "Ingersoll Rand",
+        "Centria Autism"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 36.9,
+        "Entry level": 26.0,
+        "Not Specified": 24.4,
+        "Associate": 9.1,
+        "Director": 2.1,
+        "Internship": 1.0,
+        "Executive": 0.4
+      },
+      "degree": 13,
+      "degree_centrality": 0.0977,
+      "betweenness_centrality": 0.0019,
+      "eigenvector_centrality": 0.1014,
+      "community": 0
+    },
+    {
+      "id": "GitHub",
+      "label": "GitHub",
+      "frequency": 44,
+      "avg_salary": 118494.55263157895,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Software Development",
+        "Financial Services"
+      ],
+      "top_companies": [
+        "Discover Financial Services",
+        "Motion Recruitment",
+        "Equifax"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 50.0,
+        "Entry level": 19.6,
+        "Not Specified": 15.2,
+        "Associate": 10.9,
+        "Director": 4.3
+      },
+      "degree": 13,
+      "degree_centrality": 0.0977,
+      "betweenness_centrality": 0.0388,
+      "eigenvector_centrality": 0.085,
+      "community": 0
+    },
+    {
+      "id": "Data Modeling",
+      "label": "Data Modeling",
+      "frequency": 42,
+      "avg_salary": 142679.25,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Staffing and Recruiting"
+      ],
+      "top_companies": [
+        "Ascentt",
+        "Publicis Sapient",
+        "Compunnel Inc."
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 54.8,
+        "Not Specified": 33.3,
+        "Entry level": 7.1,
+        "Associate": 4.8
+      },
+      "degree": 12,
+      "degree_centrality": 0.0902,
+      "betweenness_centrality": 0.0155,
+      "eigenvector_centrality": 0.0356,
+      "community": 1
+    },
+    {
+      "id": "Airflow",
+      "label": "Airflow",
+      "frequency": 20,
+      "avg_salary": 186436.9,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Software Development",
+        "Staffing and Recruiting"
+      ],
+      "top_companies": [
+        "Equifax",
+        "Smart It Frame Llc",
+        "Piper Companies"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 57.1,
+        "Not Specified": 23.8,
+        "Entry level": 14.3,
+        "Associate": 4.8
+      },
+      "degree": 12,
+      "degree_centrality": 0.0902,
+      "betweenness_centrality": 0.0459,
+      "eigenvector_centrality": 0.0188,
+      "community": 1
+    },
+    {
+      "id": "Natural Language Processing",
+      "label": "Natural Language Processing",
+      "frequency": 12,
+      "avg_salary": 182387.5,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Technology, Information and Internet",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Headway Tek Inc",
+        "Deltek",
+        "Volto Consulting"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 50.0,
+        "Not Specified": 50.0
+      },
+      "degree": 12,
+      "degree_centrality": 0.0902,
+      "betweenness_centrality": 0.0118,
+      "eigenvector_centrality": 0.0078,
+      "community": 2
+    },
+    {
+      "id": "Scrum",
+      "label": "Scrum",
+      "frequency": 86,
+      "avg_salary": 119895.14583333333,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Fidelity Investments",
+        "Synechron",
+        "Oracle"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 41.4,
+        "Not Specified": 39.1,
+        "Entry level": 11.5,
+        "Associate": 8.0
+      },
+      "degree": 11,
+      "degree_centrality": 0.0827,
+      "betweenness_centrality": 0.001,
+      "eigenvector_centrality": 0.0927,
+      "community": 0
+    },
+    {
+      "id": "C#",
+      "label": "C#",
+      "frequency": 90,
+      "avg_salary": 126127.54,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Software Development",
+        "Financial Services"
+      ],
+      "top_companies": [
+        "Dataannotation",
+        "Dice",
+        "Apex Systems"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 43.3,
+        "Not Specified": 37.8,
+        "Entry level": 14.4,
+        "Associate": 3.3,
+        "Internship": 1.1
+      },
+      "degree": 11,
+      "degree_centrality": 0.0827,
+      "betweenness_centrality": 0.0017,
+      "eigenvector_centrality": 0.083,
+      "community": 0
+    },
+    {
+      "id": "Leadership",
+      "label": "Leadership",
+      "frequency": 519,
+      "avg_salary": 131746.3353960396,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Software Development",
+        "Hospitals and Health Care"
+      ],
+      "top_companies": [
+        "Davita Kidney Care",
+        "Skf Group",
+        "Blue Origin"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 44.1,
+        "Not Specified": 25.0,
+        "Entry level": 21.3,
+        "Associate": 4.5,
+        "Director": 3.5,
+        "Executive": 1.3,
+        "Internship": 0.2
+      },
+      "degree": 11,
+      "degree_centrality": 0.0827,
+      "betweenness_centrality": 0.0108,
+      "eigenvector_centrality": 0.0728,
+      "community": 0
+    },
+    {
+      "id": "LangChain",
+      "label": "LangChain",
+      "frequency": 6,
+      "avg_salary": 175186.9,
+      "top_industries": [
+        "Software Development",
+        "IT Services and IT Consulting",
+        "Insurance"
+      ],
+      "top_companies": [
+        "Snowflake",
+        "Amazon Web Services (Aws)",
+        "Qbe Insurance"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 83.3,
+        "Not Specified": 16.7
+      },
+      "degree": 11,
+      "degree_centrality": 0.0827,
+      "betweenness_centrality": 0.0026,
+      "eigenvector_centrality": 0.0055,
+      "community": 2
+    },
+    {
+      "id": "TypeScript",
+      "label": "TypeScript",
+      "frequency": 45,
+      "avg_salary": 149627.27272727274,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Software Development",
+        "Financial Services"
+      ],
+      "top_companies": [
+        "Apex Systems",
+        "Capital One",
+        "Procore Technologies"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 52.2,
+        "Not Specified": 26.1,
+        "Entry level": 17.4,
+        "Associate": 2.2,
+        "Director": 2.2
+      },
+      "degree": 10,
+      "degree_centrality": 0.0752,
+      "betweenness_centrality": 0.0165,
+      "eigenvector_centrality": 0.0497,
+      "community": 0
+    },
+    {
+      "id": "Cassandra",
+      "label": "Cassandra",
+      "frequency": 13,
+      "avg_salary": 144695.5,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Computer and Network Security"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Hypr | The Identity Assurance Company",
+        "Extend Information Systems Inc."
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 46.2,
+        "Not Specified": 23.1,
+        "Entry level": 23.1,
+        "Associate": 7.7
+      },
+      "degree": 10,
+      "degree_centrality": 0.0752,
+      "betweenness_centrality": 0.0238,
+      "eigenvector_centrality": 0.0198,
+      "community": 1
+    },
+    {
+      "id": "Computer Vision",
+      "label": "Computer Vision",
+      "frequency": 19,
+      "avg_salary": 147258.33333333334,
+      "top_industries": [
+        "Entertainment Providers",
+        "Financial Services",
+        "Defense and Space Manufacturing"
+      ],
+      "top_companies": [
+        "Anduril Industries",
+        "Tiktok",
+        "Capital One"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 55.0,
+        "Not Specified": 25.0,
+        "Entry level": 20.0
+      },
+      "degree": 10,
+      "degree_centrality": 0.0752,
+      "betweenness_centrality": 0.0128,
+      "eigenvector_centrality": 0.008,
+      "community": 2
+    },
+    {
+      "id": "Pandas",
+      "label": "Pandas",
+      "frequency": 11,
+      "avg_salary": 183016.66666666666,
+      "top_industries": [
+        "Software Development",
+        "IT Services and IT Consulting",
+        "Banking"
+      ],
+      "top_companies": [
+        "Idexcel",
+        "Net2Source Inc.",
+        "Deltek"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 63.6,
+        "Entry level": 18.2,
+        "Associate": 9.1,
+        "Not Specified": 9.1
+      },
+      "degree": 10,
+      "degree_centrality": 0.0752,
+      "betweenness_centrality": 0.0396,
+      "eigenvector_centrality": 0.0064,
+      "community": 2
+    },
+    {
+      "id": "C++",
+      "label": "C++",
+      "frequency": 107,
+      "avg_salary": 171023.90968749998,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Software Development",
+        "Defense and Space Manufacturing"
+      ],
+      "top_companies": [
+        "Dataannotation",
+        "Amd",
+        "Epic Games"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 39.6,
+        "Not Specified": 32.4,
+        "Entry level": 19.8,
+        "Associate": 6.3,
+        "Internship": 1.8
+      },
+      "degree": 9,
+      "degree_centrality": 0.0677,
+      "betweenness_centrality": 0.0073,
+      "eigenvector_centrality": 0.0613,
+      "community": 0
+    },
+    {
+      "id": "LLM",
+      "label": "LLM",
+      "frequency": 10,
+      "avg_salary": 162283.33333333334,
+      "top_industries": [
+        "Software Development",
+        "IT Services and IT Consulting",
+        "Investment Banking"
+      ],
+      "top_companies": [
+        "Chabeztech Llc",
+        "Integration International Inc.",
+        "Snowflake"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 81.8,
+        "Not Specified": 9.1,
+        "Entry level": 9.1
+      },
+      "degree": 9,
+      "degree_centrality": 0.0677,
+      "betweenness_centrality": 0.0034,
+      "eigenvector_centrality": 0.0042,
+      "community": 2
+    },
+    {
+      "id": "NLP",
+      "label": "NLP",
+      "frequency": 9,
+      "avg_salary": 144846.125,
+      "top_industries": [
+        "Information Services",
+        "IT Services and IT Consulting",
+        "Financial Services"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Irvine Technology Corporation",
+        "Motion Recruitment"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 66.7,
+        "Not Specified": 11.1,
+        "Entry level": 11.1,
+        "Internship": 11.1
+      },
+      "degree": 9,
+      "degree_centrality": 0.0677,
+      "betweenness_centrality": 0.0013,
+      "eigenvector_centrality": 0.0035,
+      "community": 2
+    },
+    {
+      "id": "MySQL",
+      "label": "MySQL",
+      "frequency": 31,
+      "avg_salary": 100960.66666666667,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Business Integra Inc",
+        "Publicis Sapient"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 35.5,
+        "Not Specified": 32.3,
+        "Entry level": 25.8,
+        "Associate": 6.5
+      },
+      "degree": 8,
+      "degree_centrality": 0.0602,
+      "betweenness_centrality": 0.0063,
+      "eigenvector_centrality": 0.0202,
+      "community": 1
+    },
+    {
+      "id": "MongoDB",
+      "label": "MongoDB",
+      "frequency": 20,
+      "avg_salary": 138918.0,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Retail",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Iherb, Llc",
+        "Vdart",
+        "Eteam"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 45.0,
+        "Not Specified": 40.0,
+        "Entry level": 10.0,
+        "Associate": 5.0
+      },
+      "degree": 8,
+      "degree_centrality": 0.0602,
+      "betweenness_centrality": 0.0062,
+      "eigenvector_centrality": 0.0217,
+      "community": 1
+    },
+    {
+      "id": "REST API",
+      "label": "REST API",
+      "frequency": 32,
+      "avg_salary": 96388.57142857143,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Software Development",
+        "Financial Services"
+      ],
+      "top_companies": [
+        "Fidelity Investments",
+        "Quanteam - North America (Rainbow Partners Group)",
+        "Capgemini"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 50.0,
+        "Not Specified": 34.4,
+        "Entry level": 12.5,
+        "Associate": 3.1
+      },
+      "degree": 8,
+      "degree_centrality": 0.0602,
+      "betweenness_centrality": 0.0014,
+      "eigenvector_centrality": 0.0582,
+      "community": 0
+    },
+    {
+      "id": "Fine-tuning",
+      "label": "Fine-tuning",
+      "frequency": 7,
+      "avg_salary": 131126.66666666666,
+      "top_industries": [
+        "Financial Services",
+        "Insurance",
+        "Business Consulting and Services"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Inspire11",
+        "Qbe Insurance"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 85.7,
+        "Entry level": 14.3
+      },
+      "degree": 8,
+      "degree_centrality": 0.0602,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0045,
+      "community": 2
+    },
+    {
+      "id": "Hive",
+      "label": "Hive",
+      "frequency": 12,
+      "avg_salary": 134166.66666666666,
+      "top_industries": [
+        "Financial Services",
+        "IT Services and IT Consulting",
+        "Banking"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Dexian",
+        "Mastech Digital"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 58.3,
+        "Not Specified": 33.3,
+        "Entry level": 8.3
+      },
+      "degree": 7,
+      "degree_centrality": 0.0526,
+      "betweenness_centrality": 0.0001,
+      "eigenvector_centrality": 0.0216,
+      "community": 1
+    },
+    {
+      "id": "Data Pipeline",
+      "label": "Data Pipeline",
+      "frequency": 13,
+      "avg_salary": 149833.33333333334,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Staffing and Recruiting"
+      ],
+      "top_companies": [
+        "Ascentt",
+        "Informa Markets",
+        "Capital One"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 46.2,
+        "Not Specified": 23.1,
+        "Associate": 23.1,
+        "Entry level": 7.7
+      },
+      "degree": 7,
+      "degree_centrality": 0.0526,
+      "betweenness_centrality": 0.0052,
+      "eigenvector_centrality": 0.0076,
+      "community": 1
+    },
+    {
+      "id": "Data Warehouse",
+      "label": "Data Warehouse",
+      "frequency": 27,
+      "avg_salary": 126134.188,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Hospitals and Health Care",
+        "Information Services"
+      ],
+      "top_companies": [
+        "Galactic Minds Inc",
+        "Informa Markets",
+        "Rk Management Consultants, Inc."
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 51.9,
+        "Not Specified": 25.9,
+        "Associate": 14.8,
+        "Entry level": 7.4
+      },
+      "degree": 7,
+      "degree_centrality": 0.0526,
+      "betweenness_centrality": 0.0006,
+      "eigenvector_centrality": 0.0104,
+      "community": 1
+    },
+    {
+      "id": "Redis",
+      "label": "Redis",
+      "frequency": 14,
+      "avg_salary": 176000.0,
+      "top_industries": [
+        "Software Development",
+        "IT Services and IT Consulting",
+        "Financial Services"
+      ],
+      "top_companies": [
+        "Aha!",
+        "Ice",
+        "Vdart"
+      ],
+      "experience_dist": {
+        "Not Specified": 57.1,
+        "Mid-Senior level": 28.6,
+        "Entry level": 14.3
+      },
+      "degree": 7,
+      "degree_centrality": 0.0526,
+      "betweenness_centrality": 0.0105,
+      "eigenvector_centrality": 0.0132,
+      "community": 1
+    },
+    {
+      "id": "NumPy",
+      "label": "NumPy",
+      "frequency": 10,
+      "avg_salary": 173620.0,
+      "top_industries": [
+        "Software Development",
+        "IT Services and IT Consulting",
+        "Agriculture, Construction, Mining Machinery Manufacturing"
+      ],
+      "top_companies": [
+        "Net2Source Inc.",
+        "Deltek",
+        "Snowflake"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 60.0,
+        "Not Specified": 20.0,
+        "Associate": 10.0,
+        "Entry level": 10.0
+      },
+      "degree": 7,
+      "degree_centrality": 0.0526,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0053,
+      "community": 2
+    },
+    {
+      "id": "Project Management",
+      "label": "Project Management",
+      "frequency": 275,
+      "avg_salary": 120600.1731775701,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Software Development",
+        "Financial Services"
+      ],
+      "top_companies": [
+        "Dice",
+        "Boeing",
+        "Brightpath Associates Llc"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 49.0,
+        "Not Specified": 23.9,
+        "Entry level": 19.0,
+        "Associate": 3.9,
+        "Director": 2.9,
+        "Internship": 1.0,
+        "Executive": 0.3
+      },
+      "degree": 6,
+      "degree_centrality": 0.0451,
+      "betweenness_centrality": 0.0018,
+      "eigenvector_centrality": 0.0289,
+      "community": 0
+    },
+    {
+      "id": "Data Lake",
+      "label": "Data Lake",
+      "frequency": 15,
+      "avg_salary": 143603.0,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Staffing and Recruiting"
+      ],
+      "top_companies": [
+        "Ascentt",
+        "Compunnel Inc.",
+        "Selby Jennings"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 66.7,
+        "Entry level": 20.0,
+        "Not Specified": 13.3
+      },
+      "degree": 6,
+      "degree_centrality": 0.0451,
+      "betweenness_centrality": 0.0009,
+      "eigenvector_centrality": 0.0071,
+      "community": 1
+    },
+    {
+      "id": "Optimization",
+      "label": "Optimization",
+      "frequency": 163,
+      "avg_salary": 136218.38253968253,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Software Development",
+        "Staffing and Recruiting"
+      ],
+      "top_companies": [
+        "Oracle",
+        "Dice",
+        "Tiktok"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 44.9,
+        "Not Specified": 31.9,
+        "Entry level": 14.6,
+        "Associate": 4.9,
+        "Director": 1.6,
+        "Internship": 1.6,
+        "Executive": 0.5
+      },
+      "degree": 6,
+      "degree_centrality": 0.0451,
+      "betweenness_centrality": 0.0007,
+      "eigenvector_centrality": 0.0308,
+      "community": 0
+    },
+    {
+      "id": "Tableau",
+      "label": "Tableau",
+      "frequency": 54,
+      "avg_salary": 107332.04545454546,
+      "top_industries": [
+        "Financial Services",
+        "IT Services and IT Consulting",
+        "Insurance"
+      ],
+      "top_companies": [
+        "Wheels, Inc.",
+        "Hays",
+        "Mastech Digital"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 41.8,
+        "Not Specified": 30.9,
+        "Associate": 16.4,
+        "Entry level": 10.9
+      },
+      "degree": 6,
+      "degree_centrality": 0.0451,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0118,
+      "community": 3
+    },
+    {
+      "id": "PostgreSQL",
+      "label": "PostgreSQL",
+      "frequency": 25,
+      "avg_salary": 107333.33333333333,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Ice",
+        "Educationista Abroad",
+        "Equifax"
+      ],
+      "experience_dist": {
+        "Not Specified": 36.0,
+        "Mid-Senior level": 32.0,
+        "Entry level": 28.0,
+        "Associate": 4.0
+      },
+      "degree": 6,
+      "degree_centrality": 0.0451,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0162,
+      "community": 1
+    },
+    {
+      "id": "Perl",
+      "label": "Perl",
+      "frequency": 24,
+      "avg_salary": 158658.33333333334,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Software Development",
+        "Banking"
+      ],
+      "top_companies": [
+        "Western Alliance Bank",
+        "Caci International Inc",
+        "Koniag Government Services"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 37.5,
+        "Not Specified": 33.3,
+        "Entry level": 25.0,
+        "Associate": 4.2
+      },
+      "degree": 6,
+      "degree_centrality": 0.0451,
+      "betweenness_centrality": 0.0105,
+      "eigenvector_centrality": 0.0232,
+      "community": 0
+    },
+    {
+      "id": "Grafana",
+      "label": "Grafana",
+      "frequency": 12,
+      "avg_salary": 150965.0,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Banking"
+      ],
+      "top_companies": [
+        "Wells Fargo",
+        "Vdart",
+        "Hiretalent - Diversity Staffing & Recruiting Firm"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 66.7,
+        "Not Specified": 16.7,
+        "Associate": 8.3,
+        "Director": 8.3
+      },
+      "degree": 6,
+      "degree_centrality": 0.0451,
+      "betweenness_centrality": 0.0022,
+      "eigenvector_centrality": 0.0275,
+      "community": 0
+    },
+    {
+      "id": "Feature Engineering",
+      "label": "Feature Engineering",
+      "frequency": 5,
+      "avg_salary": 172150.0,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Accounting",
+        "Business Consulting and Services"
+      ],
+      "top_companies": [
+        "Headway Tek Inc",
+        "Intellibus",
+        "Deloitte"
+      ],
+      "experience_dist": {
+        "Not Specified": 60.0,
+        "Mid-Senior level": 40.0
+      },
+      "degree": 6,
+      "degree_centrality": 0.0451,
+      "betweenness_centrality": 0.0002,
+      "eigenvector_centrality": 0.0032,
+      "community": 2
+    },
+    {
+      "id": "Hadoop",
+      "label": "Hadoop",
+      "frequency": 22,
+      "avg_salary": 246159.16666666666,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Banking"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Dexian",
+        "Codeforce 360"
+      ],
+      "experience_dist": {
+        "Not Specified": 45.5,
+        "Mid-Senior level": 40.9,
+        "Entry level": 9.1,
+        "Associate": 4.5
+      },
+      "degree": 5,
+      "degree_centrality": 0.0376,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0293,
+      "community": 1
+    },
+    {
+      "id": "Data Visualization",
+      "label": "Data Visualization",
+      "frequency": 44,
+      "avg_salary": 114463.69444444444,
+      "top_industries": [
+        "Financial Services",
+        "IT Services and IT Consulting",
+        "Technology, Information and Internet"
+      ],
+      "top_companies": [
+        "Cash App",
+        "Kelly Science, Engineering, Technology & Telecom",
+        "Piper Companies"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 56.8,
+        "Not Specified": 29.5,
+        "Associate": 6.8,
+        "Entry level": 6.8
+      },
+      "degree": 5,
+      "degree_centrality": 0.0376,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0053,
+      "community": 3
+    },
+    {
+      "id": "Power BI",
+      "label": "Power BI",
+      "frequency": 60,
+      "avg_salary": 106923.65217391304,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Smart It Frame Llc",
+        "Wheels, Inc.",
+        "Tandem Diabetes Care"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 48.4,
+        "Not Specified": 20.3,
+        "Entry level": 15.6,
+        "Associate": 14.1,
+        "Internship": 1.6
+      },
+      "degree": 5,
+      "degree_centrality": 0.0376,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0091,
+      "community": 3
+    },
+    {
+      "id": "Statistics",
+      "label": "Statistics",
+      "frequency": 78,
+      "avg_salary": 118062.77777777778,
+      "top_industries": [
+        "Financial Services",
+        "IT Services and IT Consulting",
+        "Software Development"
+      ],
+      "top_companies": [
+        "The University Of Texas At Austin",
+        "Linkedin",
+        "Amazon Web Services (Aws)"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 47.1,
+        "Not Specified": 28.2,
+        "Entry level": 11.8,
+        "Associate": 9.4,
+        "Internship": 3.5
+      },
+      "degree": 5,
+      "degree_centrality": 0.0376,
+      "betweenness_centrality": 0.0002,
+      "eigenvector_centrality": 0.0191,
+      "community": 3
+    },
+    {
+      "id": "dbt",
+      "label": "dbt",
+      "frequency": 9,
+      "avg_salary": 145300.0,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Staffing and Recruiting",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Compunnel Inc.",
+        "Eteam",
+        "Snowflake"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 77.8,
+        "Not Specified": 11.1,
+        "Entry level": 11.1
+      },
+      "degree": 5,
+      "degree_centrality": 0.0376,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0058,
+      "community": 1
+    },
+    {
+      "id": "Ruby",
+      "label": "Ruby",
+      "frequency": 32,
+      "avg_salary": 135229.07142857142,
+      "top_industries": [
+        "Software Development",
+        "IT Services and IT Consulting",
+        "Computer and Network Security"
+      ],
+      "top_companies": [
+        "Aha!",
+        "Procore Technologies",
+        "Kpmg Us"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 46.9,
+        "Not Specified": 21.9,
+        "Entry level": 15.6,
+        "Director": 9.4,
+        "Associate": 6.2
+      },
+      "degree": 5,
+      "degree_centrality": 0.0376,
+      "betweenness_centrality": 0.0018,
+      "eigenvector_centrality": 0.0116,
+      "community": 1
+    },
+    {
+      "id": "PySpark",
+      "label": "PySpark",
+      "frequency": 11,
+      "avg_salary": 154421.33333333334,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Staffing and Recruiting"
+      ],
+      "top_companies": [
+        "Smart It Frame Llc",
+        "Fedex Dataworks",
+        "Synechron"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 63.6,
+        "Not Specified": 27.3,
+        "Entry level": 9.1
+      },
+      "degree": 5,
+      "degree_centrality": 0.0376,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0126,
+      "community": 1
+    },
+    {
+      "id": "Neural Network",
+      "label": "Neural Network",
+      "frequency": 4,
+      "avg_salary": 0.0,
+      "top_industries": [
+        "Financial Services",
+        "Technology, Information and Internet",
+        "IT Services and IT Consulting"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Linkedin"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 75.0,
+        "Not Specified": 25.0
+      },
+      "degree": 5,
+      "degree_centrality": 0.0376,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0046,
+      "community": 2
+    },
+    {
+      "id": "Problem Solving",
+      "label": "Problem Solving",
+      "frequency": 190,
+      "avg_salary": 103226.9443939394,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Hospitals and Health Care",
+        "Staffing and Recruiting"
+      ],
+      "top_companies": [
+        "Revature",
+        "Cogent Communications",
+        "Thermo Fisher Scientific"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 39.2,
+        "Entry level": 28.1,
+        "Not Specified": 22.6,
+        "Associate": 7.8,
+        "Director": 1.8,
+        "Internship": 0.5
+      },
+      "degree": 4,
+      "degree_centrality": 0.0301,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0154,
+      "community": 0
+    },
+    {
+      "id": "RAG",
+      "label": "RAG",
+      "frequency": 6,
+      "avg_salary": 160744.83333333334,
+      "top_industries": [
+        "Information Services",
+        "Software Development",
+        "Investment Banking"
+      ],
+      "top_companies": [
+        "Chabeztech Llc",
+        "Irvine Technology Corporation",
+        "Qbe Insurance"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 66.7,
+        "Director": 16.7,
+        "Not Specified": 16.7
+      },
+      "degree": 4,
+      "degree_centrality": 0.0301,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0017,
+      "community": 2
+    },
+    {
+      "id": "Transformers",
+      "label": "Transformers",
+      "frequency": 13,
+      "avg_salary": 123539.0,
+      "top_industries": [
+        "Manufacturing",
+        "Utilities",
+        "IT Services and IT Consulting"
+      ],
+      "top_companies": [
+        "Sargent & Lundy",
+        "Lvi Associates",
+        "Fedex Dataworks"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 43.8,
+        "Entry level": 31.2,
+        "Not Specified": 18.8,
+        "Associate": 6.2
+      },
+      "degree": 4,
+      "degree_centrality": 0.0301,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0023,
+      "community": 2
+    },
+    {
+      "id": "scikit-learn",
+      "label": "scikit-learn",
+      "frequency": 6,
+      "avg_salary": 0.0,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Airlines and Aviation"
+      ],
+      "top_companies": [
+        "Headway Tek Inc",
+        "Hays",
+        "Apex Systems"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 50.0,
+        "Not Specified": 33.3,
+        "Entry level": 16.7
+      },
+      "degree": 4,
+      "degree_centrality": 0.0301,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0033,
+      "community": 2
+    },
+    {
+      "id": "API Development",
+      "label": "API Development",
+      "frequency": 13,
+      "avg_salary": 143750.0,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Software Development",
+        "Banking"
+      ],
+      "top_companies": [
+        "Dexian",
+        "Equifax",
+        "Cook Systems"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 61.5,
+        "Not Specified": 30.8,
+        "Entry level": 7.7
+      },
+      "degree": 3,
+      "degree_centrality": 0.0226,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0054,
+      "community": 1
+    },
+    {
+      "id": "BigQuery",
+      "label": "BigQuery",
+      "frequency": 9,
+      "avg_salary": 2331783.3333333335,
+      "top_industries": [
+        "Human Resources Services",
+        "Information Technology & Services",
+        "IT Services and IT Consulting"
+      ],
+      "top_companies": [
+        "Koantek",
+        "Inspyr Solutions",
+        "Equifax"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 55.6,
+        "Not Specified": 33.3,
+        "Entry level": 11.1
+      },
+      "degree": 3,
+      "degree_centrality": 0.0226,
+      "betweenness_centrality": 0.0105,
+      "eigenvector_centrality": 0.0021,
+      "community": 1
+    },
+    {
+      "id": "Model Training",
+      "label": "Model Training",
+      "frequency": 4,
+      "avg_salary": 172150.0,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Accounting",
+        "Business Consulting and Services"
+      ],
+      "top_companies": [
+        "Intellibus",
+        "Deloitte",
+        "Capital One"
+      ],
+      "experience_dist": {
+        "Not Specified": 50.0,
+        "Mid-Senior level": 50.0
+      },
+      "degree": 3,
+      "degree_centrality": 0.0226,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0016,
+      "community": 2
+    },
+    {
+      "id": "SageMaker",
+      "label": "SageMaker",
+      "frequency": 4,
+      "avg_salary": 167825.0,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Banking",
+        "Financial Services"
+      ],
+      "top_companies": [
+        "Amazon Web Services (Aws)",
+        "Agility Partners",
+        "Ehub Global Inc"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 75.0,
+        "Not Specified": 25.0
+      },
+      "degree": 3,
+      "degree_centrality": 0.0226,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0012,
+      "community": 2
+    },
+    {
+      "id": "Teamwork",
+      "label": "Teamwork",
+      "frequency": 137,
+      "avg_salary": 97251.74528301887,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Hospitals and Health Care",
+        "Defense and Space Manufacturing"
+      ],
+      "top_companies": [
+        "Blue Origin",
+        "Bridgestone Retail Operations, Llc",
+        "Solomon Page"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 40.1,
+        "Entry level": 32.1,
+        "Not Specified": 19.8,
+        "Associate": 6.8,
+        "Executive": 0.6,
+        "Director": 0.6
+      },
+      "degree": 2,
+      "degree_centrality": 0.015,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0071,
+      "community": 0
+    },
+    {
+      "id": "DynamoDB",
+      "label": "DynamoDB",
+      "frequency": 9,
+      "avg_salary": 188112.055,
+      "top_industries": [
+        "Software Development",
+        "IT Services and IT Consulting",
+        "Airlines and Aviation"
+      ],
+      "top_companies": [
+        "Fivetran",
+        "Publicis Sapient",
+        "Square"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 55.6,
+        "Not Specified": 33.3,
+        "Associate": 11.1
+      },
+      "degree": 2,
+      "degree_centrality": 0.015,
+      "betweenness_centrality": 0.0002,
+      "eigenvector_centrality": 0.001,
+      "community": 1
+    },
+    {
+      "id": "MATLAB",
+      "label": "MATLAB",
+      "frequency": 33,
+      "avg_salary": 117940.0,
+      "top_industries": [
+        "Defense and Space Manufacturing",
+        "Aviation and Aerospace Component Manufacturing",
+        "IT Services and IT Consulting"
+      ],
+      "top_companies": [
+        "Blue Origin",
+        "Northrop Grumman",
+        "Arrow Electronics"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 38.2,
+        "Entry level": 32.4,
+        "Not Specified": 23.5,
+        "Associate": 2.9,
+        "Internship": 2.9
+      },
+      "degree": 2,
+      "degree_centrality": 0.015,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0096,
+      "community": 0
+    },
+    {
+      "id": "Model Deployment",
+      "label": "Model Deployment",
+      "frequency": 4,
+      "avg_salary": 180000.0,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Technology, Information and Internet",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Headway Tek Inc",
+        "Dave",
+        "Inspire11"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 75.0,
+        "Not Specified": 25.0
+      },
+      "degree": 2,
+      "degree_centrality": 0.015,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0018,
+      "community": 2
+    },
+    {
+      "id": "GitHub Actions",
+      "label": "GitHub Actions",
+      "frequency": 8,
+      "avg_salary": 102640.625,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Software Development",
+        "Hospitals and Health Care"
+      ],
+      "top_companies": [
+        "Open Systems International",
+        "Providertrust",
+        "United It"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 50.0,
+        "Not Specified": 25.0,
+        "Associate": 12.5,
+        "Entry level": 12.5
+      },
+      "degree": 2,
+      "degree_centrality": 0.015,
+      "betweenness_centrality": 0.0105,
+      "eigenvector_centrality": 0.0063,
+      "community": 5
+    },
+    {
+      "id": "Matplotlib",
+      "label": "Matplotlib",
+      "frequency": 3,
+      "avg_salary": 123000.0,
+      "top_industries": [
+        "Agriculture, Construction, Mining Machinery Manufacturing",
+        "Automation Machinery Manufacturing",
+        "Motor Vehicle Parts Manufacturing"
+      ],
+      "top_companies": [
+        "Net2Source Inc.",
+        "Deltek",
+        "Windborne Systems"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 66.7,
+        "Not Specified": 33.3
+      },
+      "degree": 2,
+      "degree_centrality": 0.015,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0011,
+      "community": 2
+    },
+    {
+      "id": "Kotlin",
+      "label": "Kotlin",
+      "frequency": 11,
+      "avg_salary": 156625.0,
+      "top_industries": [
+        "Software Development",
+        "Financial Services",
+        "Technology, Information and Internet"
+      ],
+      "top_companies": [
+        "Capital One",
+        "Hypr | The Identity Assurance Company",
+        "Tomahawk Robotics"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 72.7,
+        "Associate": 18.2,
+        "Not Specified": 9.1
+      },
+      "degree": 1,
+      "degree_centrality": 0.0075,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 4
+    },
+    {
+      "id": "Swift",
+      "label": "Swift",
+      "frequency": 17,
+      "avg_salary": 141600.0,
+      "top_industries": [
+        "Financial Services",
+        "IT Services and IT Consulting",
+        "Telecommunications"
+      ],
+      "top_companies": [
+        "Cogent Communications",
+        "Capital One",
+        "Volunteermatch"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 40.0,
+        "Entry level": 30.0,
+        "Associate": 20.0,
+        "Not Specified": 10.0
+      },
+      "degree": 1,
+      "degree_centrality": 0.0075,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 4
+    },
+    {
+      "id": "Go",
+      "label": "Go",
+      "frequency": 5,
+      "avg_salary": 146250.0,
+      "top_industries": [
+        "Financial Services",
+        "Banking",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Equifax",
+        "The Brixton Group, Inc.",
+        "Par Government"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 60.0,
+        "Not Specified": 40.0
+      },
+      "degree": 1,
+      "degree_centrality": 0.0075,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0001,
+      "community": 1
+    },
+    {
+      "id": "Large Language Model",
+      "label": "Large Language Model",
+      "frequency": 2,
+      "avg_salary": 203700.0,
+      "top_industries": [
+        "Entertainment Providers",
+        "Information Services",
+        "Technology, Information and Internet"
+      ],
+      "top_companies": [
+        "Tiktok",
+        "Google"
+      ],
+      "experience_dist": {
+        "Not Specified": 100.0
+      },
+      "degree": 1,
+      "degree_centrality": 0.0075,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0005,
+      "community": 2
+    },
+    {
+      "id": "GraphQL",
+      "label": "GraphQL",
+      "frequency": 10,
+      "avg_salary": 146300.0,
+      "top_industries": [
+        "Software Development",
+        "IT Services and IT Consulting",
+        "Technology, Information and Media"
+      ],
+      "top_companies": [
+        "Teksystems",
+        "Pronix Inc",
+        "Nutrien"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 36.4,
+        "Not Specified": 27.3,
+        "Entry level": 9.1,
+        "Associate": 9.1,
+        "Executive": 9.1,
+        "Director": 9.1
+      },
+      "degree": 1,
+      "degree_centrality": 0.0075,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.002,
+      "community": 0
+    },
+    {
+      "id": "Time Series Analysis",
+      "label": "Time Series Analysis",
+      "frequency": 4,
+      "avg_salary": 180000.0,
+      "top_industries": [
+        "Financial Services",
+        "Consumer Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Hellofresh",
+        "Synechron",
+        "Anomalo"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 75.0,
+        "Entry level": 25.0
+      },
+      "degree": 1,
+      "degree_centrality": 0.0075,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0012,
+      "community": 1
+    },
+    {
+      "id": "WebSocket",
+      "label": "WebSocket",
+      "frequency": 2,
+      "avg_salary": 0.0,
+      "top_industries": [
+        "Financial Services",
+        "IT Services and IT Consulting"
+      ],
+      "top_companies": [
+        "Ice",
+        "F5"
+      ],
+      "experience_dist": {
+        "Not Specified": 50.0,
+        "Entry level": 50.0
+      },
+      "degree": 1,
+      "degree_centrality": 0.0075,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0008,
+      "community": 1
+    },
+    {
+      "id": "Flask",
+      "label": "Flask",
+      "frequency": 3,
+      "avg_salary": 350000.0,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Banking",
+        "Capital Markets"
+      ],
+      "top_companies": [
+        "Idexcel",
+        "Kpg99 Inc",
+        "Goliath Partners"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 66.7,
+        "Not Specified": 33.3
+      },
+      "degree": 1,
+      "degree_centrality": 0.0075,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0004,
+      "community": 2
+    },
+    {
+      "id": "PHP",
+      "label": "PHP",
+      "frequency": 13,
+      "avg_salary": 114800.0,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Unknown",
+        "Astoria Ai",
+        "Assa Abloy Group"
+      ],
+      "experience_dist": {
+        "Not Specified": 69.2,
+        "Entry level": 15.4,
+        "Mid-Senior level": 15.4
+      },
+      "degree": 1,
+      "degree_centrality": 0.0075,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0003,
+      "community": 5
+    },
+    {
+      "id": "Kubeflow",
+      "label": "Kubeflow",
+      "frequency": 2,
+      "avg_salary": 174500.0,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Insurance"
+      ],
+      "top_companies": [
+        "Intellibus",
+        "Qbe Insurance"
+      ],
+      "experience_dist": {
+        "Not Specified": 50.0,
+        "Mid-Senior level": 50.0
+      },
+      "degree": 1,
+      "degree_centrality": 0.0075,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 6
+    },
+    {
+      "id": "MLflow",
+      "label": "MLflow",
+      "frequency": 2,
+      "avg_salary": 174500.0,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Insurance"
+      ],
+      "top_companies": [
+        "Intellibus",
+        "Qbe Insurance"
+      ],
+      "experience_dist": {
+        "Not Specified": 50.0,
+        "Mid-Senior level": 50.0
+      },
+      "degree": 1,
+      "degree_centrality": 0.0075,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 6
+    },
+    {
+      "id": "Clustering",
+      "label": "Clustering",
+      "frequency": 6,
+      "avg_salary": 222545.0,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Staffing and Recruiting",
+        "Software Development"
+      ],
+      "top_companies": [
+        "F5",
+        "Motion Recruitment",
+        "Aptly Technology Corporation"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 50.0,
+        "Entry level": 33.3,
+        "Not Specified": 16.7
+      },
+      "degree": 1,
+      "degree_centrality": 0.0075,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0011,
+      "community": 0
+    },
+    {
+      "id": "OAuth",
+      "label": "OAuth",
+      "frequency": 9,
+      "avg_salary": 161125.0,
+      "top_industries": [
+        "Insurance Carriers",
+        "Insurance",
+        "Staffing and Recruiting"
+      ],
+      "top_companies": [
+        "America First Credit Union",
+        "Diamondpick",
+        "Hagerty"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 81.8,
+        "Entry level": 9.1,
+        "Not Specified": 9.1
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 7
+    },
+    {
+      "id": "D3.js",
+      "label": "D3.js",
+      "frequency": 2,
+      "avg_salary": 0.0,
+      "top_industries": [
+        "Construction",
+        "Information Technology & Services"
+      ],
+      "top_companies": [
+        "Champion Windows & Home Exteriors",
+        "Innovya Technologies"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 50.0,
+        "Not Specified": 50.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 8
+    },
+    {
+      "id": "Django",
+      "label": "Django",
+      "frequency": 8,
+      "avg_salary": 142833.33333333334,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Software Development",
+        "Mental Health Care"
+      ],
+      "top_companies": [
+        "Two Chairs",
+        "Wingz",
+        "Jobot"
+      ],
+      "experience_dist": {
+        "Not Specified": 37.5,
+        "Mid-Senior level": 25.0,
+        "Entry level": 25.0,
+        "Director": 12.5
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 9
+    },
+    {
+      "id": "Classification",
+      "label": "Classification",
+      "frequency": 68,
+      "avg_salary": 103796.859375,
+      "top_industries": [
+        "Hospitals and Health Care",
+        "Software Development",
+        "IT Services and IT Consulting"
+      ],
+      "top_companies": [
+        "Procore Technologies",
+        "Sandia National Laboratories",
+        "Kpmg Us"
+      ],
+      "experience_dist": {
+        "Entry level": 34.2,
+        "Mid-Senior level": 30.4,
+        "Not Specified": 26.6,
+        "Director": 3.8,
+        "Internship": 2.5,
+        "Associate": 2.5
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 10
+    },
+    {
+      "id": "Flink",
+      "label": "Flink",
+      "frequency": 2,
+      "avg_salary": 197500.0,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Entertainment Providers"
+      ],
+      "top_companies": [
+        "The Judge Group",
+        "Tiktok"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 50.0,
+        "Not Specified": 50.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 11
+    },
+    {
+      "id": "R",
+      "label": "R",
+      "frequency": 3,
+      "avg_salary": 114734.16666666667,
+      "top_industries": [
+        "Biotechnology Research",
+        "Higher Education",
+        "Pharmaceutical Manufacturing"
+      ],
+      "top_companies": [
+        "University Of Pennsylvania",
+        "4D Molecular Therapeutics",
+        "Rangam"
+      ],
+      "experience_dist": {
+        "Entry level": 66.7,
+        "Mid-Senior level": 33.3
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 12
+    },
+    {
+      "id": "Calculus",
+      "label": "Calculus",
+      "frequency": 1,
+      "avg_salary": 0.0,
+      "top_industries": [
+        "Defense and Space Manufacturing"
+      ],
+      "top_companies": [
+        "Clearancejobs"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 100.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 13
+    },
+    {
+      "id": "Regression",
+      "label": "Regression",
+      "frequency": 28,
+      "avg_salary": 129897.41666666667,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Banking"
+      ],
+      "top_companies": [
+        "Calculated Hire",
+        "Sonobi",
+        "S&P Global"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 42.9,
+        "Not Specified": 28.6,
+        "Entry level": 17.9,
+        "Associate": 10.7
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 14
+    },
+    {
+      "id": "Rust",
+      "label": "Rust",
+      "frequency": 9,
+      "avg_salary": 185833.33333333334,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Financial Services",
+        "Defense and Space Manufacturing"
+      ],
+      "top_companies": [
+        "Educationista Abroad",
+        "Radley James",
+        "Block"
+      ],
+      "experience_dist": {
+        "Entry level": 44.4,
+        "Associate": 22.2,
+        "Mid-Senior level": 22.2,
+        "Not Specified": 11.1
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 15
+    },
+    {
+      "id": "Image Classification",
+      "label": "Image Classification",
+      "frequency": 2,
+      "avg_salary": 0.0,
+      "top_industries": [
+        "Software Development",
+        "IT Services and IT Consulting",
+        "Technology, Information and Internet"
+      ],
+      "top_companies": [
+        "Esri",
+        "Snorkel Ai"
+      ],
+      "experience_dist": {
+        "Not Specified": 50.0,
+        "Director": 50.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 16
+    },
+    {
+      "id": "Probability",
+      "label": "Probability",
+      "frequency": 8,
+      "avg_salary": 120351.25,
+      "top_industries": [
+        "Financial Services",
+        "Information Services",
+        "Technology, Information and Internet"
+      ],
+      "top_companies": [
+        "Rocket Mortgage",
+        "Google",
+        "Rightworks"
+      ],
+      "experience_dist": {
+        "Entry level": 37.5,
+        "Mid-Senior level": 25.0,
+        "Not Specified": 25.0,
+        "Associate": 12.5
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 17
+    },
+    {
+      "id": "Hypothesis Testing",
+      "label": "Hypothesis Testing",
+      "frequency": 2,
+      "avg_salary": 133000.0,
+      "top_industries": [
+        "Information Services",
+        "Technology, Information and Internet",
+        "Internet News"
+      ],
+      "top_companies": [
+        "Google",
+        "Biospace"
+      ],
+      "experience_dist": {
+        "Not Specified": 50.0,
+        "Mid-Senior level": 50.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 18
+    },
+    {
+      "id": "GAN",
+      "label": "GAN",
+      "frequency": 2,
+      "avg_salary": 175475.0,
+      "top_industries": [
+        "Entertainment Providers",
+        "Semiconductor Manufacturing",
+        "Telecommunications"
+      ],
+      "top_companies": [
+        "Tiktok",
+        "Skyworks Solutions, Inc."
+      ],
+      "experience_dist": {
+        "Not Specified": 100.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 19
+    },
+    {
+      "id": "Reinforcement Learning",
+      "label": "Reinforcement Learning",
+      "frequency": 1,
+      "avg_salary": 0.0,
+      "top_industries": [
+        "IT Services and IT Consulting"
+      ],
+      "top_companies": [
+        "Headway Tek Inc"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 100.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 20
+    },
+    {
+      "id": "gRPC",
+      "label": "gRPC",
+      "frequency": 2,
+      "avg_salary": 275000.0,
+      "top_industries": [
+        "Musicians",
+        "Financial Services",
+        "Banking"
+      ],
+      "top_companies": [
+        "Tidal",
+        "Pelham Berkeley Search"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 100.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 21
+    },
+    {
+      "id": "Looker",
+      "label": "Looker",
+      "frequency": 2,
+      "avg_salary": 137675.0,
+      "top_industries": [
+        "Measuring and Control Instrument Manufacturing",
+        "Human Resources Services"
+      ],
+      "top_companies": [
+        "Liquid Instruments",
+        "Talent Job Seeker"
+      ],
+      "experience_dist": {
+        "Not Specified": 50.0,
+        "Mid-Senior level": 50.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 22
+    },
+    {
+      "id": "Plotly",
+      "label": "Plotly",
+      "frequency": 3,
+      "avg_salary": 92564.0,
+      "top_industries": [
+        "Agriculture, Construction, Mining Machinery Manufacturing",
+        "Automation Machinery Manufacturing",
+        "Motor Vehicle Parts Manufacturing"
+      ],
+      "top_companies": [
+        "Net2Source Inc.",
+        "The University Of Texas At Austin",
+        "The Walt Disney Company"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 66.7,
+        "Not Specified": 33.3
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 23
+    },
+    {
+      "id": "Elasticsearch",
+      "label": "Elasticsearch",
+      "frequency": 5,
+      "avg_salary": 0.0,
+      "top_industries": [
+        "IT Services and IT Consulting",
+        "Information Services",
+        "Technology, Information and Media"
+      ],
+      "top_companies": [
+        "F5",
+        "Raas Infotek",
+        "Infovision Inc."
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 60.0,
+        "Entry level": 20.0,
+        "Not Specified": 20.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 24
+    },
+    {
+      "id": "Neo4j",
+      "label": "Neo4j",
+      "frequency": 1,
+      "avg_salary": 0.0,
+      "top_industries": [
+        "IT Services and IT Consulting"
+      ],
+      "top_companies": [
+        "F5"
+      ],
+      "experience_dist": {
+        "Entry level": 100.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 25
+    },
+    {
+      "id": "C",
+      "label": "C",
+      "frequency": 2,
+      "avg_salary": 0.0,
+      "top_industries": [
+        "Appliances, Electrical, and Electronics Manufacturing",
+        "Business Consulting and Services"
+      ],
+      "top_companies": [
+        "Appleone Employment Services",
+        "Actalent"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 50.0,
+        "Entry level": 50.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 26
+    },
+    {
+      "id": "A/B Testing",
+      "label": "A/B Testing",
+      "frequency": 4,
+      "avg_salary": 85000.0,
+      "top_industries": [
+        "Telecommunications",
+        "Advertising Services",
+        "Events Services"
+      ],
+      "top_companies": [
+        "Verizon",
+        "Manifest",
+        "Total Product Expo"
+      ],
+      "experience_dist": {
+        "Associate": 50.0,
+        "Mid-Senior level": 25.0,
+        "Not Specified": 25.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 27
+    },
+    {
+      "id": "Speech Recognition",
+      "label": "Speech Recognition",
+      "frequency": 2,
+      "avg_salary": 186275.0,
+      "top_industries": [
+        "Software Development",
+        "IT Services and IT Consulting"
+      ],
+      "top_companies": [
+        "Amazon",
+        "Amazon Web Services (Aws)"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 50.0,
+        "Not Specified": 50.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 28
+    },
+    {
+      "id": "GRU",
+      "label": "GRU",
+      "frequency": 1,
+      "avg_salary": 0.0,
+      "top_industries": [
+        "IT Services and IT Consulting"
+      ],
+      "top_companies": [
+        "Astir It Solutions, Inc."
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 100.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 29
+    },
+    {
+      "id": "RNN",
+      "label": "RNN",
+      "frequency": 1,
+      "avg_salary": 0.0,
+      "top_industries": [
+        "IT Services and IT Consulting"
+      ],
+      "top_companies": [
+        "Astir It Solutions, Inc."
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 100.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 30
+    },
+    {
+      "id": "BERT",
+      "label": "BERT",
+      "frequency": 3,
+      "avg_salary": 0.0,
+      "top_industries": [
+        "Banking",
+        "Financial Services",
+        "Insurance"
+      ],
+      "top_companies": [
+        "Ehub Global Inc",
+        "Mitre",
+        "Prodware Solutions"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 66.7,
+        "Entry level": 33.3
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 31
+    },
+    {
+      "id": "GPT",
+      "label": "GPT",
+      "frequency": 2,
+      "avg_salary": 139250.0,
+      "top_industries": [
+        "Information Technology & Services",
+        "Higher Education"
+      ],
+      "top_companies": [
+        "Zyxware Technologies",
+        "University Of Michigan"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 100.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 32
+    },
+    {
+      "id": "ETL Pipeline",
+      "label": "ETL Pipeline",
+      "frequency": 1,
+      "avg_salary": 0.0,
+      "top_industries": [
+        "IT Services and IT Consulting"
+      ],
+      "top_companies": [
+        "Tata Consultancy Services"
+      ],
+      "experience_dist": {
+        "Entry level": 100.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 33
+    },
+    {
+      "id": "Julia",
+      "label": "Julia",
+      "frequency": 2,
+      "avg_salary": 149386.0,
+      "top_industries": [
+        "Research Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Office Of Environmental Health Hazard Assessment (Oehha)",
+        "Square One Resources"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 100.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 34
+    },
+    {
+      "id": "JWT",
+      "label": "JWT",
+      "frequency": 1,
+      "avg_salary": 0.0,
+      "top_industries": [
+        "Banking"
+      ],
+      "top_companies": [
+        "Synechron"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 100.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 35
+    },
+    {
+      "id": "Prompt Engineering",
+      "label": "Prompt Engineering",
+      "frequency": 1,
+      "avg_salary": 0.0,
+      "top_industries": [
+        "IT Services and IT Consulting"
+      ],
+      "top_companies": [
+        "Libsys Inc"
+      ],
+      "experience_dist": {
+        "Not Specified": 100.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 36
+    },
+    {
+      "id": "Model Serving",
+      "label": "Model Serving",
+      "frequency": 1,
+      "avg_salary": 172150.0,
+      "top_industries": [
+        "Biotechnology Research"
+      ],
+      "top_companies": [
+        "Genedx"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 100.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 37
+    },
+    {
+      "id": "Named Entity Recognition",
+      "label": "Named Entity Recognition",
+      "frequency": 1,
+      "avg_salary": 172150.0,
+      "top_industries": [
+        "Biotechnology Research"
+      ],
+      "top_companies": [
+        "Genedx"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 100.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 38
+    },
+    {
+      "id": "Sentiment Analysis",
+      "label": "Sentiment Analysis",
+      "frequency": 1,
+      "avg_salary": 172150.0,
+      "top_industries": [
+        "Biotechnology Research"
+      ],
+      "top_companies": [
+        "Genedx"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 100.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 39
+    },
+    {
+      "id": "Weaviate",
+      "label": "Weaviate",
+      "frequency": 1,
+      "avg_salary": 172150.0,
+      "top_industries": [
+        "Biotechnology Research"
+      ],
+      "top_companies": [
+        "Genedx"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 100.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 40
+    },
+    {
+      "id": "Vertex AI",
+      "label": "Vertex AI",
+      "frequency": 1,
+      "avg_salary": 0.0,
+      "top_industries": [
+        "Technology, Information and Internet"
+      ],
+      "top_companies": [
+        "Codegpt"
+      ],
+      "experience_dist": {
+        "Not Specified": 100.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 41
+    },
+    {
+      "id": "FastAPI",
+      "label": "FastAPI",
+      "frequency": 1,
+      "avg_salary": 350000.0,
+      "top_industries": [
+        "Capital Markets",
+        "Financial Services",
+        "Software Development"
+      ],
+      "top_companies": [
+        "Goliath Partners"
+      ],
+      "experience_dist": {
+        "Mid-Senior level": 100.0
+      },
+      "degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0,
+      "community": 42
+    }
+  ],
+  "edges": [
+    {
+      "source": "Kubeflow",
+      "target": "MLflow",
+      "weight": 1.0,
+      "co_occurrence": 2
+    },
+    {
+      "source": "TensorFlow",
+      "target": "PyTorch",
+      "weight": 0.782608695652174,
+      "co_occurrence": 18
+    },
+    {
+      "source": "Pandas",
+      "target": "NumPy",
+      "weight": 0.75,
+      "co_occurrence": 9
+    },
+    {
+      "source": "Docker",
+      "target": "Kubernetes",
+      "weight": 0.5407407407407407,
+      "co_occurrence": 73
+    },
+    {
+      "source": "Feature Engineering",
+      "target": "Model Training",
+      "weight": 0.5,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Hadoop",
+      "target": "Hive",
+      "weight": 0.4166666666666667,
+      "co_occurrence": 10
+    },
+    {
+      "source": "TensorFlow",
+      "target": "Deep Learning",
+      "weight": 0.36666666666666664,
+      "co_occurrence": 11
+    },
+    {
+      "source": "PyTorch",
+      "target": "Deep Learning",
+      "weight": 0.3333333333333333,
+      "co_occurrence": 10
+    },
+    {
+      "source": "Communication",
+      "target": "Leadership",
+      "weight": 0.32616487455197135,
+      "co_occurrence": 364
+    },
+    {
+      "source": "AWS",
+      "target": "Azure",
+      "weight": 0.307909604519774,
+      "co_occurrence": 109
+    },
+    {
+      "source": "Matplotlib",
+      "target": "NumPy",
+      "weight": 0.3,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Hadoop",
+      "target": "Spark",
+      "weight": 0.2909090909090909,
+      "co_occurrence": 16
+    },
+    {
+      "source": "LLM",
+      "target": "Generative AI",
+      "weight": 0.2857142857142857,
+      "co_occurrence": 6
+    },
+    {
+      "source": "Deep Learning",
+      "target": "Natural Language Processing",
+      "weight": 0.28,
+      "co_occurrence": 7
+    },
+    {
+      "source": "Ansible",
+      "target": "Terraform",
+      "weight": 0.2727272727272727,
+      "co_occurrence": 24
+    },
+    {
+      "source": "Scala",
+      "target": "Spark",
+      "weight": 0.265625,
+      "co_occurrence": 17
+    },
+    {
+      "source": "Generative AI",
+      "target": "Fine-tuning",
+      "weight": 0.2631578947368421,
+      "co_occurrence": 5
+    },
+    {
+      "source": "Databricks",
+      "target": "PySpark",
+      "weight": 0.25806451612903225,
+      "co_occurrence": 8
+    },
+    {
+      "source": "Python",
+      "target": "AWS",
+      "weight": 0.2505050505050505,
+      "co_occurrence": 124
+    },
+    {
+      "source": "MySQL",
+      "target": "PostgreSQL",
+      "weight": 0.24444444444444444,
+      "co_occurrence": 11
+    },
+    {
+      "source": "SQL",
+      "target": "Python",
+      "weight": 0.24369747899159663,
+      "co_occurrence": 145
+    },
+    {
+      "source": "AWS",
+      "target": "Kubernetes",
+      "weight": 0.23943661971830985,
+      "co_occurrence": 68
+    },
+    {
+      "source": "Kubernetes",
+      "target": "CI/CD",
+      "weight": 0.23243243243243245,
+      "co_occurrence": 43
+    },
+    {
+      "source": "Python",
+      "target": "Java",
+      "weight": 0.23221757322175732,
+      "co_occurrence": 111
+    },
+    {
+      "source": "AWS",
+      "target": "Docker",
+      "weight": 0.2318840579710145,
+      "co_occurrence": 64
+    },
+    {
+      "source": "LLM",
+      "target": "LangChain",
+      "weight": 0.23076923076923078,
+      "co_occurrence": 3
+    },
+    {
+      "source": "PyTorch",
+      "target": "Natural Language Processing",
+      "weight": 0.23076923076923078,
+      "co_occurrence": 6
+    },
+    {
+      "source": "NLP",
+      "target": "Fine-tuning",
+      "weight": 0.23076923076923078,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Agile",
+      "target": "Java",
+      "weight": 0.22818791946308725,
+      "co_occurrence": 102
+    },
+    {
+      "source": "Docker",
+      "target": "CI/CD",
+      "weight": 0.22727272727272727,
+      "co_occurrence": 40
+    },
+    {
+      "source": "AWS",
+      "target": "Java",
+      "weight": 0.22371967654986524,
+      "co_occurrence": 83
+    },
+    {
+      "source": "Neural Network",
+      "target": "Fine-tuning",
+      "weight": 0.2222222222222222,
+      "co_occurrence": 2
+    },
+    {
+      "source": "AWS",
+      "target": "CI/CD",
+      "weight": 0.22033898305084745,
+      "co_occurrence": 65
+    },
+    {
+      "source": "Kubernetes",
+      "target": "Terraform",
+      "weight": 0.21830985915492956,
+      "co_occurrence": 31
+    },
+    {
+      "source": "Feature Engineering",
+      "target": "Natural Language Processing",
+      "weight": 0.21428571428571427,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Power BI",
+      "target": "Tableau",
+      "weight": 0.2127659574468085,
+      "co_occurrence": 20
+    },
+    {
+      "source": "Agile",
+      "target": "Scrum",
+      "weight": 0.21203438395415472,
+      "co_occurrence": 74
+    },
+    {
+      "source": "Ansible",
+      "target": "Bash",
+      "weight": 0.20987654320987653,
+      "co_occurrence": 17
+    },
+    {
+      "source": "Microservices",
+      "target": "Docker",
+      "weight": 0.2080536912751678,
+      "co_occurrence": 31
+    },
+    {
+      "source": "CI/CD",
+      "target": "Jenkins",
+      "weight": 0.2077922077922078,
+      "co_occurrence": 32
+    },
+    {
+      "source": "CI/CD",
+      "target": "Git",
+      "weight": 0.20540540540540542,
+      "co_occurrence": 38
+    },
+    {
+      "source": "Agile",
+      "target": "SQL",
+      "weight": 0.2027491408934708,
+      "co_occurrence": 118
+    },
+    {
+      "source": "Microservices",
+      "target": "Kubernetes",
+      "weight": 0.2,
+      "co_occurrence": 32
+    },
+    {
+      "source": "RAG",
+      "target": "LangChain",
+      "weight": 0.2,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Kubernetes",
+      "target": "Azure",
+      "weight": 0.19927536231884058,
+      "co_occurrence": 55
+    },
+    {
+      "source": "CI/CD",
+      "target": "Terraform",
+      "weight": 0.1986754966887417,
+      "co_occurrence": 30
+    },
+    {
+      "source": "Python",
+      "target": "Azure",
+      "weight": 0.19839679358717435,
+      "co_occurrence": 99
+    },
+    {
+      "source": "C#",
+      "target": "JavaScript",
+      "weight": 0.19796954314720813,
+      "co_occurrence": 39
+    },
+    {
+      "source": "Agile",
+      "target": "AWS",
+      "weight": 0.1962809917355372,
+      "co_occurrence": 95
+    },
+    {
+      "source": "Project Management",
+      "target": "Leadership",
+      "weight": 0.19578313253012047,
+      "co_occurrence": 130
+    },
+    {
+      "source": "Data Visualization",
+      "target": "Tableau",
+      "weight": 0.1951219512195122,
+      "co_occurrence": 16
+    },
+    {
+      "source": "PyTorch",
+      "target": "Generative AI",
+      "weight": 0.1935483870967742,
+      "co_occurrence": 6
+    },
+    {
+      "source": "Airflow",
+      "target": "PySpark",
+      "weight": 0.19230769230769232,
+      "co_occurrence": 5
+    },
+    {
+      "source": "Microservices",
+      "target": "Java",
+      "weight": 0.1902834008097166,
+      "co_occurrence": 47
+    },
+    {
+      "source": "Azure",
+      "target": "GCP",
+      "weight": 0.18907563025210083,
+      "co_occurrence": 45
+    },
+    {
+      "source": "TensorFlow",
+      "target": "Generative AI",
+      "weight": 0.1875,
+      "co_occurrence": 6
+    },
+    {
+      "source": "Communication",
+      "target": "Project Management",
+      "weight": 0.1850431447746884,
+      "co_occurrence": 193
+    },
+    {
+      "source": "Ansible",
+      "target": "Jenkins",
+      "weight": 0.18181818181818182,
+      "co_occurrence": 18
+    },
+    {
+      "source": "GitHub",
+      "target": "GitHub Actions",
+      "weight": 0.18181818181818182,
+      "co_occurrence": 8
+    },
+    {
+      "source": "PyTorch",
+      "target": "scikit-learn",
+      "weight": 0.18181818181818182,
+      "co_occurrence": 4
+    },
+    {
+      "source": "PyTorch",
+      "target": "LangChain",
+      "weight": 0.18181818181818182,
+      "co_occurrence": 4
+    },
+    {
+      "source": "Computer Vision",
+      "target": "Deep Learning",
+      "weight": 0.18181818181818182,
+      "co_occurrence": 6
+    },
+    {
+      "source": "NLP",
+      "target": "Neural Network",
+      "weight": 0.18181818181818182,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Fine-tuning",
+      "target": "LangChain",
+      "weight": 0.18181818181818182,
+      "co_occurrence": 2
+    },
+    {
+      "source": "JavaScript",
+      "target": "Java",
+      "weight": 0.18151815181518152,
+      "co_occurrence": 55
+    },
+    {
+      "source": "TensorFlow",
+      "target": "Natural Language Processing",
+      "weight": 0.17857142857142858,
+      "co_occurrence": 5
+    },
+    {
+      "source": "Communication",
+      "target": "Agile",
+      "weight": 0.17785843920145192,
+      "co_occurrence": 196
+    },
+    {
+      "source": "Docker",
+      "target": "Jenkins",
+      "weight": 0.1773049645390071,
+      "co_occurrence": 25
+    },
+    {
+      "source": "Azure",
+      "target": "CI/CD",
+      "weight": 0.17708333333333334,
+      "co_occurrence": 51
+    },
+    {
+      "source": "Snowflake",
+      "target": "dbt",
+      "weight": 0.17647058823529413,
+      "co_occurrence": 6
+    },
+    {
+      "source": "Docker",
+      "target": "Terraform",
+      "weight": 0.17518248175182483,
+      "co_occurrence": 24
+    },
+    {
+      "source": "Java",
+      "target": "Kubernetes",
+      "weight": 0.17518248175182483,
+      "co_occurrence": 48
+    },
+    {
+      "source": "TensorFlow",
+      "target": "scikit-learn",
+      "weight": 0.17391304347826086,
+      "co_occurrence": 4
+    },
+    {
+      "source": "TensorFlow",
+      "target": "LangChain",
+      "weight": 0.17391304347826086,
+      "co_occurrence": 4
+    },
+    {
+      "source": "Communication",
+      "target": "SQL",
+      "weight": 0.17375886524822695,
+      "co_occurrence": 196
+    },
+    {
+      "source": "AWS",
+      "target": "GCP",
+      "weight": 0.17374517374517376,
+      "co_occurrence": 45
+    },
+    {
+      "source": "Docker",
+      "target": "Azure",
+      "weight": 0.17279411764705882,
+      "co_occurrence": 47
+    },
+    {
+      "source": "MongoDB",
+      "target": "Redis",
+      "weight": 0.1724137931034483,
+      "co_occurrence": 5
+    },
+    {
+      "source": "Agile",
+      "target": "Azure",
+      "weight": 0.1722689075630252,
+      "co_occurrence": 82
+    },
+    {
+      "source": "Databricks",
+      "target": "Airflow",
+      "weight": 0.17073170731707318,
+      "co_occurrence": 7
+    },
+    {
+      "source": "SQL",
+      "target": "AWS",
+      "weight": 0.1702127659574468,
+      "co_occurrence": 88
+    },
+    {
+      "source": "Jenkins",
+      "target": "Git",
+      "weight": 0.16891891891891891,
+      "co_occurrence": 25
+    },
+    {
+      "source": "Linux",
+      "target": "Shell",
+      "weight": 0.16875,
+      "co_occurrence": 27
+    },
+    {
+      "source": "Kafka",
+      "target": "Spark",
+      "weight": 0.16666666666666666,
+      "co_occurrence": 14
+    },
+    {
+      "source": "Spark",
+      "target": "Databricks",
+      "weight": 0.16666666666666666,
+      "co_occurrence": 11
+    },
+    {
+      "source": "Kotlin",
+      "target": "Swift",
+      "weight": 0.16666666666666666,
+      "co_occurrence": 4
+    },
+    {
+      "source": "BigQuery",
+      "target": "Go",
+      "weight": 0.16666666666666666,
+      "co_occurrence": 2
+    },
+    {
+      "source": "LLM",
+      "target": "SageMaker",
+      "weight": 0.16666666666666666,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Generative AI",
+      "target": "Neural Network",
+      "weight": 0.16666666666666666,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Flask",
+      "target": "Pandas",
+      "weight": 0.16666666666666666,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Pandas",
+      "target": "Matplotlib",
+      "weight": 0.16666666666666666,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Docker",
+      "target": "Java",
+      "weight": 0.16541353383458646,
+      "co_occurrence": 44
+    },
+    {
+      "source": "AWS",
+      "target": "Terraform",
+      "weight": 0.16412213740458015,
+      "co_occurrence": 43
+    },
+    {
+      "source": "Java",
+      "target": "Azure",
+      "weight": 0.1639784946236559,
+      "co_occurrence": 61
+    },
+    {
+      "source": "SQL",
+      "target": "Java",
+      "weight": 0.16396761133603238,
+      "co_occurrence": 81
+    },
+    {
+      "source": "Linux",
+      "target": "Bash",
+      "weight": 0.1625,
+      "co_occurrence": 26
+    },
+    {
+      "source": "Kubernetes",
+      "target": "GCP",
+      "weight": 0.16216216216216217,
+      "co_occurrence": 24
+    },
+    {
+      "source": "Computer Vision",
+      "target": "Generative AI",
+      "weight": 0.16129032258064516,
+      "co_occurrence": 5
+    },
+    {
+      "source": "TensorFlow",
+      "target": "Machine Learning",
+      "weight": 0.16071428571428573,
+      "co_occurrence": 18
+    },
+    {
+      "source": "Kafka",
+      "target": "Kubernetes",
+      "weight": 0.16058394160583941,
+      "co_occurrence": 22
+    },
+    {
+      "source": "Generative AI",
+      "target": "Natural Language Processing",
+      "weight": 0.16,
+      "co_occurrence": 4
+    },
+    {
+      "source": "C#",
+      "target": "C++",
+      "weight": 0.1588235294117647,
+      "co_occurrence": 27
+    },
+    {
+      "source": "C++",
+      "target": "Python",
+      "weight": 0.15789473684210525,
+      "co_occurrence": 66
+    },
+    {
+      "source": "Java",
+      "target": "CI/CD",
+      "weight": 0.15789473684210525,
+      "co_occurrence": 45
+    },
+    {
+      "source": "Python",
+      "target": "Linux",
+      "weight": 0.15765765765765766,
+      "co_occurrence": 70
+    },
+    {
+      "source": "JavaScript",
+      "target": "TypeScript",
+      "weight": 0.15757575757575756,
+      "co_occurrence": 26
+    },
+    {
+      "source": "Java",
+      "target": "Jenkins",
+      "weight": 0.15702479338842976,
+      "co_occurrence": 38
+    },
+    {
+      "source": "Deep Learning",
+      "target": "Generative AI",
+      "weight": 0.15625,
+      "co_occurrence": 5
+    },
+    {
+      "source": "Agile",
+      "target": "JavaScript",
+      "weight": 0.15550239234449761,
+      "co_occurrence": 65
+    },
+    {
+      "source": "GitHub",
+      "target": "Jenkins",
+      "weight": 0.15463917525773196,
+      "co_occurrence": 15
+    },
+    {
+      "source": "Communication",
+      "target": "Python",
+      "weight": 0.1544434857635893,
+      "co_occurrence": 179
+    },
+    {
+      "source": "MongoDB",
+      "target": "PostgreSQL",
+      "weight": 0.15384615384615385,
+      "co_occurrence": 6
+    },
+    {
+      "source": "RAG",
+      "target": "NLP",
+      "weight": 0.15384615384615385,
+      "co_occurrence": 2
+    },
+    {
+      "source": "PyTorch",
+      "target": "NumPy",
+      "weight": 0.15384615384615385,
+      "co_occurrence": 4
+    },
+    {
+      "source": "NLP",
+      "target": "LangChain",
+      "weight": 0.15384615384615385,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Machine Learning",
+      "target": "PyTorch",
+      "weight": 0.15178571428571427,
+      "co_occurrence": 17
+    },
+    {
+      "source": "C++",
+      "target": "Linux",
+      "weight": 0.1509433962264151,
+      "co_occurrence": 32
+    },
+    {
+      "source": "Hive",
+      "target": "Spark",
+      "weight": 0.1509433962264151,
+      "co_occurrence": 8
+    },
+    {
+      "source": "Ruby",
+      "target": "Redis",
+      "weight": 0.15,
+      "co_occurrence": 6
+    },
+    {
+      "source": "SQL",
+      "target": "Azure",
+      "weight": 0.14960629921259844,
+      "co_occurrence": 76
+    },
+    {
+      "source": "Python",
+      "target": "Machine Learning",
+      "weight": 0.14893617021276595,
+      "co_occurrence": 63
+    },
+    {
+      "source": "Hadoop",
+      "target": "Scala",
+      "weight": 0.14893617021276595,
+      "co_occurrence": 7
+    },
+    {
+      "source": "ETL",
+      "target": "Data Warehouse",
+      "weight": 0.14864864864864866,
+      "co_occurrence": 11
+    },
+    {
+      "source": "Python",
+      "target": "Kubernetes",
+      "weight": 0.14858490566037735,
+      "co_occurrence": 63
+    },
+    {
+      "source": "Docker",
+      "target": "Kafka",
+      "weight": 0.1484375,
+      "co_occurrence": 19
+    },
+    {
+      "source": "Kubernetes",
+      "target": "Jenkins",
+      "weight": 0.14838709677419354,
+      "co_occurrence": 23
+    },
+    {
+      "source": "TensorFlow",
+      "target": "NumPy",
+      "weight": 0.14814814814814814,
+      "co_occurrence": 4
+    },
+    {
+      "source": "PyTorch",
+      "target": "Pandas",
+      "weight": 0.14814814814814814,
+      "co_occurrence": 4
+    },
+    {
+      "source": "Agile",
+      "target": "Git",
+      "weight": 0.14805194805194805,
+      "co_occurrence": 57
+    },
+    {
+      "source": "Statistics",
+      "target": "Machine Learning",
+      "weight": 0.147239263803681,
+      "co_occurrence": 24
+    },
+    {
+      "source": "PostgreSQL",
+      "target": "Redis",
+      "weight": 0.14705882352941177,
+      "co_occurrence": 5
+    },
+    {
+      "source": "Terraform",
+      "target": "GCP",
+      "weight": 0.14678899082568808,
+      "co_occurrence": 16
+    },
+    {
+      "source": "Kafka",
+      "target": "Redis",
+      "weight": 0.14545454545454545,
+      "co_occurrence": 8
+    },
+    {
+      "source": "Hadoop",
+      "target": "Kafka",
+      "weight": 0.14516129032258066,
+      "co_occurrence": 9
+    },
+    {
+      "source": "Agile",
+      "target": "Python",
+      "weight": 0.14423076923076922,
+      "co_occurrence": 90
+    },
+    {
+      "source": "Kubernetes",
+      "target": "Ansible",
+      "weight": 0.14388489208633093,
+      "co_occurrence": 20
+    },
+    {
+      "source": "Docker",
+      "target": "GCP",
+      "weight": 0.14285714285714285,
+      "co_occurrence": 20
+    },
+    {
+      "source": "TensorFlow",
+      "target": "Computer Vision",
+      "weight": 0.14285714285714285,
+      "co_occurrence": 5
+    },
+    {
+      "source": "TensorFlow",
+      "target": "Pandas",
+      "weight": 0.14285714285714285,
+      "co_occurrence": 4
+    },
+    {
+      "source": "Data Visualization",
+      "target": "Power BI",
+      "weight": 0.14285714285714285,
+      "co_occurrence": 13
+    },
+    {
+      "source": "Redis",
+      "target": "WebSocket",
+      "weight": 0.14285714285714285,
+      "co_occurrence": 2
+    },
+    {
+      "source": "PyTorch",
+      "target": "Model Deployment",
+      "weight": 0.14285714285714285,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "Model Training",
+      "weight": 0.14285714285714285,
+      "co_occurrence": 2
+    },
+    {
+      "source": "NumPy",
+      "target": "LangChain",
+      "weight": 0.14285714285714285,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Deep Learning",
+      "weight": 0.1415929203539823,
+      "co_occurrence": 16
+    },
+    {
+      "source": "Data Lake",
+      "target": "Data Modeling",
+      "weight": 0.14,
+      "co_occurrence": 7
+    },
+    {
+      "source": "Terraform",
+      "target": "Jenkins",
+      "weight": 0.1391304347826087,
+      "co_occurrence": 16
+    },
+    {
+      "source": "SQL",
+      "target": "JavaScript",
+      "weight": 0.13870246085011187,
+      "co_occurrence": 62
+    },
+    {
+      "source": "Transformers",
+      "target": "PyTorch",
+      "weight": 0.13793103448275862,
+      "co_occurrence": 4
+    },
+    {
+      "source": "Communication",
+      "target": "Problem Solving",
+      "weight": 0.1373517786561265,
+      "co_occurrence": 139
+    },
+    {
+      "source": "Snowflake",
+      "target": "Data Warehouse",
+      "weight": 0.13725490196078433,
+      "co_occurrence": 7
+    },
+    {
+      "source": "Microservices",
+      "target": "AWS",
+      "weight": 0.1368421052631579,
+      "co_occurrence": 39
+    },
+    {
+      "source": "Microservices",
+      "target": "CI/CD",
+      "weight": 0.13636363636363635,
+      "co_occurrence": 24
+    },
+    {
+      "source": "Hive",
+      "target": "Data Pipeline",
+      "weight": 0.13636363636363635,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Data Modeling",
+      "target": "ETL",
+      "weight": 0.13636363636363635,
+      "co_occurrence": 12
+    },
+    {
+      "source": "TensorFlow",
+      "target": "Model Deployment",
+      "weight": 0.13636363636363635,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Deep Learning",
+      "target": "Feature Engineering",
+      "weight": 0.13636363636363635,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Java",
+      "target": "Git",
+      "weight": 0.13620071684587814,
+      "co_occurrence": 38
+    },
+    {
+      "source": "Azure",
+      "target": "Terraform",
+      "weight": 0.136,
+      "co_occurrence": 34
+    },
+    {
+      "source": "Linux",
+      "target": "Ansible",
+      "weight": 0.13414634146341464,
+      "co_occurrence": 22
+    },
+    {
+      "source": "Python",
+      "target": "Docker",
+      "weight": 0.13365155131264916,
+      "co_occurrence": 56
+    },
+    {
+      "source": "MySQL",
+      "target": "MongoDB",
+      "weight": 0.13333333333333333,
+      "co_occurrence": 6
+    },
+    {
+      "source": "LLM",
+      "target": "Fine-tuning",
+      "weight": 0.13333333333333333,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Pandas",
+      "target": "LangChain",
+      "weight": 0.13333333333333333,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Agile",
+      "target": "Leadership",
+      "weight": 0.13227513227513227,
+      "co_occurrence": 100
+    },
+    {
+      "source": "Agile",
+      "target": "CI/CD",
+      "weight": 0.1318407960199005,
+      "co_occurrence": 53
+    },
+    {
+      "source": "Data Lake",
+      "target": "Databricks",
+      "weight": 0.13157894736842105,
+      "co_occurrence": 5
+    },
+    {
+      "source": "C++",
+      "target": "Java",
+      "weight": 0.13120567375886524,
+      "co_occurrence": 37
+    },
+    {
+      "source": "JavaScript",
+      "target": "Git",
+      "weight": 0.13063063063063063,
+      "co_occurrence": 29
+    },
+    {
+      "source": "Deep Learning",
+      "target": "scikit-learn",
+      "weight": 0.13043478260869565,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Generative AI",
+      "target": "NLP",
+      "weight": 0.13043478260869565,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Python",
+      "target": "CI/CD",
+      "weight": 0.1275626423690205,
+      "co_occurrence": 56
+    },
+    {
+      "source": "Snowflake",
+      "target": "ETL",
+      "weight": 0.12658227848101267,
+      "co_occurrence": 10
+    },
+    {
+      "source": "Agile",
+      "target": "Microservices",
+      "weight": 0.12634408602150538,
+      "co_occurrence": 47
+    },
+    {
+      "source": "SQL",
+      "target": "ETL",
+      "weight": 0.12566844919786097,
+      "co_occurrence": 47
+    },
+    {
+      "source": "Azure",
+      "target": "Google Cloud",
+      "weight": 0.12554112554112554,
+      "co_occurrence": 29
+    },
+    {
+      "source": "Ansible",
+      "target": "Shell",
+      "weight": 0.125,
+      "co_occurrence": 11
+    },
+    {
+      "source": "Data Warehouse",
+      "target": "dbt",
+      "weight": 0.125,
+      "co_occurrence": 4
+    },
+    {
+      "source": "PyTorch",
+      "target": "Fine-tuning",
+      "weight": 0.125,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "scikit-learn",
+      "weight": 0.125,
+      "co_occurrence": 2
+    },
+    {
+      "source": "SQL",
+      "target": "C#",
+      "weight": 0.12406947890818859,
+      "co_occurrence": 50
+    },
+    {
+      "source": "Ansible",
+      "target": "Perl",
+      "weight": 0.12307692307692308,
+      "co_occurrence": 8
+    },
+    {
+      "source": "Docker",
+      "target": "Google Cloud",
+      "weight": 0.12295081967213115,
+      "co_occurrence": 15
+    },
+    {
+      "source": "JavaScript",
+      "target": "Azure",
+      "weight": 0.12232415902140673,
+      "co_occurrence": 40
+    },
+    {
+      "source": "Microservices",
+      "target": "Azure",
+      "weight": 0.12222222222222222,
+      "co_occurrence": 33
+    },
+    {
+      "source": "Docker",
+      "target": "Ansible",
+      "weight": 0.12213740458015267,
+      "co_occurrence": 16
+    },
+    {
+      "source": "CI/CD",
+      "target": "Bash",
+      "weight": 0.12080536912751678,
+      "co_occurrence": 18
+    },
+    {
+      "source": "Kubernetes",
+      "target": "Google Cloud",
+      "weight": 0.12030075187969924,
+      "co_occurrence": 16
+    },
+    {
+      "source": "C++",
+      "target": "MATLAB",
+      "weight": 0.12,
+      "co_occurrence": 15
+    },
+    {
+      "source": "TensorFlow",
+      "target": "Fine-tuning",
+      "weight": 0.12,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Ruby",
+      "target": "Perl",
+      "weight": 0.12,
+      "co_occurrence": 6
+    },
+    {
+      "source": "Computer Vision",
+      "target": "NLP",
+      "weight": 0.12,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Microservices",
+      "target": "Kafka",
+      "weight": 0.11965811965811966,
+      "co_occurrence": 14
+    },
+    {
+      "source": "JavaScript",
+      "target": "CI/CD",
+      "weight": 0.11864406779661017,
+      "co_occurrence": 28
+    },
+    {
+      "source": "CI/CD",
+      "target": "GCP",
+      "weight": 0.11801242236024845,
+      "co_occurrence": 19
+    },
+    {
+      "source": "Microservices",
+      "target": "REST API",
+      "weight": 0.11764705882352941,
+      "co_occurrence": 12
+    },
+    {
+      "source": "JavaScript",
+      "target": "Python",
+      "weight": 0.11752136752136752,
+      "co_occurrence": 55
+    },
+    {
+      "source": "Scrum",
+      "target": "JavaScript",
+      "weight": 0.11538461538461539,
+      "co_occurrence": 24
+    },
+    {
+      "source": "Java",
+      "target": "Kafka",
+      "weight": 0.11538461538461539,
+      "co_occurrence": 27
+    },
+    {
+      "source": "Airflow",
+      "target": "dbt",
+      "weight": 0.11538461538461539,
+      "co_occurrence": 3
+    },
+    {
+      "source": "AWS",
+      "target": "Google Cloud",
+      "weight": 0.11507936507936507,
+      "co_occurrence": 29
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Generative AI",
+      "weight": 0.11504424778761062,
+      "co_occurrence": 13
+    },
+    {
+      "source": "JavaScript",
+      "target": "Jenkins",
+      "weight": 0.11458333333333333,
+      "co_occurrence": 22
+    },
+    {
+      "source": "Spark",
+      "target": "ETL",
+      "weight": 0.11458333333333333,
+      "co_occurrence": 11
+    },
+    {
+      "source": "Kafka",
+      "target": "Jenkins",
+      "weight": 0.11428571428571428,
+      "co_occurrence": 12
+    },
+    {
+      "source": "ETL",
+      "target": "Airflow",
+      "weight": 0.11428571428571428,
+      "co_occurrence": 8
+    },
+    {
+      "source": "Kafka",
+      "target": "MongoDB",
+      "weight": 0.11290322580645161,
+      "co_occurrence": 7
+    },
+    {
+      "source": "Azure",
+      "target": "Git",
+      "weight": 0.11262798634812286,
+      "co_occurrence": 33
+    },
+    {
+      "source": "Terraform",
+      "target": "Git",
+      "weight": 0.11258278145695365,
+      "co_occurrence": 17
+    },
+    {
+      "source": "Bash",
+      "target": "Shell",
+      "weight": 0.11235955056179775,
+      "co_occurrence": 10
+    },
+    {
+      "source": "Python",
+      "target": "Bash",
+      "weight": 0.1122715404699739,
+      "co_occurrence": 43
+    },
+    {
+      "source": "AWS",
+      "target": "Linux",
+      "weight": 0.11143695014662756,
+      "co_occurrence": 38
+    },
+    {
+      "source": "Scala",
+      "target": "Databricks",
+      "weight": 0.1111111111111111,
+      "co_occurrence": 6
+    },
+    {
+      "source": "Spark",
+      "target": "Snowflake",
+      "weight": 0.1111111111111111,
+      "co_occurrence": 8
+    },
+    {
+      "source": "Spark",
+      "target": "PySpark",
+      "weight": 0.1111111111111111,
+      "co_occurrence": 6
+    },
+    {
+      "source": "Jenkins",
+      "target": "REST API",
+      "weight": 0.1111111111111111,
+      "co_occurrence": 10
+    },
+    {
+      "source": "TypeScript",
+      "target": "PostgreSQL",
+      "weight": 0.1111111111111111,
+      "co_occurrence": 7
+    },
+    {
+      "source": "LLM",
+      "target": "PyTorch",
+      "weight": 0.1111111111111111,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Perl",
+      "target": "Clustering",
+      "weight": 0.1111111111111111,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Microservices",
+      "target": "Google Cloud",
+      "weight": 0.11009174311926606,
+      "co_occurrence": 12
+    },
+    {
+      "source": "Linux",
+      "target": "Git",
+      "weight": 0.11009174311926606,
+      "co_occurrence": 24
+    },
+    {
+      "source": "Google Cloud",
+      "target": "GCP",
+      "weight": 0.10989010989010989,
+      "co_occurrence": 10
+    },
+    {
+      "source": "Communication",
+      "target": "Azure",
+      "weight": 0.10985915492957747,
+      "co_occurrence": 117
+    },
+    {
+      "source": "Hive",
+      "target": "Kafka",
+      "weight": 0.10909090909090909,
+      "co_occurrence": 6
+    },
+    {
+      "source": "Ansible",
+      "target": "Grafana",
+      "weight": 0.10909090909090909,
+      "co_occurrence": 6
+    },
+    {
+      "source": "Bash",
+      "target": "Terraform",
+      "weight": 0.10891089108910891,
+      "co_occurrence": 11
+    },
+    {
+      "source": "Snowflake",
+      "target": "Airflow",
+      "weight": 0.10869565217391304,
+      "co_occurrence": 5
+    },
+    {
+      "source": "AWS",
+      "target": "Git",
+      "weight": 0.10862619808306709,
+      "co_occurrence": 34
+    },
+    {
+      "source": "JavaScript",
+      "target": "AWS",
+      "weight": 0.10857142857142857,
+      "co_occurrence": 38
+    },
+    {
+      "source": "Docker",
+      "target": "Linux",
+      "weight": 0.10849056603773585,
+      "co_occurrence": 23
+    },
+    {
+      "source": "Communication",
+      "target": "Optimization",
+      "weight": 0.10848126232741617,
+      "co_occurrence": 110
+    },
+    {
+      "source": "C#",
+      "target": "Git",
+      "weight": 0.10795454545454546,
+      "co_occurrence": 19
+    },
+    {
+      "source": "Scrum",
+      "target": "Jenkins",
+      "weight": 0.1079136690647482,
+      "co_occurrence": 15
+    },
+    {
+      "source": "Ansible",
+      "target": "GitHub",
+      "weight": 0.10714285714285714,
+      "co_occurrence": 9
+    },
+    {
+      "source": "Shell",
+      "target": "Git",
+      "weight": 0.10714285714285714,
+      "co_occurrence": 15
+    },
+    {
+      "source": "Microservices",
+      "target": "Git",
+      "weight": 0.10650887573964497,
+      "co_occurrence": 18
+    },
+    {
+      "source": "AWS",
+      "target": "Spark",
+      "weight": 0.10646387832699619,
+      "co_occurrence": 28
+    },
+    {
+      "source": "Agile",
+      "target": "Kubernetes",
+      "weight": 0.10643564356435643,
+      "co_occurrence": 43
+    },
+    {
+      "source": "Bash",
+      "target": "Perl",
+      "weight": 0.10606060606060606,
+      "co_occurrence": 7
+    },
+    {
+      "source": "Kafka",
+      "target": "CI/CD",
+      "weight": 0.10596026490066225,
+      "co_occurrence": 16
+    },
+    {
+      "source": "CI/CD",
+      "target": "Ansible",
+      "weight": 0.10596026490066225,
+      "co_occurrence": 16
+    },
+    {
+      "source": "Communication",
+      "target": "Teamwork",
+      "weight": 0.10574018126888217,
+      "co_occurrence": 105
+    },
+    {
+      "source": "LLM",
+      "target": "Pandas",
+      "weight": 0.10526315789473684,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Generative AI",
+      "target": "SageMaker",
+      "weight": 0.10526315789473684,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Generative AI",
+      "target": "Model Training",
+      "weight": 0.10526315789473684,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Natural Language Processing",
+      "target": "NLP",
+      "weight": 0.10526315789473684,
+      "co_occurrence": 2
+    },
+    {
+      "source": "GitHub Actions",
+      "target": "PHP",
+      "weight": 0.10526315789473684,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Shell",
+      "target": "Perl",
+      "weight": 0.1044776119402985,
+      "co_occurrence": 7
+    },
+    {
+      "source": "Microservices",
+      "target": "TypeScript",
+      "weight": 0.10434782608695652,
+      "co_occurrence": 12
+    },
+    {
+      "source": "Kubernetes",
+      "target": "Bash",
+      "weight": 0.10416666666666667,
+      "co_occurrence": 15
+    },
+    {
+      "source": "AWS",
+      "target": "Machine Learning",
+      "weight": 0.10377358490566038,
+      "co_occurrence": 33
+    },
+    {
+      "source": "Docker",
+      "target": "Git",
+      "weight": 0.10326086956521739,
+      "co_occurrence": 19
+    },
+    {
+      "source": "AWS",
+      "target": "Jenkins",
+      "weight": 0.10320284697508897,
+      "co_occurrence": 29
+    },
+    {
+      "source": "Python",
+      "target": "Git",
+      "weight": 0.10297482837528604,
+      "co_occurrence": 45
+    },
+    {
+      "source": "Linux",
+      "target": "Perl",
+      "weight": 0.10273972602739725,
+      "co_occurrence": 15
+    },
+    {
+      "source": "Scrum",
+      "target": "CI/CD",
+      "weight": 0.10270270270270271,
+      "co_occurrence": 19
+    },
+    {
+      "source": "Kubernetes",
+      "target": "Linux",
+      "weight": 0.10267857142857142,
+      "co_occurrence": 23
+    },
+    {
+      "source": "Communication",
+      "target": "AWS",
+      "weight": 0.10265811182401467,
+      "co_occurrence": 112
+    },
+    {
+      "source": "Kubernetes",
+      "target": "Git",
+      "weight": 0.10256410256410256,
+      "co_occurrence": 20
+    },
+    {
+      "source": "AWS",
+      "target": "Kafka",
+      "weight": 0.10227272727272728,
+      "co_occurrence": 27
+    },
+    {
+      "source": "Azure",
+      "target": "Ansible",
+      "weight": 0.10204081632653061,
+      "co_occurrence": 25
+    },
+    {
+      "source": "CI/CD",
+      "target": "GitHub",
+      "weight": 0.10204081632653061,
+      "co_occurrence": 15
+    },
+    {
+      "source": "Agile",
+      "target": "Docker",
+      "weight": 0.10126582278481013,
+      "co_occurrence": 40
+    },
+    {
+      "source": "Agile",
+      "target": "Project Management",
+      "weight": 0.10071942446043165,
+      "co_occurrence": 56
+    },
+    {
+      "source": "Hive",
+      "target": "Scala",
+      "weight": 0.1,
+      "co_occurrence": 4
+    },
+    {
+      "source": "Kafka",
+      "target": "Shell",
+      "weight": 0.1,
+      "co_occurrence": 9
+    },
+    {
+      "source": "Kubernetes",
+      "target": "GitHub",
+      "weight": 0.1,
+      "co_occurrence": 14
+    },
+    {
+      "source": "MongoDB",
+      "target": "Cassandra",
+      "weight": 0.1,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Data Pipeline",
+      "target": "DynamoDB",
+      "weight": 0.1,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Data Pipeline",
+      "target": "dbt",
+      "weight": 0.1,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Snowflake",
+      "target": "Cassandra",
+      "weight": 0.1,
+      "co_occurrence": 4
+    },
+    {
+      "source": "TypeScript",
+      "target": "GraphQL",
+      "weight": 0.1,
+      "co_occurrence": 5
+    },
+    {
+      "source": "LLM",
+      "target": "Natural Language Processing",
+      "weight": 0.1,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Transformers",
+      "target": "Deep Learning",
+      "weight": 0.1,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Deep Learning",
+      "target": "Large Language Model",
+      "weight": 0.1,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Generative AI",
+      "target": "Feature Engineering",
+      "weight": 0.1,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Java",
+      "target": "REST API",
+      "weight": 0.0990990990990991,
+      "co_occurrence": 22
+    },
+    {
+      "source": "Data Visualization",
+      "target": "Statistics",
+      "weight": 0.0990990990990991,
+      "co_occurrence": 11
+    },
+    {
+      "source": "C#",
+      "target": "Azure",
+      "weight": 0.0989399293286219,
+      "co_occurrence": 28
+    },
+    {
+      "source": "Azure",
+      "target": "Jenkins",
+      "weight": 0.09885931558935361,
+      "co_occurrence": 26
+    },
+    {
+      "source": "SQL",
+      "target": "Git",
+      "weight": 0.09859154929577464,
+      "co_occurrence": 42
+    },
+    {
+      "source": "ETL",
+      "target": "dbt",
+      "weight": 0.09836065573770492,
+      "co_occurrence": 6
+    },
+    {
+      "source": "Python",
+      "target": "Spark",
+      "weight": 0.0979381443298969,
+      "co_occurrence": 38
+    },
+    {
+      "source": "MySQL",
+      "target": "Redis",
+      "weight": 0.0975609756097561,
+      "co_occurrence": 4
+    },
+    {
+      "source": "API Development",
+      "target": "REST API",
+      "weight": 0.0975609756097561,
+      "co_occurrence": 4
+    },
+    {
+      "source": "SQL",
+      "target": "Tableau",
+      "weight": 0.09736842105263158,
+      "co_occurrence": 37
+    },
+    {
+      "source": "Spark",
+      "target": "Machine Learning",
+      "weight": 0.09722222222222222,
+      "co_occurrence": 14
+    },
+    {
+      "source": "Docker",
+      "target": "Bash",
+      "weight": 0.09701492537313433,
+      "co_occurrence": 13
+    },
+    {
+      "source": "TensorFlow",
+      "target": "Transformers",
+      "weight": 0.0967741935483871,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Microservices",
+      "target": "JavaScript",
+      "weight": 0.09615384615384616,
+      "co_occurrence": 20
+    },
+    {
+      "source": "Kubernetes",
+      "target": "Shell",
+      "weight": 0.0958904109589041,
+      "co_occurrence": 14
+    },
+    {
+      "source": "Problem Solving",
+      "target": "Leadership",
+      "weight": 0.09582689335394126,
+      "co_occurrence": 62
+    },
+    {
+      "source": "GitHub",
+      "target": "Git",
+      "weight": 0.09558823529411764,
+      "co_occurrence": 13
+    },
+    {
+      "source": "Computer Vision",
+      "target": "Neural Network",
+      "weight": 0.09523809523809523,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Generative AI",
+      "target": "LangChain",
+      "weight": 0.09523809523809523,
+      "co_occurrence": 2
+    },
+    {
+      "source": "CI/CD",
+      "target": "REST API",
+      "weight": 0.0948905109489051,
+      "co_occurrence": 13
+    },
+    {
+      "source": "Kafka",
+      "target": "Scala",
+      "weight": 0.0945945945945946,
+      "co_occurrence": 7
+    },
+    {
+      "source": "Bash",
+      "target": "Ruby",
+      "weight": 0.0945945945945946,
+      "co_occurrence": 7
+    },
+    {
+      "source": "Java",
+      "target": "Linux",
+      "weight": 0.09404388714733543,
+      "co_occurrence": 30
+    },
+    {
+      "source": "Teamwork",
+      "target": "Leadership",
+      "weight": 0.09333333333333334,
+      "co_occurrence": 56
+    },
+    {
+      "source": "Scala",
+      "target": "Machine Learning",
+      "weight": 0.09302325581395349,
+      "co_occurrence": 12
+    },
+    {
+      "source": "Scala",
+      "target": "GCP",
+      "weight": 0.09302325581395349,
+      "co_occurrence": 8
+    },
+    {
+      "source": "Snowflake",
+      "target": "Databricks",
+      "weight": 0.09259259259259259,
+      "co_occurrence": 5
+    },
+    {
+      "source": "Jenkins",
+      "target": "Shell",
+      "weight": 0.09259259259259259,
+      "co_occurrence": 10
+    },
+    {
+      "source": "Python",
+      "target": "Ansible",
+      "weight": 0.09230769230769231,
+      "co_occurrence": 36
+    },
+    {
+      "source": "Docker",
+      "target": "GitHub",
+      "weight": 0.09230769230769231,
+      "co_occurrence": 12
+    },
+    {
+      "source": "Kubernetes",
+      "target": "Scala",
+      "weight": 0.09230769230769231,
+      "co_occurrence": 12
+    },
+    {
+      "source": "Communication",
+      "target": "Java",
+      "weight": 0.09217877094972067,
+      "co_occurrence": 99
+    },
+    {
+      "source": "Agile",
+      "target": "C#",
+      "weight": 0.09207161125319693,
+      "co_occurrence": 36
+    },
+    {
+      "source": "Terraform",
+      "target": "GitHub",
+      "weight": 0.09183673469387756,
+      "co_occurrence": 9
+    },
+    {
+      "source": "Leadership",
+      "target": "AWS",
+      "weight": 0.09182209469153516,
+      "co_occurrence": 64
+    },
+    {
+      "source": "SQL",
+      "target": "Statistics",
+      "weight": 0.09158415841584158,
+      "co_occurrence": 37
+    },
+    {
+      "source": "Scrum",
+      "target": "Java",
+      "weight": 0.09157509157509157,
+      "co_occurrence": 25
+    },
+    {
+      "source": "Linux",
+      "target": "Azure",
+      "weight": 0.09146341463414634,
+      "co_occurrence": 30
+    },
+    {
+      "source": "Scrum",
+      "target": "Git",
+      "weight": 0.09142857142857143,
+      "co_occurrence": 16
+    },
+    {
+      "source": "Leadership",
+      "target": "Optimization",
+      "weight": 0.0912,
+      "co_occurrence": 57
+    },
+    {
+      "source": "Python",
+      "target": "Optimization",
+      "weight": 0.09090909090909091,
+      "co_occurrence": 45
+    },
+    {
+      "source": "Scala",
+      "target": "Neural Network",
+      "weight": 0.09090909090909091,
+      "co_occurrence": 3
+    },
+    {
+      "source": "CI/CD",
+      "target": "Shell",
+      "weight": 0.09090909090909091,
+      "co_occurrence": 14
+    },
+    {
+      "source": "Deep Learning",
+      "target": "SageMaker",
+      "weight": 0.09090909090909091,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Linux",
+      "target": "Jenkins",
+      "weight": 0.09042553191489362,
+      "co_occurrence": 17
+    },
+    {
+      "source": "AWS",
+      "target": "Ansible",
+      "weight": 0.0898876404494382,
+      "co_occurrence": 24
+    },
+    {
+      "source": "Snowflake",
+      "target": "Tableau",
+      "weight": 0.08974358974358974,
+      "co_occurrence": 7
+    },
+    {
+      "source": "Scrum",
+      "target": "AWS",
+      "weight": 0.08970099667774087,
+      "co_occurrence": 27
+    },
+    {
+      "source": "Agile",
+      "target": "Linux",
+      "weight": 0.0896551724137931,
+      "co_occurrence": 39
+    },
+    {
+      "source": "Data Modeling",
+      "target": "Snowflake",
+      "weight": 0.08955223880597014,
+      "co_occurrence": 6
+    },
+    {
+      "source": "Java",
+      "target": "Scala",
+      "weight": 0.08928571428571429,
+      "co_occurrence": 20
+    },
+    {
+      "source": "Kafka",
+      "target": "Grafana",
+      "weight": 0.08928571428571429,
+      "co_occurrence": 5
+    },
+    {
+      "source": "Python",
+      "target": "Terraform",
+      "weight": 0.0891089108910891,
+      "co_occurrence": 36
+    },
+    {
+      "source": "Python",
+      "target": "Leadership",
+      "weight": 0.08869987849331713,
+      "co_occurrence": 73
+    },
+    {
+      "source": "Scrum",
+      "target": "Azure",
+      "weight": 0.08865248226950355,
+      "co_occurrence": 25
+    },
+    {
+      "source": "ETL",
+      "target": "Databricks",
+      "weight": 0.08860759493670886,
+      "co_occurrence": 7
+    },
+    {
+      "source": "SQL",
+      "target": "CI/CD",
+      "weight": 0.08823529411764706,
+      "co_occurrence": 39
+    },
+    {
+      "source": "BigQuery",
+      "target": "Databricks",
+      "weight": 0.08823529411764706,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Microservices",
+      "target": "SQL",
+      "weight": 0.08801955990220049,
+      "co_occurrence": 36
+    },
+    {
+      "source": "Spark",
+      "target": "Data Pipeline",
+      "weight": 0.08771929824561403,
+      "co_occurrence": 5
+    },
+    {
+      "source": "SQL",
+      "target": "Leadership",
+      "weight": 0.08754623921085081,
+      "co_occurrence": 71
+    },
+    {
+      "source": "Kafka",
+      "target": "Terraform",
+      "weight": 0.08737864077669903,
+      "co_occurrence": 9
+    },
+    {
+      "source": "SQL",
+      "target": "Docker",
+      "weight": 0.08726415094339622,
+      "co_occurrence": 37
+    },
+    {
+      "source": "Microservices",
+      "target": "Jenkins",
+      "weight": 0.08695652173913043,
+      "co_occurrence": 12
+    },
+    {
+      "source": "API Development",
+      "target": "Hive",
+      "weight": 0.08695652173913043,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Hive",
+      "target": "Cassandra",
+      "weight": 0.08695652173913043,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Transformers",
+      "target": "Natural Language Processing",
+      "weight": 0.08695652173913043,
+      "co_occurrence": 2
+    },
+    {
+      "source": "PyTorch",
+      "target": "Feature Engineering",
+      "weight": 0.08695652173913043,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Terraform",
+      "target": "Shell",
+      "weight": 0.08653846153846154,
+      "co_occurrence": 9
+    },
+    {
+      "source": "Kafka",
+      "target": "Google Cloud",
+      "weight": 0.08641975308641975,
+      "co_occurrence": 7
+    },
+    {
+      "source": "Google Cloud",
+      "target": "Ansible",
+      "weight": 0.08641975308641975,
+      "co_occurrence": 7
+    },
+    {
+      "source": "Power BI",
+      "target": "Databricks",
+      "weight": 0.08641975308641975,
+      "co_occurrence": 7
+    },
+    {
+      "source": "C++",
+      "target": "Computer Vision",
+      "weight": 0.08620689655172414,
+      "co_occurrence": 10
+    },
+    {
+      "source": "Scala",
+      "target": "Snowflake",
+      "weight": 0.08620689655172414,
+      "co_occurrence": 5
+    },
+    {
+      "source": "C++",
+      "target": "JavaScript",
+      "weight": 0.08583690987124463,
+      "co_occurrence": 20
+    },
+    {
+      "source": "Python",
+      "target": "Jenkins",
+      "weight": 0.08536585365853659,
+      "co_occurrence": 35
+    },
+    {
+      "source": "Google Cloud",
+      "target": "Terraform",
+      "weight": 0.0851063829787234,
+      "co_occurrence": 8
+    },
+    {
+      "source": "Data Visualization",
+      "target": "Machine Learning",
+      "weight": 0.0851063829787234,
+      "co_occurrence": 12
+    },
+    {
+      "source": "SQL",
+      "target": "Machine Learning",
+      "weight": 0.08505747126436781,
+      "co_occurrence": 37
+    },
+    {
+      "source": "Leadership",
+      "target": "Azure",
+      "weight": 0.08504398826979472,
+      "co_occurrence": 58
+    },
+    {
+      "source": "Hadoop",
+      "target": "Data Modeling",
+      "weight": 0.0847457627118644,
+      "co_occurrence": 5
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Computer Vision",
+      "weight": 0.0847457627118644,
+      "co_occurrence": 10
+    },
+    {
+      "source": "JavaScript",
+      "target": "Docker",
+      "weight": 0.08444444444444445,
+      "co_occurrence": 19
+    },
+    {
+      "source": "Databricks",
+      "target": "GCP",
+      "weight": 0.08433734939759036,
+      "co_occurrence": 7
+    },
+    {
+      "source": "Docker",
+      "target": "REST API",
+      "weight": 0.08333333333333333,
+      "co_occurrence": 10
+    },
+    {
+      "source": "Kubernetes",
+      "target": "MongoDB",
+      "weight": 0.08333333333333333,
+      "co_occurrence": 10
+    },
+    {
+      "source": "Spark",
+      "target": "Data Modeling",
+      "weight": 0.08333333333333333,
+      "co_occurrence": 7
+    },
+    {
+      "source": "Linux",
+      "target": "Ruby",
+      "weight": 0.08333333333333333,
+      "co_occurrence": 13
+    },
+    {
+      "source": "Google Cloud",
+      "target": "Cassandra",
+      "weight": 0.08333333333333333,
+      "co_occurrence": 4
+    },
+    {
+      "source": "TensorFlow",
+      "target": "Feature Engineering",
+      "weight": 0.08333333333333333,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Bash",
+      "target": "Jenkins",
+      "weight": 0.08333333333333333,
+      "co_occurrence": 9
+    },
+    {
+      "source": "Terraform",
+      "target": "Databricks",
+      "weight": 0.08333333333333333,
+      "co_occurrence": 7
+    },
+    {
+      "source": "Databricks",
+      "target": "Pandas",
+      "weight": 0.08333333333333333,
+      "co_occurrence": 3
+    },
+    {
+      "source": "RAG",
+      "target": "PyTorch",
+      "weight": 0.08333333333333333,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Airflow",
+      "target": "LangChain",
+      "weight": 0.08333333333333333,
+      "co_occurrence": 2
+    },
+    {
+      "source": "PyTorch",
+      "target": "Computer Vision",
+      "weight": 0.08333333333333333,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Computer Vision",
+      "target": "Fine-tuning",
+      "weight": 0.08333333333333333,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Deep Learning",
+      "target": "LangChain",
+      "weight": 0.08333333333333333,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Microservices",
+      "target": "GCP",
+      "weight": 0.08270676691729323,
+      "co_occurrence": 11
+    },
+    {
+      "source": "Azure",
+      "target": "Databricks",
+      "weight": 0.08260869565217391,
+      "co_occurrence": 19
+    },
+    {
+      "source": "C#",
+      "target": "Java",
+      "weight": 0.08243727598566308,
+      "co_occurrence": 23
+    },
+    {
+      "source": "Tableau",
+      "target": "Statistics",
+      "weight": 0.08196721311475409,
+      "co_occurrence": 10
+    },
+    {
+      "source": "Scala",
+      "target": "TensorFlow",
+      "weight": 0.08163265306122448,
+      "co_occurrence": 4
+    },
+    {
+      "source": "Project Management",
+      "target": "Optimization",
+      "weight": 0.08148148148148149,
+      "co_occurrence": 33
+    },
+    {
+      "source": "Agile",
+      "target": "GCP",
+      "weight": 0.08130081300813008,
+      "co_occurrence": 30
+    },
+    {
+      "source": "MySQL",
+      "target": "Kafka",
+      "weight": 0.08108108108108109,
+      "co_occurrence": 6
+    },
+    {
+      "source": "Data Pipeline",
+      "target": "Data Warehouse",
+      "weight": 0.08108108108108109,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Python",
+      "target": "Shell",
+      "weight": 0.0810126582278481,
+      "co_occurrence": 32
+    },
+    {
+      "source": "Kafka",
+      "target": "ETL",
+      "weight": 0.08080808080808081,
+      "co_occurrence": 8
+    },
+    {
+      "source": "Machine Learning",
+      "target": "Natural Language Processing",
+      "weight": 0.08035714285714286,
+      "co_occurrence": 9
+    },
+    {
+      "source": "JavaScript",
+      "target": "Kubernetes",
+      "weight": 0.08016877637130802,
+      "co_occurrence": 19
+    },
+    {
+      "source": "Agile",
+      "target": "Jenkins",
+      "weight": 0.08,
+      "co_occurrence": 30
+    },
+    {
+      "source": "Kafka",
+      "target": "Azure",
+      "weight": 0.08,
+      "co_occurrence": 20
+    },
+    {
+      "source": "Data Modeling",
+      "target": "Google Cloud",
+      "weight": 0.08,
+      "co_occurrence": 6
+    },
+    {
+      "source": "TensorFlow",
+      "target": "RAG",
+      "weight": 0.08,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Redis",
+      "target": "Cassandra",
+      "weight": 0.08,
+      "co_occurrence": 2
+    },
+    {
+      "source": "SQL",
+      "target": "Kubernetes",
+      "weight": 0.07990867579908675,
+      "co_occurrence": 35
+    },
+    {
+      "source": "SQL",
+      "target": "Power BI",
+      "weight": 0.07908163265306123,
+      "co_occurrence": 31
+    },
+    {
+      "source": "GCP",
+      "target": "Airflow",
+      "weight": 0.07894736842105263,
+      "co_occurrence": 6
+    },
+    {
+      "source": "JavaScript",
+      "target": "REST API",
+      "weight": 0.07878787878787878,
+      "co_occurrence": 13
+    },
+    {
+      "source": "C#",
+      "target": "Python",
+      "weight": 0.07852193995381063,
+      "co_occurrence": 34
+    },
+    {
+      "source": "Data Modeling",
+      "target": "Data Pipeline",
+      "weight": 0.0784313725490196,
+      "co_occurrence": 4
+    },
+    {
+      "source": "Python",
+      "target": "Statistics",
+      "weight": 0.07819905213270142,
+      "co_occurrence": 33
+    },
+    {
+      "source": "Data Modeling",
+      "target": "Data Warehouse",
+      "weight": 0.078125,
+      "co_occurrence": 5
+    },
+    {
+      "source": "ETL",
+      "target": "PySpark",
+      "weight": 0.078125,
+      "co_occurrence": 5
+    },
+    {
+      "source": "C#",
+      "target": "CI/CD",
+      "weight": 0.07772020725388601,
+      "co_occurrence": 15
+    },
+    {
+      "source": "Java",
+      "target": "Google Cloud",
+      "weight": 0.07725321888412018,
+      "co_occurrence": 18
+    },
+    {
+      "source": "SQL",
+      "target": "Data Modeling",
+      "weight": 0.07712765957446809,
+      "co_occurrence": 29
+    },
+    {
+      "source": "Kafka",
+      "target": "Ansible",
+      "weight": 0.07692307692307693,
+      "co_occurrence": 7
+    },
+    {
+      "source": "Data Lake",
+      "target": "Data Warehouse",
+      "weight": 0.07692307692307693,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Data Modeling",
+      "target": "Databricks",
+      "weight": 0.07692307692307693,
+      "co_occurrence": 5
+    },
+    {
+      "source": "Snowflake",
+      "target": "PySpark",
+      "weight": 0.07692307692307693,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Bash",
+      "target": "Git",
+      "weight": 0.07692307692307693,
+      "co_occurrence": 11
+    },
+    {
+      "source": "Tableau",
+      "target": "ETL",
+      "weight": 0.07692307692307693,
+      "co_occurrence": 8
+    },
+    {
+      "source": "Python",
+      "target": "GCP",
+      "weight": 0.07598039215686274,
+      "co_occurrence": 31
+    },
+    {
+      "source": "Data Pipeline",
+      "target": "ETL",
+      "weight": 0.07575757575757576,
+      "co_occurrence": 5
+    },
+    {
+      "source": "CI/CD",
+      "target": "Google Cloud",
+      "weight": 0.07534246575342465,
+      "co_occurrence": 11
+    },
+    {
+      "source": "AWS",
+      "target": "Snowflake",
+      "weight": 0.07480314960629922,
+      "co_occurrence": 19
+    },
+    {
+      "source": "AWS",
+      "target": "Scala",
+      "weight": 0.07450980392156863,
+      "co_occurrence": 19
+    },
+    {
+      "source": "Docker",
+      "target": "Scala",
+      "weight": 0.0743801652892562,
+      "co_occurrence": 9
+    },
+    {
+      "source": "Kubernetes",
+      "target": "Spark",
+      "weight": 0.07432432432432433,
+      "co_occurrence": 11
+    },
+    {
+      "source": "SQL",
+      "target": "Scrum",
+      "weight": 0.07416267942583732,
+      "co_occurrence": 31
+    },
+    {
+      "source": "Microservices",
+      "target": "Terraform",
+      "weight": 0.07407407407407407,
+      "co_occurrence": 10
+    },
+    {
+      "source": "MongoDB",
+      "target": "DynamoDB",
+      "weight": 0.07407407407407407,
+      "co_occurrence": 2
+    },
+    {
+      "source": "BigQuery",
+      "target": "Airflow",
+      "weight": 0.07407407407407407,
+      "co_occurrence": 2
+    },
+    {
+      "source": "PyTorch",
+      "target": "NLP",
+      "weight": 0.07407407407407407,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Project Management",
+      "target": "Problem Solving",
+      "weight": 0.07390300230946882,
+      "co_occurrence": 32
+    },
+    {
+      "source": "AWS",
+      "target": "Bash",
+      "weight": 0.07380073800738007,
+      "co_occurrence": 20
+    },
+    {
+      "source": "Data Lake",
+      "target": "ETL",
+      "weight": 0.07352941176470588,
+      "co_occurrence": 5
+    },
+    {
+      "source": "Python",
+      "target": "Scala",
+      "weight": 0.07349081364829396,
+      "co_occurrence": 28
+    },
+    {
+      "source": "Scrum",
+      "target": "C#",
+      "weight": 0.07317073170731707,
+      "co_occurrence": 12
+    },
+    {
+      "source": "MySQL",
+      "target": "Cassandra",
+      "weight": 0.07317073170731707,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Spark",
+      "target": "Google Cloud",
+      "weight": 0.07317073170731707,
+      "co_occurrence": 6
+    },
+    {
+      "source": "Google Cloud",
+      "target": "Airflow",
+      "weight": 0.07272727272727272,
+      "co_occurrence": 4
+    },
+    {
+      "source": "Docker",
+      "target": "Shell",
+      "weight": 0.07246376811594203,
+      "co_occurrence": 10
+    },
+    {
+      "source": "Kafka",
+      "target": "PostgreSQL",
+      "weight": 0.07246376811594203,
+      "co_occurrence": 5
+    },
+    {
+      "source": "GitHub",
+      "target": "TypeScript",
+      "weight": 0.07228915662650602,
+      "co_occurrence": 6
+    },
+    {
+      "source": "AWS",
+      "target": "Data Modeling",
+      "weight": 0.07169811320754717,
+      "co_occurrence": 19
+    },
+    {
+      "source": "C#",
+      "target": "TypeScript",
+      "weight": 0.07142857142857142,
+      "co_occurrence": 9
+    },
+    {
+      "source": "API Development",
+      "target": "Scala",
+      "weight": 0.07142857142857142,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Scala",
+      "target": "Cassandra",
+      "weight": 0.07142857142857142,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Azure",
+      "target": "Bash",
+      "weight": 0.07142857142857142,
+      "co_occurrence": 18
+    },
+    {
+      "source": "Data Lake",
+      "target": "Power BI",
+      "weight": 0.07142857142857142,
+      "co_occurrence": 5
+    },
+    {
+      "source": "Snowflake",
+      "target": "Data Visualization",
+      "weight": 0.07142857142857142,
+      "co_occurrence": 5
+    },
+    {
+      "source": "TensorFlow",
+      "target": "NLP",
+      "weight": 0.07142857142857142,
+      "co_occurrence": 2
+    },
+    {
+      "source": "LLM",
+      "target": "Deep Learning",
+      "weight": 0.07142857142857142,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Airflow",
+      "target": "NumPy",
+      "weight": 0.07142857142857142,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Ruby",
+      "target": "Cassandra",
+      "weight": 0.07142857142857142,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Deep Learning",
+      "target": "NumPy",
+      "weight": 0.07142857142857142,
+      "co_occurrence": 2
+    },
+    {
+      "source": "AWS",
+      "target": "TypeScript",
+      "weight": 0.0708955223880597,
+      "co_occurrence": 19
+    },
+    {
+      "source": "C++",
+      "target": "Git",
+      "weight": 0.0707070707070707,
+      "co_occurrence": 14
+    },
+    {
+      "source": "SQL",
+      "target": "GCP",
+      "weight": 0.07052896725440806,
+      "co_occurrence": 28
+    },
+    {
+      "source": "Git",
+      "target": "GCP",
+      "weight": 0.07051282051282051,
+      "co_occurrence": 11
+    },
+    {
+      "source": "Kafka",
+      "target": "Data Warehouse",
+      "weight": 0.07042253521126761,
+      "co_occurrence": 5
+    },
+    {
+      "source": "Kubernetes",
+      "target": "Grafana",
+      "weight": 0.07017543859649122,
+      "co_occurrence": 8
+    },
+    {
+      "source": "Bash",
+      "target": "Grafana",
+      "weight": 0.07017543859649122,
+      "co_occurrence": 4
+    },
+    {
+      "source": "Microservices",
+      "target": "PostgreSQL",
+      "weight": 0.07,
+      "co_occurrence": 7
+    },
+    {
+      "source": "Microservices",
+      "target": "Python",
+      "weight": 0.06993006993006994,
+      "co_occurrence": 30
+    },
+    {
+      "source": "Agile",
+      "target": "C++",
+      "weight": 0.06987951807228916,
+      "co_occurrence": 29
+    },
+    {
+      "source": "Data Lake",
+      "target": "Snowflake",
+      "weight": 0.06976744186046512,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Java",
+      "target": "Spark",
+      "weight": 0.06967213114754098,
+      "co_occurrence": 17
+    },
+    {
+      "source": "Kafka",
+      "target": "Databricks",
+      "weight": 0.06944444444444445,
+      "co_occurrence": 5
+    },
+    {
+      "source": "Communication",
+      "target": "Linux",
+      "weight": 0.0691333982473223,
+      "co_occurrence": 71
+    },
+    {
+      "source": "SQL",
+      "target": "Optimization",
+      "weight": 0.06910569105691057,
+      "co_occurrence": 34
+    },
+    {
+      "source": "Agile",
+      "target": "Problem Solving",
+      "weight": 0.06896551724137931,
+      "co_occurrence": 34
+    },
+    {
+      "source": "Kafka",
+      "target": "Cassandra",
+      "weight": 0.06896551724137931,
+      "co_occurrence": 4
+    },
+    {
+      "source": "Azure",
+      "target": "ETL",
+      "weight": 0.06896551724137931,
+      "co_occurrence": 18
+    },
+    {
+      "source": "TensorFlow",
+      "target": "LLM",
+      "weight": 0.06896551724137931,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Shell",
+      "target": "Grafana",
+      "weight": 0.06896551724137931,
+      "co_occurrence": 4
+    },
+    {
+      "source": "Airflow",
+      "target": "Pandas",
+      "weight": 0.06896551724137931,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Computer Vision",
+      "target": "Natural Language Processing",
+      "weight": 0.06896551724137931,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Deep Learning",
+      "target": "Pandas",
+      "weight": 0.06896551724137931,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Leadership",
+      "target": "Java",
+      "weight": 0.06871345029239766,
+      "co_occurrence": 47
+    },
+    {
+      "source": "SQL",
+      "target": "Project Management",
+      "weight": 0.06867671691792294,
+      "co_occurrence": 41
+    },
+    {
+      "source": "SQL",
+      "target": "Linux",
+      "weight": 0.06837606837606838,
+      "co_occurrence": 32
+    },
+    {
+      "source": "GitHub",
+      "target": "Shell",
+      "weight": 0.06818181818181818,
+      "co_occurrence": 6
+    },
+    {
+      "source": "MySQL",
+      "target": "Scala",
+      "weight": 0.06779661016949153,
+      "co_occurrence": 4
+    },
+    {
+      "source": "Communication",
+      "target": "JavaScript",
+      "weight": 0.06750241080038573,
+      "co_occurrence": 70
+    },
+    {
+      "source": "Microservices",
+      "target": "Cassandra",
+      "weight": 0.06741573033707865,
+      "co_occurrence": 6
+    },
+    {
+      "source": "JavaScript",
+      "target": "GitHub",
+      "weight": 0.06741573033707865,
+      "co_occurrence": 12
+    },
+    {
+      "source": "Spark",
+      "target": "GCP",
+      "weight": 0.0673076923076923,
+      "co_occurrence": 7
+    },
+    {
+      "source": "Ansible",
+      "target": "GCP",
+      "weight": 0.0673076923076923,
+      "co_occurrence": 7
+    },
+    {
+      "source": "Spark",
+      "target": "Azure",
+      "weight": 0.06719367588932806,
+      "co_occurrence": 17
+    },
+    {
+      "source": "Docker",
+      "target": "TypeScript",
+      "weight": 0.06716417910447761,
+      "co_occurrence": 9
+    },
+    {
+      "source": "Agile",
+      "target": "TypeScript",
+      "weight": 0.0670391061452514,
+      "co_occurrence": 24
+    },
+    {
+      "source": "MySQL",
+      "target": "Spark",
+      "weight": 0.06666666666666667,
+      "co_occurrence": 5
+    },
+    {
+      "source": "Java",
+      "target": "GitHub",
+      "weight": 0.06666666666666667,
+      "co_occurrence": 16
+    },
+    {
+      "source": "Kafka",
+      "target": "Snowflake",
+      "weight": 0.06666666666666667,
+      "co_occurrence": 5
+    },
+    {
+      "source": "MongoDB",
+      "target": "Grafana",
+      "weight": 0.06666666666666667,
+      "co_occurrence": 2
+    },
+    {
+      "source": "GitHub",
+      "target": "Airflow",
+      "weight": 0.06666666666666667,
+      "co_occurrence": 4
+    },
+    {
+      "source": "Databricks",
+      "target": "Time Series Analysis",
+      "weight": 0.06666666666666667,
+      "co_occurrence": 2
+    },
+    {
+      "source": "Java",
+      "target": "Machine Learning",
+      "weight": 0.0664451827242525,
+      "co_occurrence": 20
+    },
+    {
+      "source": "Python",
+      "target": "ETL",
+      "weight": 0.0661764705882353,
+      "co_occurrence": 27
+    },
+    {
+      "source": "MySQL",
+      "target": "Java",
+      "weight": 0.06578947368421052,
+      "co_occurrence": 15
+    },
+    {
+      "source": "AWS",
+      "target": "Optimization",
+      "weight": 0.06578947368421052,
+      "co_occurrence": 25
+    },
+    {
+      "source": "Kafka",
+      "target": "REST API",
+      "weight": 0.06578947368421052,
+      "co_occurrence": 5
+    },
+    {
+      "source": "Scala",
+      "target": "Generative AI",
+      "weight": 0.06521739130434782,
+      "co_occurrence": 3
+    },
+    {
+      "source": "Scrum",
+      "target": "TypeScript",
+      "weight": 0.06504065040650407,
+      "co_occurrence": 8
+    },
+    {
+      "source": "Python",
+      "target": "MATLAB",
+      "weight": 0.06493506493506493,
+      "co_occurrence": 25
+    },
+    {
+      "source": "SQL",
+      "target": "Snowflake",
+      "weight": 0.06486486486486487,
+      "co_occurrence": 24
+    },
+    {
+      "source": "Azure",
+      "target": "Data Modeling",
+      "weight": 0.06477732793522267,
+      "co_occurrence": 16
+    },
+    {
+      "source": "SQL",
+      "target": "Spark",
+      "weight": 0.06459948320413436,
+      "co_occurrence": 25
+    },
+    {
+      "source": "Microservices",
+      "target": "Shell",
+      "weight": 0.06451612903225806,
+      "co_occurrence": 8
+    },
+    {
+      "source": "Azure",
+      "target": "Machine Learning",
+      "weight": 0.06451612903225806,
+      "co_occurrence": 20
+    }
+  ],
+  "stats": {
+    "total_nodes": 134,
+    "total_edges": 500,
+    "n_communities": 43,
+    "density": 0.056110425317023906
+  }
+}

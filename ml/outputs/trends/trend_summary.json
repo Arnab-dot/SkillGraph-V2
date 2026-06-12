@@ -1,0 +1,87 @@
+{
+  "total_skills_analyzed": 134,
+  "emerging": [],
+  "declining": [],
+  "stable_high_demand": [
+    {
+      "skill": "Communication",
+      "total_frequency": 1395,
+      "growth_score": 1.0,
+      "recent_avg": 1395,
+      "older_avg": 1395,
+      "trend": "stable"
+    },
+    {
+      "skill": "Leadership",
+      "total_frequency": 623,
+      "growth_score": 1.0,
+      "recent_avg": 623,
+      "older_avg": 623,
+      "trend": "stable"
+    },
+    {
+      "skill": "Python",
+      "total_frequency": 385,
+      "growth_score": 1.0,
+      "recent_avg": 385,
+      "older_avg": 385,
+      "trend": "stable"
+    },
+    {
+      "skill": "SQL",
+      "total_frequency": 374,
+      "growth_score": 1.0,
+      "recent_avg": 374,
+      "older_avg": 374,
+      "trend": "stable"
+    },
+    {
+      "skill": "Agile",
+      "total_frequency": 354,
+      "growth_score": 1.0,
+      "recent_avg": 354,
+      "older_avg": 354,
+      "trend": "stable"
+    },
+    {
+      "skill": "Project Management",
+      "total_frequency": 306,
+      "growth_score": 1.0,
+      "recent_avg": 306,
+      "older_avg": 306,
+      "trend": "stable"
+    },
+    {
+      "skill": "AWS",
+      "total_frequency": 248,
+      "growth_score": 1.0,
+      "recent_avg": 248,
+      "older_avg": 248,
+      "trend": "stable"
+    },
+    {
+      "skill": "Azure",
+      "total_frequency": 227,
+      "growth_score": 1.0,
+      "recent_avg": 227,
+      "older_avg": 227,
+      "trend": "stable"
+    },
+    {
+      "skill": "Java",
+      "total_frequency": 220,
+      "growth_score": 1.0,
+      "recent_avg": 220,
+      "older_avg": 220,
+      "trend": "stable"
+    },
+    {
+      "skill": "Problem Solving",
+      "total_frequency": 217,
+      "growth_score": 1.0,
+      "recent_avg": 217,
+      "older_avg": 217,
+      "trend": "stable"
+    }
+  ]
+}

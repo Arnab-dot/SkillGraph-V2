@@ -1,0 +1,135 @@
+skill,month,frequency
+A/B Testing,2024-04,4
+API Development,2024-04,13
+AWS,2024-04,248
+Agile,2024-04,354
+Airflow,2024-04,21
+Ansible,2024-04,49
+Azure,2024-04,227
+BERT,2024-04,3
+Bash,2024-04,49
+BigQuery,2024-04,9
+C,2024-04,2
+C#,2024-04,90
+C++,2024-04,111
+CI/CD,2024-04,120
+Calculus,2024-04,1
+Cassandra,2024-04,13
+Classification,2024-04,79
+Clustering,2024-04,6
+Communication,2024-04,1395
+Computer Vision,2024-04,20
+D3.js,2024-04,2
+Data Lake,2024-04,15
+Data Modeling,2024-04,42
+Data Pipeline,2024-04,13
+Data Visualization,2024-04,44
+Data Warehouse,2024-04,27
+Databricks,2024-04,28
+Deep Learning,2024-04,20
+Django,2024-04,8
+Docker,2024-04,98
+DynamoDB,2024-04,9
+ETL,2024-04,58
+ETL Pipeline,2024-04,1
+Elasticsearch,2024-04,5
+FastAPI,2024-04,1
+Feature Engineering,2024-04,5
+Fine-tuning,2024-04,7
+Flask,2024-04,3
+Flink,2024-04,2
+GAN,2024-04,2
+GCP,2024-04,64
+GPT,2024-04,2
+GRU,2024-04,1
+Generative AI,2024-04,17
+Git,2024-04,105
+GitHub,2024-04,46
+GitHub Actions,2024-04,8
+Go,2024-04,5
+Google Cloud,2024-04,39
+Grafana,2024-04,12
+GraphQL,2024-04,11
+Hadoop,2024-04,22
+Hive,2024-04,12
+Hypothesis Testing,2024-04,2
+Image Classification,2024-04,2
+JWT,2024-04,1
+Java,2024-04,220
+JavaScript,2024-04,147
+Jenkins,2024-04,68
+Julia,2024-04,2
+Kafka,2024-04,49
+Kotlin,2024-04,11
+Kubeflow,2024-04,2
+Kubernetes,2024-04,110
+LLM,2024-04,11
+LangChain,2024-04,6
+Large Language Model,2024-04,2
+Leadership,2024-04,623
+Linux,2024-04,142
+Looker,2024-04,2
+MATLAB,2024-04,34
+MLflow,2024-04,2
+Machine Learning,2024-04,113
+Matplotlib,2024-04,3
+Microservices,2024-04,82
+Model Deployment,2024-04,4
+Model Serving,2024-04,1
+Model Training,2024-04,4
+MongoDB,2024-04,20
+MySQL,2024-04,31
+NLP,2024-04,9
+Named Entity Recognition,2024-04,1
+Natural Language Processing,2024-04,12
+Neo4j,2024-04,1
+Neural Network,2024-04,4
+NumPy,2024-04,10
+OAuth,2024-04,11
+Optimization,2024-04,185
+PHP,2024-04,13
+Pandas,2024-04,11
+Perl,2024-04,24
+Plotly,2024-04,3
+PostgreSQL,2024-04,25
+Power BI,2024-04,64
+Probability,2024-04,8
+Problem Solving,2024-04,217
+Project Management,2024-04,306
+Prompt Engineering,2024-04,1
+PySpark,2024-04,11
+PyTorch,2024-04,20
+Python,2024-04,385
+R,2024-04,3
+RAG,2024-04,6
+REST API,2024-04,32
+RNN,2024-04,1
+Redis,2024-04,14
+Regression,2024-04,28
+Reinforcement Learning,2024-04,1
+Ruby,2024-04,32
+Rust,2024-04,9
+SQL,2024-04,374
+SageMaker,2024-04,4
+Scala,2024-04,32
+Scrum,2024-04,87
+Sentiment Analysis,2024-04,1
+Shell,2024-04,50
+Snowflake,2024-04,31
+Spark,2024-04,50
+Speech Recognition,2024-04,2
+Statistics,2024-04,85
+Swift,2024-04,20
+Tableau,2024-04,55
+Teamwork,2024-04,162
+TensorFlow,2024-04,21
+Terraform,2024-04,63
+Time Series Analysis,2024-04,4
+Transformers,2024-04,16
+TypeScript,2024-04,46
+Vertex AI,2024-04,1
+Weaviate,2024-04,1
+WebSocket,2024-04,2
+dbt,2024-04,9
+gRPC,2024-04,2
+scikit-learn,2024-04,6

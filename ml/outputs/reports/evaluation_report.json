@@ -1,0 +1,30 @@
+{
+  "hdbscan_clustering": {
+    "silhouette_score": 0.5332,
+    "davies_bouldin_score": 0.5494,
+    "n_clusters": 166,
+    "n_noise": 795,
+    "noise_ratio": 0.2731
+  },
+  "kmeans_baseline": {
+    "silhouette_score": 0.4329,
+    "davies_bouldin_score": 0.6205,
+    "calinski_harabasz_score": 3052.9139
+  },
+  "autoencoder_anomaly_detection": {
+    "mean_reconstruction_error": 0.00149,
+    "std_reconstruction_error": 0.000359,
+    "min_error": 0.000745,
+    "max_error": 0.005063,
+    "median_error": 0.001442,
+    "anomaly_threshold": 0.002022,
+    "n_anomalies": 146,
+    "anomaly_ratio": 0.0502
+  },
+  "skill_extraction": {
+    "total_jobs": 2911,
+    "total_skill_mentions": 7813,
+    "avg_skills_per_job": 2.68,
+    "unique_skills_found": 134
+  }
+}
