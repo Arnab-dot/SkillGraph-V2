@@ -1,135 +1,435 @@
 skill,month,frequency
-A/B Testing,2024-04,4
-API Development,2024-04,13
-AWS,2024-04,248
-Agile,2024-04,354
-Airflow,2024-04,21
-Ansible,2024-04,49
-Azure,2024-04,227
-BERT,2024-04,3
-Bash,2024-04,49
-BigQuery,2024-04,9
-C,2024-04,2
-C#,2024-04,90
-C++,2024-04,111
-CI/CD,2024-04,120
-Calculus,2024-04,1
-Cassandra,2024-04,13
-Classification,2024-04,79
-Clustering,2024-04,6
-Communication,2024-04,1395
-Computer Vision,2024-04,20
-D3.js,2024-04,2
-Data Lake,2024-04,15
-Data Modeling,2024-04,42
-Data Pipeline,2024-04,13
-Data Visualization,2024-04,44
-Data Warehouse,2024-04,27
-Databricks,2024-04,28
-Deep Learning,2024-04,20
-Django,2024-04,8
-Docker,2024-04,98
-DynamoDB,2024-04,9
-ETL,2024-04,58
-ETL Pipeline,2024-04,1
-Elasticsearch,2024-04,5
-FastAPI,2024-04,1
-Feature Engineering,2024-04,5
-Fine-tuning,2024-04,7
-Flask,2024-04,3
-Flink,2024-04,2
-GAN,2024-04,2
-GCP,2024-04,64
-GPT,2024-04,2
-GRU,2024-04,1
-Generative AI,2024-04,17
-Git,2024-04,105
-GitHub,2024-04,46
-GitHub Actions,2024-04,8
-Go,2024-04,5
-Google Cloud,2024-04,39
-Grafana,2024-04,12
-GraphQL,2024-04,11
-Hadoop,2024-04,22
-Hive,2024-04,12
-Hypothesis Testing,2024-04,2
-Image Classification,2024-04,2
-JWT,2024-04,1
-Java,2024-04,220
-JavaScript,2024-04,147
-Jenkins,2024-04,68
-Julia,2024-04,2
-Kafka,2024-04,49
-Kotlin,2024-04,11
-Kubeflow,2024-04,2
-Kubernetes,2024-04,110
-LLM,2024-04,11
-LangChain,2024-04,6
-Large Language Model,2024-04,2
-Leadership,2024-04,623
-Linux,2024-04,142
-Looker,2024-04,2
-MATLAB,2024-04,34
-MLflow,2024-04,2
-Machine Learning,2024-04,113
-Matplotlib,2024-04,3
-Microservices,2024-04,82
-Model Deployment,2024-04,4
-Model Serving,2024-04,1
-Model Training,2024-04,4
-MongoDB,2024-04,20
-MySQL,2024-04,31
-NLP,2024-04,9
-Named Entity Recognition,2024-04,1
-Natural Language Processing,2024-04,12
-Neo4j,2024-04,1
-Neural Network,2024-04,4
-NumPy,2024-04,10
-OAuth,2024-04,11
-Optimization,2024-04,185
-PHP,2024-04,13
-Pandas,2024-04,11
-Perl,2024-04,24
-Plotly,2024-04,3
-PostgreSQL,2024-04,25
-Power BI,2024-04,64
-Probability,2024-04,8
-Problem Solving,2024-04,217
-Project Management,2024-04,306
-Prompt Engineering,2024-04,1
-PySpark,2024-04,11
-PyTorch,2024-04,20
-Python,2024-04,385
-R,2024-04,3
-RAG,2024-04,6
-REST API,2024-04,32
-RNN,2024-04,1
-Redis,2024-04,14
-Regression,2024-04,28
-Reinforcement Learning,2024-04,1
-Ruby,2024-04,32
-Rust,2024-04,9
-SQL,2024-04,374
-SageMaker,2024-04,4
-Scala,2024-04,32
-Scrum,2024-04,87
-Sentiment Analysis,2024-04,1
-Shell,2024-04,50
-Snowflake,2024-04,31
-Spark,2024-04,50
-Speech Recognition,2024-04,2
-Statistics,2024-04,85
-Swift,2024-04,20
-Tableau,2024-04,55
-Teamwork,2024-04,162
-TensorFlow,2024-04,21
-Terraform,2024-04,63
-Time Series Analysis,2024-04,4
-Transformers,2024-04,16
-TypeScript,2024-04,46
-Vertex AI,2024-04,1
-Weaviate,2024-04,1
-WebSocket,2024-04,2
-dbt,2024-04,9
-gRPC,2024-04,2
-scikit-learn,2024-04,6
+A/B Testing,2024-03,2
+A/B Testing,2024-04,1
+A/B Testing,2024-10,1
+API Development,2024-05,1
+AWS,2024-01,2
+AWS,2024-02,1
+AWS,2024-03,3
+AWS,2024-04,3
+AWS,2024-05,2
+AWS,2024-06,1
+AWS,2024-07,1
+AWS,2024-09,1
+AWS,2024-10,1
+AWS,2024-11,4
+AWS,2024-12,2
+Agentic AI,2024-06,1
+Agentic AI,2024-09,1
+Agile,2024-01,1
+Agile,2024-03,1
+Agile,2024-04,1
+Agile,2024-06,1
+Agile,2024-07,1
+Agile,2024-09,1
+Agile,2024-11,1
+Agile,2024-12,1
+Airflow,2024-02,1
+Airflow,2024-03,2
+Airflow,2024-04,1
+Airflow,2024-05,1
+Airflow,2024-07,1
+Airflow,2024-10,1
+Airflow,2024-11,1
+Airflow,2024-12,1
+Ansible,2024-02,1
+Ansible,2024-03,1
+Ansible,2024-11,1
+Azure,2024-01,1
+Azure,2024-03,1
+Azure,2024-07,1
+Azure,2024-12,1
+BERT,2024-06,1
+BERT,2024-07,1
+BERT,2024-08,1
+BERT,2024-09,1
+BERT,2024-10,1
+Bash,2024-01,1
+Bash,2024-11,1
+Bayesian,2024-08,1
+BigQuery,2024-03,1
+BigQuery,2024-05,1
+BigQuery,2024-08,1
+BigQuery,2024-10,1
+BigQuery,2024-11,1
+CI/CD,2024-01,1
+CI/CD,2024-02,2
+CI/CD,2024-03,2
+CI/CD,2024-04,1
+CI/CD,2024-05,2
+CI/CD,2024-09,1
+CI/CD,2024-10,1
+CI/CD,2024-11,3
+CNN,2024-04,1
+CNN,2024-10,1
+ChromaDB,2024-06,1
+Classification,2024-01,2
+Classification,2024-03,1
+Classification,2024-05,1
+Classification,2024-07,1
+Classification,2024-08,1
+Classification,2024-10,1
+Classification,2024-12,1
+Clustering,2024-01,1
+Clustering,2024-10,1
+Communication,2024-03,1
+Communication,2024-05,1
+Communication,2024-06,1
+Communication,2024-08,1
+Communication,2024-12,1
+Computer Vision,2024-01,1
+Computer Vision,2024-04,1
+Computer Vision,2024-10,1
+Computer Vision,2024-11,1
+Computer Vision,2024-12,1
+DVC,2024-02,1
+Data Lake,2024-05,1
+Data Modeling,2024-01,1
+Data Modeling,2024-05,1
+Data Modeling,2024-06,1
+Data Pipeline,2024-05,1
+Data Visualization,2024-04,1
+Data Warehouse,2024-03,1
+Data Warehouse,2024-11,1
+Deep Learning,2024-03,1
+Deep Learning,2024-04,1
+Deep Learning,2024-06,1
+Deep Learning,2024-07,1
+Deep Learning,2024-08,1
+Deep Learning,2024-10,1
+Deep Learning,2024-11,1
+Deep Learning,2024-12,1
+Django,2024-02,1
+Django,2024-05,1
+Docker,2024-01,2
+Docker,2024-02,2
+Docker,2024-03,2
+Docker,2024-04,2
+Docker,2024-05,3
+Docker,2024-06,1
+Docker,2024-07,1
+Docker,2024-08,1
+Docker,2024-09,2
+Docker,2024-10,3
+Docker,2024-11,4
+DynamoDB,2024-11,1
+ETL,2024-03,1
+ETL,2024-05,1
+ETL,2024-06,1
+ETL,2024-11,1
+ETL,2024-12,1
+ETL Pipeline,2024-03,1
+ETL Pipeline,2024-11,1
+ETL Pipeline,2024-12,1
+Elasticsearch,2024-05,1
+FAISS,2024-06,1
+FAISS,2024-09,1
+FastAPI,2024-02,1
+FastAPI,2024-05,1
+FastAPI,2024-08,1
+FastAPI,2024-09,1
+FastAPI,2024-11,2
+Feature Engineering,2024-01,1
+Feature Engineering,2024-03,1
+Feature Engineering,2024-04,1
+Feature Engineering,2024-07,1
+Fine-tuning,2024-06,1
+Fine-tuning,2024-08,1
+Fine-tuning,2024-11,1
+Fine-tuning,2024-12,1
+Flask,2024-02,1
+GAN,2024-01,1
+GCP,2024-01,2
+GCP,2024-02,1
+GCP,2024-03,2
+GCP,2024-07,1
+GCP,2024-09,1
+GCP,2024-10,2
+GCP,2024-11,3
+GPT,2024-06,1
+GPT,2024-07,1
+GPT,2024-08,1
+GPT,2024-09,1
+GPT,2024-10,1
+Generative AI,2024-05,1
+Generative AI,2024-11,1
+Generative AI,2024-12,1
+Git,2024-01,1
+Git,2024-02,1
+Git,2024-03,2
+Git,2024-04,1
+Git,2024-05,2
+Git,2024-07,1
+Git,2024-09,1
+Git,2024-10,1
+Git,2024-11,3
+GitHub,2024-02,2
+GitHub,2024-03,1
+GitHub,2024-04,1
+GitHub,2024-05,1
+GitHub,2024-10,1
+GitHub,2024-11,1
+GitHub Actions,2024-02,2
+GitHub Actions,2024-03,1
+GitHub Actions,2024-04,1
+GitHub Actions,2024-05,1
+GitHub Actions,2024-10,1
+GitHub Actions,2024-11,1
+Google Cloud,2024-12,1
+Grafana,2024-02,1
+Grafana,2024-03,2
+Grafana,2024-10,1
+Grafana,2024-11,1
+GraphQL,2024-02,1
+Hadoop,2024-05,1
+Hugging Face,2024-05,1
+Hugging Face,2024-06,1
+Hugging Face,2024-08,1
+Hugging Face,2024-11,1
+Hypothesis Testing,2024-03,1
+Hypothesis Testing,2024-06,1
+Hypothesis Testing,2024-12,1
+Image Classification,2024-01,1
+Image Classification,2024-10,1
+Java,2024-02,1
+Java,2024-09,1
+Jenkins,2024-02,1
+Jenkins,2024-04,1
+Jenkins,2024-10,1
+Jenkins,2024-11,1
+Kafka,2024-02,1
+Kafka,2024-03,1
+Kafka,2024-05,1
+Kafka,2024-07,1
+Kafka,2024-09,1
+Kafka,2024-11,1
+Kubeflow,2024-10,2
+Kubeflow,2024-11,1
+Kubernetes,2024-01,1
+Kubernetes,2024-02,2
+Kubernetes,2024-03,1
+Kubernetes,2024-04,1
+Kubernetes,2024-05,2
+Kubernetes,2024-06,1
+Kubernetes,2024-07,1
+Kubernetes,2024-09,2
+Kubernetes,2024-10,3
+Kubernetes,2024-11,2
+LLM,2024-05,1
+LLM,2024-08,1
+LLM,2024-09,1
+LLM,2024-11,1
+LLM,2024-12,1
+LangChain,2024-06,1
+LangChain,2024-09,1
+LangChain,2024-11,1
+LangGraph,2024-06,1
+LangGraph,2024-09,1
+LightGBM,2024-01,1
+LightGBM,2024-03,1
+Linear Algebra,2024-04,1
+Linear Algebra,2024-08,1
+Linear Algebra,2024-10,1
+Linux,2024-01,1
+Linux,2024-02,2
+Linux,2024-03,2
+Linux,2024-05,1
+Linux,2024-10,1
+Linux,2024-11,2
+MLflow,2024-01,1
+MLflow,2024-02,1
+MLflow,2024-04,1
+MLflow,2024-07,1
+MLflow,2024-09,1
+MLflow,2024-10,1
+MLflow,2024-11,1
+Machine Learning,2024-03,1
+Machine Learning,2024-04,2
+Machine Learning,2024-07,1
+Machine Learning,2024-08,1
+Machine Learning,2024-11,1
+Matplotlib,2024-01,1
+Matplotlib,2024-04,1
+Matplotlib,2024-06,1
+Microservices,2024-02,1
+Microservices,2024-09,1
+Model Deployment,2024-05,1
+Model Deployment,2024-10,1
+Model Deployment,2024-11,1
+Model Serving,2024-09,1
+Model Serving,2024-11,1
+Model Training,2024-02,1
+MongoDB,2024-02,1
+MongoDB,2024-03,1
+MongoDB,2024-09,1
+MySQL,2024-09,1
+NER,2024-05,1
+NLP,2024-03,1
+NLP,2024-04,1
+NLP,2024-05,1
+NLP,2024-06,1
+NLP,2024-07,2
+NLP,2024-08,2
+NLP,2024-12,1
+Named Entity Recognition,2024-08,1
+Named Entity Recognition,2024-12,1
+Natural Language Processing,2024-07,1
+NumPy,2024-03,1
+NumPy,2024-04,1
+NumPy,2024-05,1
+NumPy,2024-08,1
+NumPy,2024-10,2
+Object Detection,2024-01,1
+Object Detection,2024-04,1
+Object Detection,2024-10,1
+Optimization,2024-01,1
+Optimization,2024-04,1
+Optimization,2024-09,1
+Optimization,2024-10,2
+Optimization,2024-11,1
+Pandas,2024-03,1
+Pandas,2024-05,1
+Pandas,2024-06,1
+Pandas,2024-08,2
+Pandas,2024-10,2
+Pandas,2024-12,1
+Pinecone,2024-06,1
+Pinecone,2024-09,1
+Plotly,2024-01,1
+PostgreSQL,2024-02,1
+PostgreSQL,2024-03,1
+PostgreSQL,2024-05,1
+PostgreSQL,2024-09,1
+PostgreSQL,2024-11,2
+Power BI,2024-03,1
+Power BI,2024-04,1
+Power BI,2024-06,1
+Power BI,2024-12,1
+Probability,2024-08,1
+Probability,2024-10,1
+Problem Solving,2024-04,1
+Problem Solving,2024-05,2
+Problem Solving,2024-09,1
+Problem Solving,2024-10,1
+Project Management,2024-06,1
+Prompt Engineering,2024-11,1
+PySpark,2024-03,1
+PySpark,2024-11,1
+PyTorch,2024-01,1
+PyTorch,2024-03,1
+PyTorch,2024-04,2
+PyTorch,2024-05,1
+PyTorch,2024-06,1
+PyTorch,2024-07,1
+PyTorch,2024-08,1
+PyTorch,2024-09,1
+PyTorch,2024-10,2
+PyTorch,2024-12,1
+Python,2024-01,2
+Python,2024-02,2
+Python,2024-03,4
+Python,2024-04,3
+Python,2024-05,3
+Python,2024-06,2
+Python,2024-07,2
+Python,2024-08,2
+Python,2024-09,2
+Python,2024-10,4
+Python,2024-11,4
+Python,2024-12,1
+RAG,2024-06,1
+RAG,2024-08,1
+RAG,2024-09,1
+RAG,2024-11,1
+REST API,2024-02,1
+REST API,2024-09,1
+Redis,2024-02,1
+Redis,2024-05,1
+Regression,2024-01,1
+Regression,2024-06,1
+Regression,2024-07,1
+Reinforcement Learning,2024-12,1
+Retrieval Augmented Generation,2024-06,1
+SQL,2024-01,1
+SQL,2024-03,3
+SQL,2024-04,1
+SQL,2024-05,2
+SQL,2024-06,1
+SQL,2024-08,1
+SQL,2024-09,1
+SQL,2024-10,1
+SQL,2024-11,1
+SQL,2024-12,1
+SageMaker,2024-02,1
+SageMaker,2024-03,1
+SageMaker,2024-04,1
+SageMaker,2024-10,1
+SageMaker,2024-11,1
+Scrum,2024-07,1
+Seaborn,2024-01,1
+Seaborn,2024-06,1
+Sentiment Analysis,2024-05,1
+Sentiment Analysis,2024-07,1
+Sentiment Analysis,2024-08,1
+Shell,2024-02,1
+Shell,2024-11,1
+Snowflake,2024-03,1
+Snowflake,2024-05,1
+Snowflake,2024-08,1
+Snowflake,2024-11,1
+Spark,2024-03,3
+Spark,2024-04,1
+Spark,2024-05,1
+Spark,2024-07,1
+Spark,2024-08,1
+Spark,2024-12,1
+Speech Recognition,2024-08,1
+Statistics,2024-01,1
+Statistics,2024-04,1
+Statistics,2024-07,1
+Statistics,2024-08,1
+Tableau,2024-03,1
+Tableau,2024-04,1
+Tableau,2024-06,1
+Tableau,2024-08,1
+Tableau,2024-10,1
+Tableau,2024-12,1
+TensorFlow,2024-01,1
+TensorFlow,2024-03,1
+TensorFlow,2024-04,2
+TensorFlow,2024-05,1
+TensorFlow,2024-06,1
+TensorFlow,2024-07,1
+TensorFlow,2024-08,1
+TensorFlow,2024-09,1
+TensorFlow,2024-10,2
+TensorFlow,2024-12,1
+Terraform,2024-01,1
+Terraform,2024-02,1
+Terraform,2024-03,1
+Terraform,2024-10,1
+Terraform,2024-11,2
+Text Classification,2024-03,1
+Text Classification,2024-05,1
+Text Classification,2024-07,1
+Text Classification,2024-08,1
+Text Classification,2024-12,1
+Transformers,2024-05,1
+Transformers,2024-06,1
+Transformers,2024-08,1
+Transformers,2024-09,1
+Transformers,2024-10,1
+Transformers,2024-11,1
+Vector Database,2024-06,1
+Vertex AI,2024-02,1
+Vertex AI,2024-10,2
+Weaviate,2024-09,1
+XGBoost,2024-01,1
+XGBoost,2024-03,1
+dbt,2024-03,1
+dbt,2024-05,1
+dbt,2024-11,1
+scikit-learn,2024-01,1
+scikit-learn,2024-03,2
+scikit-learn,2024-04,2
+scikit-learn,2024-08,1

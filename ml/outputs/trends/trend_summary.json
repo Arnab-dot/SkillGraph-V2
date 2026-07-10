@@ -1,86 +1,248 @@
 {
-  "total_skills_analyzed": 134,
-  "emerging": [],
-  "declining": [],
+  "total_skills_analyzed": 117,
+  "emerging": [
+    {
+      "skill": "Docker",
+      "growth_score": 2.625,
+      "recent_avg": 3.5,
+      "older_avg": 1.33,
+      "total_frequency": 23,
+      "trend": "emerging"
+    },
+    {
+      "skill": "GCP",
+      "growth_score": 2.5,
+      "recent_avg": 2.5,
+      "older_avg": 1.0,
+      "total_frequency": 12,
+      "trend": "emerging"
+    },
+    {
+      "skill": "AWS",
+      "growth_score": 2.333,
+      "recent_avg": 2.33,
+      "older_avg": 1.0,
+      "total_frequency": 21,
+      "trend": "emerging"
+    },
+    {
+      "skill": "CI/CD",
+      "growth_score": 2.0,
+      "recent_avg": 2.0,
+      "older_avg": 1.0,
+      "total_frequency": 13,
+      "trend": "emerging"
+    },
+    {
+      "skill": "Git",
+      "growth_score": 2.0,
+      "recent_avg": 2.0,
+      "older_avg": 1.0,
+      "total_frequency": 13,
+      "trend": "emerging"
+    },
+    {
+      "skill": "FastAPI",
+      "growth_score": 2.0,
+      "recent_avg": 2.0,
+      "older_avg": 1.0,
+      "total_frequency": 6,
+      "trend": "emerging"
+    },
+    {
+      "skill": "PostgreSQL",
+      "growth_score": 2.0,
+      "recent_avg": 2.0,
+      "older_avg": 1.0,
+      "total_frequency": 6,
+      "trend": "emerging"
+    },
+    {
+      "skill": "NumPy",
+      "growth_score": 2.0,
+      "recent_avg": 2.0,
+      "older_avg": 1.0,
+      "total_frequency": 6,
+      "trend": "emerging"
+    },
+    {
+      "skill": "Kubernetes",
+      "growth_score": 1.667,
+      "recent_avg": 2.5,
+      "older_avg": 1.5,
+      "total_frequency": 16,
+      "trend": "emerging"
+    },
+    {
+      "skill": "Optimization",
+      "growth_score": 1.5,
+      "recent_avg": 1.5,
+      "older_avg": 1.0,
+      "total_frequency": 6,
+      "trend": "emerging"
+    }
+  ],
+  "declining": [
+    {
+      "skill": "Pandas",
+      "growth_score": 0.75,
+      "recent_avg": 1.5,
+      "older_avg": 2.0,
+      "total_frequency": 8,
+      "trend": "declining"
+    },
+    {
+      "skill": "NLP",
+      "growth_score": 0.5,
+      "recent_avg": 1.0,
+      "older_avg": 2.0,
+      "total_frequency": 9,
+      "trend": "declining"
+    },
+    {
+      "skill": "Agentic AI",
+      "growth_score": 0.0,
+      "recent_avg": 0.0,
+      "older_avg": 1.0,
+      "total_frequency": 2,
+      "trend": "rapidly_declining"
+    },
+    {
+      "skill": "FAISS",
+      "growth_score": 0.0,
+      "recent_avg": 0.0,
+      "older_avg": 1.0,
+      "total_frequency": 2,
+      "trend": "rapidly_declining"
+    },
+    {
+      "skill": "Bayesian",
+      "growth_score": 0.0,
+      "recent_avg": 0.0,
+      "older_avg": 1.0,
+      "total_frequency": 1,
+      "trend": "rapidly_declining"
+    },
+    {
+      "skill": "Java",
+      "growth_score": 0.0,
+      "recent_avg": 0.0,
+      "older_avg": 1.0,
+      "total_frequency": 2,
+      "trend": "rapidly_declining"
+    },
+    {
+      "skill": "Feature Engineering",
+      "growth_score": 0.0,
+      "recent_avg": 0.0,
+      "older_avg": 1.0,
+      "total_frequency": 4,
+      "trend": "rapidly_declining"
+    },
+    {
+      "skill": "Pinecone",
+      "growth_score": 0.0,
+      "recent_avg": 0.0,
+      "older_avg": 1.0,
+      "total_frequency": 2,
+      "trend": "rapidly_declining"
+    },
+    {
+      "skill": "MySQL",
+      "growth_score": 0.0,
+      "recent_avg": 0.0,
+      "older_avg": 1.0,
+      "total_frequency": 1,
+      "trend": "rapidly_declining"
+    },
+    {
+      "skill": "LangGraph",
+      "growth_score": 0.0,
+      "recent_avg": 0.0,
+      "older_avg": 1.0,
+      "total_frequency": 2,
+      "trend": "rapidly_declining"
+    }
+  ],
   "stable_high_demand": [
     {
-      "skill": "Communication",
-      "total_frequency": 1395,
-      "growth_score": 1.0,
-      "recent_avg": 1395,
-      "older_avg": 1395,
-      "trend": "stable"
-    },
-    {
-      "skill": "Leadership",
-      "total_frequency": 623,
-      "growth_score": 1.0,
-      "recent_avg": 623,
-      "older_avg": 623,
-      "trend": "stable"
-    },
-    {
-      "skill": "Python",
-      "total_frequency": 385,
-      "growth_score": 1.0,
-      "recent_avg": 385,
-      "older_avg": 385,
-      "trend": "stable"
-    },
-    {
       "skill": "SQL",
-      "total_frequency": 374,
       "growth_score": 1.0,
-      "recent_avg": 374,
-      "older_avg": 374,
+      "recent_avg": 1.0,
+      "older_avg": 1.0,
+      "total_frequency": 13,
+      "trend": "stable"
+    },
+    {
+      "skill": "Linux",
+      "growth_score": 1.0,
+      "recent_avg": 1.5,
+      "older_avg": 0.0,
+      "total_frequency": 9,
+      "trend": "stable"
+    },
+    {
+      "skill": "Airflow",
+      "growth_score": 1.0,
+      "recent_avg": 1.0,
+      "older_avg": 1.0,
+      "total_frequency": 9,
       "trend": "stable"
     },
     {
       "skill": "Agile",
-      "total_frequency": 354,
       "growth_score": 1.0,
-      "recent_avg": 354,
-      "older_avg": 354,
+      "recent_avg": 1.0,
+      "older_avg": 1.0,
+      "total_frequency": 8,
       "trend": "stable"
     },
     {
-      "skill": "Project Management",
-      "total_frequency": 306,
+      "skill": "Classification",
       "growth_score": 1.0,
-      "recent_avg": 306,
-      "older_avg": 306,
+      "recent_avg": 1.0,
+      "older_avg": 1.0,
+      "total_frequency": 8,
       "trend": "stable"
     },
     {
-      "skill": "AWS",
-      "total_frequency": 248,
+      "skill": "Deep Learning",
       "growth_score": 1.0,
-      "recent_avg": 248,
-      "older_avg": 248,
+      "recent_avg": 1.0,
+      "older_avg": 1.0,
+      "total_frequency": 8,
       "trend": "stable"
     },
     {
-      "skill": "Azure",
-      "total_frequency": 227,
+      "skill": "Spark",
       "growth_score": 1.0,
-      "recent_avg": 227,
-      "older_avg": 227,
+      "recent_avg": 1.0,
+      "older_avg": 1.0,
+      "total_frequency": 8,
       "trend": "stable"
     },
     {
-      "skill": "Java",
-      "total_frequency": 220,
+      "skill": "GitHub Actions",
       "growth_score": 1.0,
-      "recent_avg": 220,
-      "older_avg": 220,
+      "recent_avg": 1.0,
+      "older_avg": 0.0,
+      "total_frequency": 7,
       "trend": "stable"
     },
     {
-      "skill": "Problem Solving",
-      "total_frequency": 217,
+      "skill": "GitHub",
       "growth_score": 1.0,
-      "recent_avg": 217,
-      "older_avg": 217,
+      "recent_avg": 1.0,
+      "older_avg": 0.0,
+      "total_frequency": 7,
+      "trend": "stable"
+    },
+    {
+      "skill": "MLflow",
+      "growth_score": 1.0,
+      "recent_avg": 1.0,
+      "older_avg": 1.0,
+      "total_frequency": 7,
       "trend": "stable"
     }
   ]

@@ -1,135 +1,118 @@
-skill,total_frequency,growth_score,recent_avg,older_avg,trend
-Communication,1395,1.0,1395,1395,stable
-Leadership,623,1.0,623,623,stable
-Python,385,1.0,385,385,stable
-SQL,374,1.0,374,374,stable
-Agile,354,1.0,354,354,stable
-Project Management,306,1.0,306,306,stable
-AWS,248,1.0,248,248,stable
-Azure,227,1.0,227,227,stable
-Java,220,1.0,220,220,stable
-Problem Solving,217,1.0,217,217,stable
-Optimization,185,1.0,185,185,stable
-Teamwork,162,1.0,162,162,stable
-JavaScript,147,1.0,147,147,stable
-Linux,142,1.0,142,142,stable
-CI/CD,120,1.0,120,120,stable
-Machine Learning,113,1.0,113,113,stable
-C++,111,1.0,111,111,stable
-Kubernetes,110,1.0,110,110,stable
-Git,105,1.0,105,105,stable
-Docker,98,1.0,98,98,stable
-C#,90,1.0,90,90,stable
-Scrum,87,1.0,87,87,stable
-Statistics,85,1.0,85,85,stable
-Microservices,82,1.0,82,82,stable
-Classification,79,1.0,79,79,stable
-Jenkins,68,1.0,68,68,stable
-GCP,64,1.0,64,64,stable
-Power BI,64,1.0,64,64,stable
-Terraform,63,1.0,63,63,stable
-ETL,58,1.0,58,58,stable
-Tableau,55,1.0,55,55,stable
-Shell,50,1.0,50,50,stable
-Spark,50,1.0,50,50,stable
-Ansible,49,1.0,49,49,stable
-Kafka,49,1.0,49,49,stable
-Bash,49,1.0,49,49,stable
-GitHub,46,1.0,46,46,stable
-TypeScript,46,1.0,46,46,stable
-Data Visualization,44,1.0,44,44,stable
-Data Modeling,42,1.0,42,42,stable
-Google Cloud,39,1.0,39,39,stable
-MATLAB,34,1.0,34,34,stable
-Scala,32,1.0,32,32,stable
-REST API,32,1.0,32,32,stable
-Ruby,32,1.0,32,32,stable
-Snowflake,31,1.0,31,31,stable
-MySQL,31,1.0,31,31,stable
-Databricks,28,1.0,28,28,stable
-Regression,28,1.0,28,28,stable
-Data Warehouse,27,1.0,27,27,stable
-PostgreSQL,25,1.0,25,25,stable
-Perl,24,1.0,24,24,stable
-Hadoop,22,1.0,22,22,stable
-Airflow,21,1.0,21,21,stable
-TensorFlow,21,1.0,21,21,stable
-Swift,20,1.0,20,20,stable
-PyTorch,20,1.0,20,20,stable
-Deep Learning,20,1.0,20,20,stable
-Computer Vision,20,1.0,20,20,stable
-MongoDB,20,1.0,20,20,stable
-Generative AI,17,1.0,17,17,stable
-Transformers,16,1.0,16,16,stable
-Data Lake,15,1.0,15,15,stable
-Redis,14,1.0,14,14,stable
-PHP,13,1.0,13,13,stable
-API Development,13,1.0,13,13,stable
-Data Pipeline,13,1.0,13,13,stable
-Cassandra,13,1.0,13,13,stable
-Natural Language Processing,12,1.0,12,12,stable
-Grafana,12,1.0,12,12,stable
-Hive,12,1.0,12,12,stable
-GraphQL,11,1.0,11,11,stable
-Pandas,11,1.0,11,11,stable
-PySpark,11,1.0,11,11,stable
-Kotlin,11,1.0,11,11,stable
-LLM,11,1.0,11,11,stable
-OAuth,11,1.0,11,11,stable
-NumPy,10,1.0,10,10,stable
-dbt,9,1.0,9,9,stable
-NLP,9,1.0,9,9,stable
-DynamoDB,9,1.0,9,9,stable
-BigQuery,9,1.0,9,9,stable
-Rust,9,1.0,9,9,stable
-Django,8,1.0,8,8,stable
-Probability,8,1.0,8,8,stable
-GitHub Actions,8,1.0,8,8,stable
-Fine-tuning,7,1.0,7,7,stable
-Clustering,6,1.0,6,6,stable
-scikit-learn,6,1.0,6,6,stable
-RAG,6,1.0,6,6,stable
-LangChain,6,1.0,6,6,stable
-Feature Engineering,5,1.0,5,5,stable
-Elasticsearch,5,1.0,5,5,stable
-Go,5,1.0,5,5,stable
-A/B Testing,4,1.0,4,4,stable
-Neural Network,4,1.0,4,4,stable
-Model Deployment,4,1.0,4,4,stable
-Model Training,4,1.0,4,4,stable
-Time Series Analysis,4,1.0,4,4,stable
-SageMaker,4,1.0,4,4,stable
-BERT,3,1.0,3,3,stable
-Flask,3,1.0,3,3,stable
-Plotly,3,1.0,3,3,stable
-R,3,1.0,3,3,stable
-Matplotlib,3,1.0,3,3,stable
-WebSocket,2,1.0,2,2,stable
-MLflow,2,1.0,2,2,stable
-Julia,2,1.0,2,2,stable
-Kubeflow,2,1.0,2,2,stable
-Looker,2,1.0,2,2,stable
-GAN,2,1.0,2,2,stable
-Flink,2,1.0,2,2,stable
-GPT,2,1.0,2,2,stable
-C,2,1.0,2,2,stable
-D3.js,2,1.0,2,2,stable
-Image Classification,2,1.0,2,2,stable
-Hypothesis Testing,2,1.0,2,2,stable
-Large Language Model,2,1.0,2,2,stable
-Speech Recognition,2,1.0,2,2,stable
-gRPC,2,1.0,2,2,stable
-JWT,1,1.0,1,1,stable
-FastAPI,1,1.0,1,1,stable
-Calculus,1,1.0,1,1,stable
-GRU,1,1.0,1,1,stable
-ETL Pipeline,1,1.0,1,1,stable
-Neo4j,1,1.0,1,1,stable
-Prompt Engineering,1,1.0,1,1,stable
-Model Serving,1,1.0,1,1,stable
-Named Entity Recognition,1,1.0,1,1,stable
-RNN,1,1.0,1,1,stable
-Sentiment Analysis,1,1.0,1,1,stable
-Reinforcement Learning,1,1.0,1,1,stable
-Weaviate,1,1.0,1,1,stable
-Vertex AI,1,1.0,1,1,stable
+skill,growth_score,recent_avg,older_avg,total_frequency,trend
+Docker,2.625,3.5,1.33,23,emerging
+GCP,2.5,2.5,1.0,12,emerging
+AWS,2.333,2.33,1.0,21,emerging
+CI/CD,2.0,2.0,1.0,13,emerging
+Git,2.0,2.0,1.0,13,emerging
+FastAPI,2.0,2.0,1.0,6,emerging
+PostgreSQL,2.0,2.0,1.0,6,emerging
+NumPy,2.0,2.0,1.0,6,emerging
+Kubernetes,1.667,2.5,1.5,16,emerging
+Optimization,1.5,1.5,1.0,6,emerging
+PyTorch,1.5,1.5,1.0,12,emerging
+TensorFlow,1.5,1.5,1.0,12,emerging
+Python,1.5,3.0,2.0,31,emerging
+DVC,1.0,0.0,0.0,1,stable
+Airflow,1.0,1.0,1.0,9,stable
+Azure,1.0,1.0,1.0,4,stable
+Ansible,1.0,1.0,0.0,3,stable
+Communication,1.0,1.0,1.0,5,stable
+Bash,1.0,1.0,0.0,2,stable
+BigQuery,1.0,1.0,1.0,5,stable
+CNN,1.0,1.0,0.0,2,stable
+Grafana,1.0,1.0,0.0,5,stable
+GraphQL,1.0,0.0,0.0,1,stable
+Computer Vision,1.0,1.0,0.0,5,stable
+Data Lake,1.0,0.0,0.0,1,stable
+Data Warehouse,1.0,1.0,0.0,2,stable
+Deep Learning,1.0,1.0,1.0,8,stable
+Data Visualization,1.0,0.0,0.0,1,stable
+Data Modeling,1.0,0.0,0.0,3,stable
+DynamoDB,1.0,1.0,0.0,1,stable
+ETL,1.0,1.0,0.0,5,stable
+Elasticsearch,1.0,0.0,0.0,1,stable
+ETL Pipeline,1.0,1.0,0.0,3,stable
+Flask,1.0,0.0,0.0,1,stable
+Fine-tuning,1.0,1.0,1.0,4,stable
+Django,1.0,0.0,0.0,2,stable
+Data Pipeline,1.0,0.0,0.0,1,stable
+Hypothesis Testing,1.0,1.0,0.0,3,stable
+Image Classification,1.0,1.0,0.0,2,stable
+GPT,1.0,1.0,1.0,5,stable
+GAN,1.0,0.0,0.0,1,stable
+Generative AI,1.0,1.0,0.0,3,stable
+GitHub,1.0,1.0,0.0,7,stable
+GitHub Actions,1.0,1.0,0.0,7,stable
+Google Cloud,1.0,1.0,0.0,1,stable
+Jenkins,1.0,1.0,0.0,4,stable
+ChromaDB,1.0,0.0,0.0,1,stable
+Classification,1.0,1.0,1.0,8,stable
+Clustering,1.0,1.0,0.0,2,stable
+BERT,1.0,1.0,1.0,5,stable
+A/B Testing,1.0,1.0,0.0,4,stable
+Agile,1.0,1.0,1.0,8,stable
+API Development,1.0,0.0,0.0,1,stable
+XGBoost,1.0,0.0,0.0,2,stable
+dbt,1.0,1.0,0.0,3,stable
+Vector Database,1.0,0.0,0.0,1,stable
+Vertex AI,1.0,2.0,0.0,3,stable
+Terraform,1.0,1.5,0.0,6,stable
+Hadoop,1.0,0.0,0.0,1,stable
+Hugging Face,1.0,1.0,1.0,4,stable
+LangChain,1.0,1.0,1.0,3,stable
+Model Deployment,1.0,1.0,0.0,3,stable
+MLflow,1.0,1.0,1.0,7,stable
+Machine Learning,1.0,1.0,1.0,6,stable
+Matplotlib,1.0,0.0,0.0,3,stable
+Model Training,1.0,0.0,0.0,1,stable
+Kafka,1.0,1.0,1.0,6,stable
+Kubeflow,1.0,1.5,0.0,3,stable
+LLM,1.0,1.0,1.0,5,stable
+Probability,1.0,1.0,1.0,2,stable
+Problem Solving,1.0,1.0,1.0,5,stable
+Model Serving,1.0,1.0,1.0,2,stable
+NER,1.0,0.0,0.0,1,stable
+Plotly,1.0,0.0,0.0,1,stable
+Power BI,1.0,1.0,0.0,4,stable
+Named Entity Recognition,1.0,1.0,1.0,2,stable
+Object Detection,1.0,1.0,0.0,3,stable
+Project Management,1.0,0.0,0.0,1,stable
+Redis,1.0,0.0,0.0,2,stable
+RAG,1.0,1.0,1.0,4,stable
+PySpark,1.0,1.0,0.0,2,stable
+Prompt Engineering,1.0,1.0,0.0,1,stable
+LightGBM,1.0,0.0,0.0,2,stable
+Linear Algebra,1.0,1.0,1.0,3,stable
+Linux,1.0,1.5,0.0,9,stable
+Seaborn,1.0,0.0,0.0,2,stable
+Retrieval Augmented Generation,1.0,0.0,0.0,1,stable
+SQL,1.0,1.0,1.0,13,stable
+SageMaker,1.0,1.0,0.0,5,stable
+Snowflake,1.0,1.0,1.0,4,stable
+Tableau,1.0,1.0,1.0,6,stable
+Transformers,1.0,1.0,1.0,6,stable
+Text Classification,1.0,1.0,1.0,5,stable
+Shell,1.0,1.0,0.0,2,stable
+Spark,1.0,1.0,1.0,8,stable
+Reinforcement Learning,1.0,1.0,0.0,1,stable
+Pandas,0.75,1.5,2.0,8,declining
+NLP,0.5,1.0,2.0,9,declining
+Agentic AI,0.0,0.0,1.0,2,rapidly_declining
+FAISS,0.0,0.0,1.0,2,rapidly_declining
+Bayesian,0.0,0.0,1.0,1,rapidly_declining
+Java,0.0,0.0,1.0,2,rapidly_declining
+Feature Engineering,0.0,0.0,1.0,4,rapidly_declining
+Pinecone,0.0,0.0,1.0,2,rapidly_declining
+MySQL,0.0,0.0,1.0,1,rapidly_declining
+LangGraph,0.0,0.0,1.0,2,rapidly_declining
+Microservices,0.0,0.0,1.0,2,rapidly_declining
+MongoDB,0.0,0.0,1.0,3,rapidly_declining
+Natural Language Processing,0.0,0.0,1.0,1,rapidly_declining
+Sentiment Analysis,0.0,0.0,1.0,3,rapidly_declining
+Scrum,0.0,0.0,1.0,1,rapidly_declining
+Regression,0.0,0.0,1.0,3,rapidly_declining
+REST API,0.0,0.0,1.0,2,rapidly_declining
+Statistics,0.0,0.0,1.0,4,rapidly_declining
+Speech Recognition,0.0,0.0,1.0,1,rapidly_declining
+Weaviate,0.0,0.0,1.0,1,rapidly_declining
+scikit-learn,0.0,0.0,1.0,6,rapidly_declining

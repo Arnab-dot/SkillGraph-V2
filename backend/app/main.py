@@ -7,7 +7,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
 from backend.app.config import settings
 from backend.app.database import init_db
-from backend.app.routes import jobs, skills, clusters, trends, resume, graph, forecast
+from backend.app.routes import jobs, skills, clusters, trends, resume, graph, forecast, match, pool, candidates
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -22,6 +22,9 @@ app.include_router(trends.router)
 app.include_router(resume.router)
 app.include_router(graph.router)
 app.include_router(forecast.router)
+app.include_router(match.router)
+app.include_router(pool.router)
+app.include_router(candidates.router)
 
 @app.get('/api/health', tags=['Health'])
 async def health_check():

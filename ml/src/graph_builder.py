@@ -76,6 +76,10 @@ def build_cooccurrence_graph(df: pd.DataFrame, min_cooccurrence: int=2, max_edge
         for s1, s2, jaccard, co_occur in edges:
             G.add_edge(s1, s2, weight=float(jaccard), co_occurrence=int(co_occur))
             
+        # Remove isolated nodes (degree = 0) to avoid noisy single-node communities
+        isolated_nodes = list(nx.isolates(G))
+        G.remove_nodes_from(isolated_nodes)
+            
         logger.info(f'Graph built: {G.number_of_nodes()} nodes, {G.number_of_edges()} edges')
         return G
 
