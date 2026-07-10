@@ -1,14 +1,16 @@
 import { Link, useLocation } from 'react-router-dom';
-import { BarChart3, Brain, TrendingUp, FileSearch, Network, Gauge, LineChart } from 'lucide-react';
+import { BarChart3, Brain, TrendingUp, FileSearch, Network, Gauge, LineChart, UserSearch, Users } from 'lucide-react';
 
 const navItems = [
-  { path: '/', label: 'Dashboard', icon: Gauge },
+  { path: '/dashboard', label: 'Dashboard', icon: Gauge },
   { path: '/market', label: 'Market', icon: BarChart3 },
   { path: '/clusters', label: 'Clusters', icon: Brain },
   { path: '/trends', label: 'Trends', icon: TrendingUp },
   { path: '/resume', label: 'Resume', icon: FileSearch },
   { path: '/graph', label: 'Graph', icon: Network },
   { path: '/forecast', label: 'Forecast', icon: LineChart },
+  { path: '/recruiter', label: 'Recruiter', icon: UserSearch },
+  { path: '/talent-pool', label: 'Talent Pool', icon: Users },
 ];
 
 export default function Navbar() {
@@ -19,8 +21,9 @@ export default function Navbar() {
       position: 'sticky',
       top: 0,
       zIndex: 50,
-      background: 'rgba(10, 10, 15, 0.85)',
-      backdropFilter: 'blur(16px)',
+      background: 'rgba(3, 3, 8, 0.65)',
+      backdropFilter: 'blur(20px) saturate(180%)',
+      WebkitBackdropFilter: 'blur(20px) saturate(180%)',
       borderBottom: '1px solid var(--border-color)',
       padding: '0 1.5rem',
     }}>
@@ -32,7 +35,7 @@ export default function Navbar() {
         margin: '0 auto',
         height: '64px',
       }}>
-        {}
+        {/* Brand Logo */}
         <Link to="/" style={{
           display: 'flex',
           alignItems: 'center',
@@ -47,7 +50,7 @@ export default function Navbar() {
             display: 'flex',
             alignItems: 'center',
             justifyContent: 'center',
-            boxShadow: '0 0 15px rgba(99, 102, 241, 0.3)',
+            boxShadow: '0 0 15px rgba(0, 240, 255, 0.35)',
           }}>
             <Brain size={20} color="white" />
           </div>
@@ -70,7 +73,7 @@ export default function Navbar() {
           }}>v2</span>
         </Link>
 
-        {}
+        {/* Navigation Links */}
         <div style={{ display: 'flex', gap: '0.25rem' }}>
           {navItems.map(({ path, label, icon: Icon }) => {
             const active = location.pathname === path;
@@ -86,21 +89,24 @@ export default function Navbar() {
                   borderRadius: 'var(--radius-sm)',
                   fontSize: '0.82rem',
                   fontWeight: active ? 600 : 400,
-                  color: active ? 'var(--accent-blue)' : 'var(--text-secondary)',
-                  background: active ? 'rgba(99, 102, 241, 0.1)' : 'transparent',
+                  color: active ? 'var(--accent-cyan)' : 'var(--text-secondary)',
+                  background: active ? 'rgba(0, 240, 255, 0.08)' : 'transparent',
+                  border: active ? '1px solid rgba(0, 240, 255, 0.15)' : '1px solid transparent',
                   textDecoration: 'none',
                   transition: 'all 0.2s ease',
                 }}
                 onMouseEnter={(e) => {
                   if (!active) {
                     e.currentTarget.style.color = 'var(--text-primary)';
-                    e.currentTarget.style.background = 'rgba(99, 102, 241, 0.06)';
+                    e.currentTarget.style.background = 'rgba(0, 240, 255, 0.05)';
+                    e.currentTarget.style.borderColor = 'rgba(0, 240, 255, 0.1)';
                   }
                 }}
                 onMouseLeave={(e) => {
                   if (!active) {
                     e.currentTarget.style.color = 'var(--text-secondary)';
                     e.currentTarget.style.background = 'transparent';
+                    e.currentTarget.style.borderColor = 'transparent';
                   }
                 }}
               >

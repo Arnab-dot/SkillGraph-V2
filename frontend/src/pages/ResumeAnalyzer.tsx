@@ -102,7 +102,7 @@ export default function ResumeAnalyzer() {
           </div>
 
           <button style={btnStyle} onClick={handleAnalyze} disabled={loading}>
-            {loading ? 'Analyzing...' : '🔍 Analyze Skill Gap'}
+            {loading ? 'Analyzing...' : 'Analyze Skill Gap'}
           </button>
         </div>
 

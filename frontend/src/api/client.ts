@@ -58,4 +58,29 @@ export const getGraph = () => client.get('/api/graph');
 export const getForecast = () => client.get('/api/forecast');
 export const getForecastEmerging = () => client.get('/api/forecast/emerging');
 
+
+// ── Recruiter Intelligence ──
+export const matchRank = (jd_text: string, top_n = 20) =>
+  client.post('/api/match/rank', { jd_text, top_n });
+
+export const getCandidates = (page = 1, limit = 50) =>
+  client.get('/api/candidates', { params: { page, limit } });
+
+export const getCandidate = (candidateId: string) =>
+  client.get(`/api/candidates/${candidateId}`);
+
+export const getPoolAnalytics = () => client.get('/api/pool/analytics');
+
+export const getCandidateSkillForecast = (candidateId: string) =>
+  client.get(`/api/candidates/${candidateId}/skill-forecast`);
+
+export const analyzeResumeV2 = (file: File, jd_text: string) => {
+  const fd = new FormData();
+  fd.append('file', file);
+  fd.append('jd_text', jd_text);
+  return client.post('/api/resume/analyze-v2', fd, {
+    headers: { 'Content-Type': 'multipart/form-data' },
+  });
+};
+
 export default client;
